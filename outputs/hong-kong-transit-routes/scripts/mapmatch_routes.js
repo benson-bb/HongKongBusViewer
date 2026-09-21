@@ -1,0 +1,23 @@
+const fs=require('fs');
+const path=require('path'), root=path.join(__dirname,'..','data');
+const roadsFile=path.join(root,'roads.geojsonl'), routesFile=path.join(root,'route-data.json'), out=path.join(root,'route-data-roads.json');
+const allowed=new Set(['motorway','motorway_link','trunk','trunk_link','primary','primary_link','secondary','secondary_link','tertiary','tertiary_link','residential','unclassified','service','living_street','road','busway']);
+const nodes=[], ids=new Map(), adj=[];
+function nodeId(p){const x=+p[0].toFixed(6),y=+p[1].toFixed(6),k=x+','+y;let id=ids.get(k);if(id===undefined){id=nodes.length;ids.set(k,id);nodes.push([x,y]);adj.push([])}return id}
+function addLine(cs){for(let i=1;i<cs.length;i++){const a=nodeId(cs[i-1]),b=nodeId(cs[i]);if(a===b)continue;const dx=(nodes[a][0]-nodes[b][0])*.925,dy=nodes[a][1]-nodes[b][1],w=Math.hypot(dx,dy);adj[a].push([b,w]);adj[b].push([a,w])}}
+for(const line of fs.readFileSync(roadsFile,'utf8').split(/\r?\n/)){if(!line)continue;const f=JSON.parse(line);if(!allowed.has(f.properties.highway))continue;const g=f.geometry;if(g.type==='LineString')addLine(g.coordinates);else if(g.type==='MultiLineString')g.coordinates.forEach(addLine)}
+console.log('graph',nodes.length,adj.reduce((s,a)=>s+a.length,0));
+const cell=.002, grid=new Map();
+nodes.forEach((p,i)=>{const k=Math.floor(p[0]/cell)+','+Math.floor(p[1]/cell);let a=grid.get(k);if(!a)grid.set(k,a=[]);a.push(i)});
+function snap(p){const gx=Math.floor(p[0]/cell),gy=Math.floor(p[1]/cell);let best=-1,bd=Infinity;for(let r=0;r<=3&&best<0;r++)for(let x=gx-r;x<=gx+r;x++)for(let y=gy-r;y<=gy+r;y++){if(r&&x>gx-r&&x<gx+r&&y>gy-r&&y<gy+r)continue;for(const i of grid.get(x+','+y)||[]){const q=nodes[i],d=(p[0]-q[0])**2+(p[1]-q[1])**2;if(d<bd){bd=d;best=i}}}return best}
+class Heap{constructor(){this.a=[]}push(x,p){const a=this.a;let i=a.length;a.push([x,p]);while(i){let q=(i-1)>>1;if(a[q][1]<=p)break;a[i]=a[q];i=q}a[i]=[x,p]}pop(){const a=this.a,top=a[0],last=a.pop();if(a.length){let i=0;while(1){let l=i*2+1;if(l>=a.length)break;let r=l+1,j=r<a.length&&a[r][1]<a[l][1]?r:l;if(a[j][1]>=last[1])break;a[i]=a[j];i=j}a[i]=last}return top}get length(){return this.a.length}}
+const cache=new Map();
+function astar(start,goal){if(start===goal)return [start];const ck=start<goal?start+'|'+goal:goal+'|'+start,cv=cache.get(ck);if(cv)return start<goal?cv:[...cv].reverse();const open=new Heap(),g=new Map([[start,0]]),came=new Map();const t=nodes[goal];open.push(start,0);let visits=0;
+  while(open.length&&visits++<25000){const [u,pri]=open.pop(),gu=g.get(u);const up=nodes[u],h=Math.hypot((up[0]-t[0])*.925,up[1]-t[1]);if(pri>gu+h+1e-10)continue;if(u===goal){const path=[];let v=u;while(v!==undefined){path.push(v);v=came.get(v)}path.reverse();cache.set(ck,start<goal?path:[...path].reverse());return path}for(const [v,w] of adj[u]){const ng=gu+w;if(ng<(g.get(v)??Infinity)){g.set(v,ng);came.set(v,u);const p=nodes[v];open.push(v,ng+Math.hypot((p[0]-t[0])*.925,p[1]-t[1]))}}}
+  return null}
+function simplify(points,tol=.0006){if(points.length<3)return points;const sq=tol*tol,keep=new Uint8Array(points.length);keep[0]=keep[points.length-1]=1;const st=[[0,points.length-1]];function d2(p,a,b){let x=a[0],y=a[1],dx=b[0]-x,dy=b[1]-y;if(dx||dy){const t=Math.max(0,Math.min(1,((p[0]-x)*dx+(p[1]-y)*dy)/(dx*dx+dy*dy)));x+=dx*t;y+=dy*t}dx=p[0]-x;dy=p[1]-y;return dx*dx+dy*dy}while(st.length){const[a,b]=st.pop();let m=sq,k=-1;for(let i=a+1;i<b;i++){const d=d2(points[i],points[a],points[b]);if(d>m){m=d;k=i}}if(k>=0){keep[k]=1;st.push([a,k],[k,b])}}return points.filter((_,i)=>keep[i]).map(p=>[+p[0].toFixed(5),+p[1].toFixed(5)])}
+const routes=JSON.parse(fs.readFileSync(routesFile,'utf8'));let ok=0,fail=0;
+for(let ri=0;ri<routes.length;ri++){const r=routes[ri];if(['FERRY','PTRAM','TRAM'].includes(r.a))continue;r.p=r.p.map(line=>{const snapped=line.map(snap);let result=[];for(let i=1;i<snapped.length;i++){const path=astar(snapped[i-1],snapped[i]);if(!path){fail++;if(!result.length)result.push(line[i-1]);result.push(line[i]);continue}ok++;const pts=path.map(id=>nodes[id]);if(result.length)pts.shift();result.push(...pts)}return simplify(result.length?result:line)});if(ri%100===0)console.log(ri,'cache',cache.size,'ok',ok,'fail',fail)}
+function encodeLine(line){let py=0,px=0,s='';function enc(v){v=v<0?~(v<<1):v<<1;while(v>=32){s+=String.fromCharCode((32|(v&31))+63);v>>=5}s+=String.fromCharCode(v+63)}for(const p of line){const y=Math.round(p[1]*1e5),x=Math.round(p[0]*1e5);enc(y-py);enc(x-px);py=y;px=x}return s}
+const packed=routes.map(r=>({i:r.i,a:r.a,s:r.s,n:r.n,e:r.p.map(encodeLine)}));
+fs.writeFileSync(out,JSON.stringify(packed));console.log({ok,fail,bytes:fs.statSync(out).size,cache:cache.size});
