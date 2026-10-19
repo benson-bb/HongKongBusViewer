@@ -238,29 +238,74 @@
     }
     return values;
   }
-  function mtrDirectionGroups(busStops, routeName) {
-    const groups = new Map();
-    for (const stop of busStops || []) {
-      const id = String(stop.busStopId || '');
-      if (!id.startsWith(routeName + '-')) continue;
-      const direction = (id.slice(routeName.length + 1).match(/^[A-Za-z]+/) || [''])[0];
-      if (!groups.has(direction)) groups.set(direction, []);
-      groups.get(direction).push(stop);
+  function mtrStopGroups(routeName) {
+    const line = String(routeName || '').toUpperCase(), groups = new Map();
+    for (const row of root.MtrBusStops || []) {
+      const routeId = String(row[0] || '').toUpperCase(), referenceId = String(row[8] || routeId).toUpperCase();
+      if (![routeId, referenceId].some(id => id === line || id.startsWith(line + '-'))) continue;
+      const groupKey = referenceId + '|' + String(row[1] || '');
+      if (!groups.has(groupKey)) groups.set(groupKey, []);
+      groups.get(groupKey).push(row);
     }
+    for (const rows of groups.values()) rows.sort((a, b) => Number(a[2]) - Number(b[2]));
     return [...groups.values()];
   }
-  async function mtrEta(route, options, signal) {
-    const body = await requestUrl(MTR_URL, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ language: options.lang === 'en' ? 'en' : 'zh', routeName: route.routeName }) }, signal).catch(() => null);
-    const named = (body?.busStop || []).filter(stop => [stop.busStopName, stop.busStopNameEn, stop.busStopNameTc, stop.name].some(n => normalizeName(n) === normalizeName(options.station.name)));
-    if (named.length) return named.flatMap(stop => (stop.bus || []).map(bus => { const seconds = Number(bus.arrivalTimeInSecond); const minutes = seconds > 0 && seconds < 108000 ? Math.max(1, Math.ceil(seconds / 60)) : minutesFrom(bus.arrivalTimeText); return Number.isFinite(minutes) ? { minutes } : null; }).filter(Boolean));
-    const groups = mtrDirectionGroups(body?.busStop, route.routeName);
-    const group = groups.sort((a, b) => Math.abs(a.length - route.stopCount) - Math.abs(b.length - route.stopCount))[0] || [];
-    const stop = group[Math.min(route.stopIndex, Math.max(0, group.length - 1))];
+  function mtrStopMatch(pattern, groups, options, liveStops) {
+    const localStops = pattern.stops || [], index = Number(pattern.stopIndex), local = localStops[index];
+    if (!local?.coordinates || !Number.isFinite(index)) return [];
+    const candidates = [];
+    for (const group of groups) for (let i = 0; i < group.length; i++) {
+      const row = group[i], id = String(row[3] || ''), schedule = liveStops.get(id);
+      if (!schedule) continue;
+      const point = [+row[5], +row[4]], direct = distance(options.station.coordinates, point);
+      const nameMatch = sameStopName(options.station.name, row[6]) || sameStopName(options.station.name, row[7]);
+      if (direct > (nameMatch ? 240 : 140)) continue;
+      let contextMatches = 0, contextDistance = 0;
+      for (const offset of [-1, 1]) {
+        const neighbour = localStops[index + offset];
+        if (!neighbour?.coordinates) continue;
+        const choices = group.filter((_, j) => offset < 0 ? j < i : j > i);
+        const nearest = choices.reduce((best, candidate) => {
+          const d = distance(neighbour.coordinates, [+candidate[5], +candidate[4]]);
+          return d < best ? d : best;
+        }, Infinity);
+        if (nearest <= 140) { contextMatches++; contextDistance += nearest; }
+      }
+      candidates.push({ schedule, id, direct, nameMatch, contextMatches, contextDistance,
+        score: direct - (nameMatch ? 35 : 0) + (contextMatches ? contextDistance / contextMatches * 0.35 : 35) });
+    }
+    candidates.sort((a, b) => b.contextMatches - a.contextMatches || a.score - b.score);
+    const best = candidates[0];
+    if (!best) return [];
+    const runnerUp = candidates.find(candidate => candidate.id !== best.id);
+    if (runnerUp && best.contextMatches === 0 && runnerUp.contextMatches === 0 && runnerUp.score - best.score < 24) return [];
+    return [best.schedule];
+  }
+  function mtrMinutes(bus) {
+    const arrivalRaw = bus.arrivalTimeInSecond;
+    const arrival = arrivalRaw == null || String(arrivalRaw).trim() === '' ? NaN : Number(arrivalRaw);
+    if (Number.isFinite(arrival) && arrival >= 0 && arrival < 108000) return Math.ceil(arrival / 60);
+    const departureRaw = bus.departureTimeInSecond;
+    const departure = departureRaw == null || String(departureRaw).trim() === '' ? NaN : Number(departureRaw);
+    if (Number.isFinite(departure) && departure > 0 && departure < 108000) return Math.ceil(departure / 60);
+    return minutesFrom(bus.arrivalTimeText);
+  }
+  async function mtrEta(route, options, signal, scheduleCache) {
+    const language = options.lang === 'en' ? 'en' : 'zh', cacheKey = language + '|' + route.routeName;
+    let schedule = scheduleCache?.get(cacheKey);
+    if (!schedule) {
+      schedule = requestUrl(MTR_URL, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ language, routeName: route.routeName }) }, signal).catch(() => null);
+      scheduleCache?.set(cacheKey, schedule);
+    }
+    const body = await schedule;
+    const busStops = Array.isArray(body?.busStop) ? body.busStop : [];
+    const liveStops = new Map(busStops.map(stop => [String(stop.busStopId || ''), stop]));
+    const groups = mtrStopGroups(route.routeName), matched = new Map();
+    for (const pattern of route.patterns || []) for (const stop of mtrStopMatch(pattern, groups, options, liveStops)) matched.set(String(stop.busStopId), stop);
     const values = [];
-    for (const bus of stop?.bus || []) {
-      const seconds = Number(bus.arrivalTimeInSecond);
-      const minutes = seconds > 0 && seconds < 108000 ? Math.max(1, Math.ceil(seconds / 60)) : minutesFrom(bus.arrivalTimeText);
-      if (Number.isFinite(minutes)) values.push({ minutes });
+    for (const [stopId, stop] of matched) for (const bus of stop.bus || []) {
+      const minutes = mtrMinutes(bus);
+      if (Number.isFinite(minutes)) values.push({ minutes, key: [stopId, bus.busId || bus.vehicleId || bus.busNo || minutes].join('|') });
     }
     return values;
   }
@@ -281,7 +326,7 @@
     for (const direction of directions) { const body = await requestUrl(HKKF_BASE + 'opendata/eta/' + id + '/' + direction, {}, signal).catch(() => null); rows.push(...dataArray(body)); }
     return rows.map(row => minutesFrom(row.ETA ?? row.eta ?? row.diff)).filter(Number.isFinite).map(minutes => ({ minutes }));
   }
-  async function providerValues(route, options, signal, meta) {
+  async function providerValues(route, options, signal, meta, mtrScheduleCache) {
     if (route.provider === 'kmb') {
       const result = matchStop(meta, options.station, [route]);
       if (!result.matches.length) return [];
@@ -299,7 +344,7 @@
     }
     if (route.provider === 'citybus') return citybusEta(route, options, signal);
     if (route.provider === 'gmb') return gmbEta(route, options, signal);
-    if (route.provider === 'mtr') return mtrEta(route, options, signal);
+    if (route.provider === 'mtr') return mtrEta(route, options, signal, mtrScheduleCache);
     if (route.provider === 'ferry') return ferryEta(route, signal);
     return [];
   }
@@ -342,9 +387,10 @@
         const needKmb = allRoutes.some(r => r.provider === 'kmb');
         const meta = needKmb ? await getMetadata() : null; if (disposed) return;
         clear(w[1]); const unavailable = [], allValues = new Map(), stamp = Date.now();
+        const mtrScheduleCache = new Map();
         await Promise.all(allRoutes.map(async route => {
           try {
-            const values = await providerValues(route, { ...options, station: { ...options.station, id: options.station.id } }, controller.signal, meta);
+            const values = await providerValues(route, { ...options, station: { ...options.station, id: options.station.id } }, controller.signal, meta, mtrScheduleCache);
             if (!values.length) { unavailable.push(route.number || route.name || route.routeName); return; }
             const id = String(route.id || route.number);
             allValues.set(id, (allValues.get(id) || []).concat(values));

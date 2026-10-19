@@ -16,7 +16,9 @@ Serve the project through localhost or an HTTPS host, then open `index.html` in 
 - Mobile touch and desktop controls
 - Live arrivals in the selected stop panel for KMB/LWB, Citybus, GMB, MTR bus, and supported HKKF ferry routes, with English, Traditional Chinese and Simplified Chinese labels
 
-The transit dataset is embedded in `index.html`. MapLibre is bundled in `vendor/`.
+The route and stop dataset is embedded in `index.html`; the small official MTR
+stop catalogue is bundled in `assets/mtr-bus-stops.js`. MapLibre is bundled in
+`vendor/`.
 
 ## Live arrivals
 
@@ -33,11 +35,11 @@ than one candidate qualifies. Different routes can resolve to different operator
 stop IDs. Repeated matches share one stop request, with at most four concurrent
 requests. Unresolved route directions are listed separately, and a failed stop
 request does not suppress successful arrivals from other stops. Citybus and GMB
-fallbacks match the selected stop by route-stop names or coordinates, while MTR
-bus schedules match published bus-stop names and HKKF uses published route and
-direction identifiers. HKKF coverage is limited to the four routes in its
-open-data ETA service. The bundled GTFS snapshot may differ from the current
-operator data.
+fallbacks match the selected stop by route-stop names or coordinates. MTR bus
+schedules use the local route pattern and published stop catalogue to resolve the
+exact MTR stop ID and direction. HKKF uses published route and direction
+identifiers and covers the four routes in its open-data ETA service. The bundled
+GTFS snapshot may differ from the current operator data.
 
 Predictions are filtered by route, direction, service type and stop sequence.
 The existing bus list shows up to three upcoming arrivals as numbers beside each
@@ -52,10 +54,13 @@ as current predictions. Times are displayed in Hong Kong time. Scheduled departu
 and fares remain separate from live arrivals. Joint routes query each available
 operator feed independently. Route geometry is not refreshed by the arrival APIs.
 
-Metadata is cached in memory and, when browser storage permits, locally until the
-next 05:00 Hong Kong time boundary. Browser access requires the API to permit the
-page's origin; use localhost or HTTPS hosting if opening the file directly fails.
-An API outage does not prevent use of the existing route map.
+The MTR stop catalogue comes from the official monthly MTR Bus & Feeder Bus Stops
+dataset at `https://opendata.mtr.com.hk/data/mtr_bus_stops.csv`; its compact copy
+is in `assets/mtr-bus-stops.js` so route matching works without a cross-origin
+catalogue request. KMB metadata is cached in memory and, when browser storage
+permits, locally until the next 05:00 Hong Kong time boundary. Browser access
+requires each live API to permit the page's origin; use localhost or HTTPS hosting
+if opening the file directly fails. An API outage does not prevent use of the map.
 
 Run matching checks with `node --test tests/kmb-eta.test.cjs`. Browser checks use
 `node tests/kmb-eta.browser.cjs` and `node tests/transit-eta.browser.cjs` with
