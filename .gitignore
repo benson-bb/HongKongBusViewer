@@ -2,6 +2,6 @@ data/*
 !data/Bus_routes_converted.json
 !data/routes-lod-low.geojson
 !data/routes-lod-intermediate.geojson
-!data/gtfs-current.zip
+!data/osm-ferry-overpass.json
 backups/
 .env

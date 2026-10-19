@@ -109,4 +109,19 @@ to comply with the applicable Google Maps Platform agreement.
 
 Check matching with `node --test tests/csdi-routes.test.cjs`.
 
+### Ferry route geometry
+
+Ferry geometry is supplemented from OpenStreetMap `route=ferry` relations and
+standalone ways. `data/osm-ferry-overpass.json` is the source snapshot; run
+`node scripts/import_osm_ferry_routes.cjs --write` to rematch route directions
+against the app's ferry terminals and regenerate `assets/osm-ferry-routes.js`.
+The importer snaps terminals to OSM paths, extracts the segment between them
+when OSM maps a longer service, and joins consecutive ferry legs through
+intermediate piers when needed. Ambiguous, unmatched and loop directions without
+a complete mapped path keep their bundled geometry. Ferry routes always use the
+highest-detail shape at every zoom level, without LOD switching. Ferry geometry
+is credited in the map attribution; the source data is © OpenStreetMap
+contributors and is available under the
+[Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/1-0/).
+
 Transit data is from the Hong Kong Transport Department. Road data and street tiles are © OpenStreetMap contributors. MapLibre's license is included in `vendor/MAPLIBRE-LICENSE.txt`.
