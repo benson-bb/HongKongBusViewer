@@ -2,5 +2,16 @@ data/*
 !data/Bus_routes_converted.json
 !data/routes-lod-low.geojson
 !data/routes-lod-intermediate.geojson
+!data/osm-ferry-overpass.json
+!data/osm-relation-18008886.xml
+!data/osm-relation-3264047.xml
+!data/osm-relation-3263757.xml
+!data/osm-relation-4088087.xml
+!data/osm-relation-4088368.xml
+!data/osm-relation-4088481.xml
+!data/osm-relation-4088517.xml
+!data/mtr-3d-railway.geojson
+!data/mtr-platform-amenities.geojson
+!data/mtr-platform-polygons.geojson
 backups/
 .env

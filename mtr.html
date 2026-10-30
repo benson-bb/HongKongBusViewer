@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="zh-Hant" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="description" content="香港港鐵路線及實時列車到站資訊地圖">
+  <meta name="theme-color" content="#f4f6f8">
+  <title>香港港鐵路線圖</title>
+  <link rel="icon" type="image/png" href="assets/site-logo.png">
+  <link rel="stylesheet" href="vendor/maplibre-gl.css">
+  <link rel="stylesheet" href="assets/mtr-viewer.css">
+  <script defer src="/_vercel/insights/script.js"></script>
+  <script defer src="https://cloud.umami.is/script.js" data-website-id="d3cee33b-4e31-4009-9795-13306bacfec5"></script>
+</head>
+<body>
+  <header class="toolbar" id="toolbar">
+    <div class="top">
+      <div class="brand">
+        <img class="site-logo" src="assets/site-logo.png" alt="">
+        <div class="brand-copy">
+          <h1 id="page-title">香港港鐵路線圖</h1>
+          <div class="meta" id="count">載入港鐵路線…</div>
+        </div>
+      </div>
+      <div class="controls">
+        <label><span id="basemap-label">底圖</span><select id="basemap"><option value="positron">Positron</option><option value="fiord-color">Fiord Color</option><option value="osm">OpenStreetMap</option></select></label>
+        <label><span id="line-label">路線</span><select id="line-select"><option value="">全部路線</option></select></label>
+        <label class="search-label"><span id="search-label">搜尋</span><div class="search-wrap"><input id="search" type="search" placeholder="搜尋路線或車站" autocomplete="off" aria-autocomplete="list" aria-controls="search-results" aria-expanded="false"><div class="search-results" id="search-results" role="listbox"></div></div></label>
+        <button type="button" class="tool-button" id="toggle-stations" aria-pressed="true">隱藏車站</button>
+      </div>
+    </div>
+    <div class="header-actions">
+    <a class="page-switch" href="index.html" title="巴士路線圖">巴士</a>
+    <button type="button" class="theme-toggle" id="theme-toggle" aria-pressed="false" aria-label="切換深色模式"><svg class="moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 15.4A8.4 8.4 0 0 1 8.6 4a8.5 8.5 0 1 0 11.4 11.4Z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg><svg class="sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="3.6" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 2v2.2M12 19.8V22M4.9 4.9l1.6 1.6m11 11 1.6 1.6M2 12h2.2M19.8 12H22M4.9 19.1l1.6-1.6m11-11 1.6-1.6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
+    <label class="language-picker" aria-label="語言"><svg class="language-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M3.5 12h17M12 3c2.4 2.5 3.6 5.5 3.6 9S14.4 18.5 12 21M12 3C9.6 5.5 8.4 8.5 8.4 12S9.6 18.5 12 21" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg><select class="language-select" id="language" aria-label="切換語言"><option value="tc" selected>繁體中文</option><option value="en">English</option></select></label>
+    </div>
+    <div class="legend" id="legend"><span><i class="legend-dot"></i>港鐵路線</span><span><i class="station-dot"></i>車站</span><span id="train-legend-item" hidden><i class="train-dot"></i><span id="train-legend-label">推算列車位置（非 GPS）</span></span><span id="railway-3d-legend" hidden><i class="railway-3d-dot"></i><span id="railway-3d-legend-label">站間高程為推算 · 青綠色輪廓為 CSDI 月台</span></span></div>
+    <button type="button" class="toolbar-toggle" id="toolbar-toggle" aria-expanded="true" aria-label="隱藏頂部面板"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 15 6-6 6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+  </header>
+  <main class="map-shell">
+    <div id="map" aria-label="可縮放及平移的香港港鐵路線圖"></div>
+    <div class="fare-controls" id="fare-controls" hidden>
+      <button type="button" class="tool-button fare-toggle" id="toggle-fares" aria-pressed="false" aria-expanded="false" aria-controls="fare-card-control">車費：關</button>
+      <label class="fare-card-label" id="fare-card-control" for="fare-card" hidden><span id="fare-card-label">八達通類別</span><select id="fare-card">
+        <option value="adult">成人</option><option value="student">學生</option><option value="child">小童</option><option value="elderly">長者</option><option value="joyyou60">樂悠咭 60+</option><option value="disability">殘疾人士</option>
+      </select></label>
+      <div class="fare-legend" id="fare-legend" hidden aria-live="polite"><strong id="fare-legend-title">各站八達通車費</strong><div class="fare-class-list" id="fare-classes" role="list"></div><small id="fare-note"></small></div>
+    </div>
+    <section class="detail muted" id="detail" aria-live="polite"><span id="instruction">選擇路線或車站查看資料及實時到站時間。</span></section>
+    <aside class="route-panel" id="route-panel" aria-labelledby="route-panel-title" aria-hidden="true">
+      <div class="panel-head"><div><h2 id="route-panel-title">路線車站</h2><small id="route-panel-subtitle"></small></div><button type="button" class="panel-close" id="panel-close" aria-label="關閉">×</button></div>
+      <label class="direction-picker"><span id="direction-label">方向</span><select id="direction-select"></select></label>
+      <div class="station-list" id="station-list"></div>
+    </aside>
+    <div class="error" id="error" role="alert"></div>
+    <div class="map-attribution-note" id="map-attribution-note">路線及車站位置：© OpenStreetMap contributors · 車站資料：MTR Corporation · 月台高度及形狀：地政總署 CSDI</div>
+  </main>
+  <script src="vendor/maplibre-gl.js"></script>
+  <script src="assets/trailsta-basemaps.js"></script>
+  <script src="assets/mtr-hit-test.js"></script>
+  <script src="assets/mtr-live-trains.js"></script>
+  <script src="assets/mtr-3d-railways.js"></script>
+  <script src="assets/mtr-viewer.js"></script>
+</body>
+</html>
+

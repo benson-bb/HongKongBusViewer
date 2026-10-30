@@ -1,0 +1,3337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (2062 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="257006530" visible="true" version="10" changeset="76245552" timestamp="2019-10-26T15:04:44Z" user="Wright One" uid="261189" lat="22.2805409" lon="114.2240356"/>
+ <node id="257006535" visible="true" version="8" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2813939" lon="114.2224785">
+  <tag k="railway" v="crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="274479670" visible="true" version="16" changeset="138187719" timestamp="2023-07-06T12:58:55Z" user="HolloWorld" uid="6946532" lat="22.2763351" lon="114.1806197">
+  <tag k="railway" v="level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="292204839" visible="true" version="7" changeset="99672657" timestamp="2021-02-21T09:39:20Z" user="Kovoschiz" uid="6250193" lat="22.2697911" lon="114.1839861">
+  <tag k="railway" v="switch"/>
+  <tag k="railway:turnout_side" v="right"/>
+ </node>
+ <node id="292204840" visible="true" version="6" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2697761" lon="114.1839331"/>
+ <node id="292204843" visible="true" version="9" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2699517" lon="114.1830693"/>
+ <node id="292204847" visible="true" version="7" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2716897" lon="114.1803595"/>
+ <node id="292204848" visible="true" version="8" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2718987" lon="114.1801014"/>
+ <node id="292204869" visible="true" version="9" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2735234" lon="114.1794847"/>
+ <node id="292204870" visible="true" version="9" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2749426" lon="114.1796953"/>
+ <node id="292204872" visible="true" version="12" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2760759" lon="114.1807211"/>
+ <node id="292204940" visible="true" version="8" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2718628" lon="114.1801308"/>
+ <node id="292204941" visible="true" version="11" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2761080" lon="114.1807274"/>
+ <node id="292205443" visible="true" version="9" changeset="161166313" timestamp="2025-01-09T11:41:38Z" user="Wright One" uid="261189" lat="22.2698375" lon="114.1842709">
+  <tag k="name" v="跑馬地總站 Happy Valley Terminus"/>
+  <tag k="name:en" v="Happy Valley Terminus"/>
+  <tag k="name:zh" v="跑馬地總站"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="HVT"/>
+  <tag k="supervised" v="yes"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="366748693" visible="true" version="11" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2837807" lon="114.2206136">
+  <tag k="railway" v="level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="388078171" visible="true" version="9" changeset="76247484" timestamp="2019-10-26T16:33:20Z" user="Wright One" uid="261189" lat="22.2828594" lon="114.2213335"/>
+ <node id="388078520" visible="true" version="11" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2822183" lon="114.2218211">
+  <tag k="railway" v="crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="440627976" visible="true" version="8" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2821170" lon="114.2218895">
+  <tag k="railway" v="level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="440964580" visible="true" version="11" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2820176" lon="114.2219660">
+  <tag k="railway" v="level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="487077101" visible="true" version="5" changeset="76247484" timestamp="2019-10-26T16:33:20Z" user="Wright One" uid="261189" lat="22.2843588" lon="114.2201602"/>
+ <node id="660415724" visible="true" version="6" changeset="167897105" timestamp="2025-06-21T03:45:16Z" user="Wright One" uid="261189" lat="22.2852688" lon="114.2114107"/>
+ <node id="660415725" visible="true" version="7" changeset="167897105" timestamp="2025-06-21T03:45:16Z" user="Wright One" uid="261189" lat="22.2850662" lon="114.2116091"/>
+ <node id="977634114" visible="true" version="6" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2766619" lon="114.1803256"/>
+ <node id="977634115" visible="true" version="13" changeset="97501577" timestamp="2021-01-14T14:48:34Z" user="Kovoschiz" uid="6250193" lat="22.2787784" lon="114.1796533">
+  <tag k="railway" v="railway_crossing"/>
+ </node>
+ <node id="982684035" visible="true" version="13" changeset="190535361" timestamp="2026-10-15T04:00:04Z" user="vectorial8192" uid="10815817" lat="22.2794689" lon="114.1877139">
+  <tag k="railway" v="level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="982743776" visible="true" version="6" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2737844" lon="114.1794238"/>
+ <node id="982743780" visible="true" version="6" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2741549" lon="114.1794084"/>
+ <node id="982743784" visible="true" version="9" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2743981" lon="114.1794494">
+  <tag k="name" v="皇后大道東 Queen's Road East"/>
+  <tag k="name:en" v="Queen's Road East"/>
+  <tag k="name:zh" v="皇后大道東"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="110"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="982743787" visible="true" version="6" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2747400" lon="114.1795772"/>
+ <node id="984409302" visible="true" version="5" changeset="76245552" timestamp="2019-10-26T15:04:44Z" user="Wright One" uid="261189" lat="22.2811202" lon="114.2228335"/>
+ <node id="984409308" visible="true" version="12" changeset="159350647" timestamp="2024-11-20T04:49:48Z" user="Obanazawa Kuri" uid="17453820" lat="22.2778906" lon="114.2301671">
+  <tag k="name" v="筲箕灣總站 Shau Kei Wan Terminus"/>
+  <tag k="name:en" v="Shau Kei Wan Terminus"/>
+  <tag k="name:zh" v="筲箕灣總站"/>
+  <tag k="name:zh-Hans" v="筲箕湾总站"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="SKT"/>
+  <tag k="tram" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+  <tag k="wikidata" v="Q18646226"/>
+ </node>
+ <node id="984409330" visible="true" version="6" changeset="76245552" timestamp="2019-10-26T15:04:44Z" user="Wright One" uid="261189" lat="22.2812399" lon="114.2226622"/>
+ <node id="984409385" visible="true" version="7" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2778397" lon="114.2300691"/>
+ <node id="984409415" visible="true" version="7" changeset="76245552" timestamp="2019-10-26T15:04:44Z" user="Wright One" uid="261189" lat="22.2813431" lon="114.2225356"/>
+ <node id="990023294" visible="true" version="6" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2911744" lon="114.2087688"/>
+ <node id="990625759" visible="true" version="14" changeset="154548643" timestamp="2024-07-29T07:18:07Z" user="Wright One" uid="261189" lat="22.2780548" lon="114.1798038">
+  <tag k="level_crossing" v="traffic_signals"/>
+  <tag k="railway" v="level_crossing"/>
+  <tag k="ref" v="H038"/>
+  <tag k="traffic_signals" v="signal"/>
+  <tag k="traffic_signals:ref" v="H038"/>
+ </node>
+ <node id="1004684535" visible="true" version="6" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2778639" lon="114.2300906"/>
+ <node id="1012751934" visible="true" version="12" changeset="97501577" timestamp="2021-01-14T14:48:34Z" user="Kovoschiz" uid="6250193" lat="22.2787094" lon="114.1796173">
+  <tag k="intersection" v="offset"/>
+  <tag k="level_crossing" v="traffic_signals"/>
+  <tag k="railway" v="level_crossing"/>
+  <tag k="ref" v="H002"/>
+  <tag k="traffic_signals" v="signal"/>
+ </node>
+ <node id="1012751961" visible="true" version="3" changeset="50793477" timestamp="2017-08-02T23:50:24Z" user="FlyTy" uid="6095805" lat="22.2700423" lon="114.1829341"/>
+ <node id="1012752101" visible="true" version="13" changeset="88187743" timestamp="2020-07-18T22:27:21Z" user="Kovoschiz" uid="6250193" lat="22.2780960" lon="114.1797890">
+  <tag k="level_crossing" v="traffic_signals"/>
+  <tag k="railway" v="level_crossing"/>
+  <tag k="ref" v="H038"/>
+  <tag k="traffic_signals" v="signal"/>
+  <tag k="traffic_signals:ref" v="H038"/>
+ </node>
+ <node id="1012752115" visible="true" version="7" changeset="99718142" timestamp="2021-02-22T06:30:47Z" user="Kovoschiz" uid="6250193" lat="22.2698906" lon="114.1831858">
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="1012752139" visible="true" version="7" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2761600" lon="114.1807288"/>
+ <node id="1299465468" visible="true" version="5" changeset="83195047" timestamp="2020-04-07T11:39:24Z" user="Wright One" uid="261189" lat="22.2697538" lon="114.1838164"/>
+ <node id="1618530654" visible="true" version="6" changeset="154548643" timestamp="2024-07-29T07:18:07Z" user="Wright One" uid="261189" lat="22.2782544" lon="114.1797343"/>
+ <node id="1623825532" visible="true" version="9" changeset="166694319" timestamp="2025-05-24T12:12:18Z" user="Wright One" uid="261189" lat="22.2793484" lon="114.1872280"/>
+ <node id="1623825535" visible="true" version="12" changeset="166694319" timestamp="2025-05-24T12:12:18Z" user="Wright One" uid="261189" lat="22.2793460" lon="114.1872620">
+  <tag k="railway" v="railway_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="1623825543" visible="true" version="9" changeset="166694319" timestamp="2025-05-24T12:12:18Z" user="Wright One" uid="261189" lat="22.2794056" lon="114.1876003"/>
+ <node id="1623825560" visible="true" version="10" changeset="162837190" timestamp="2025-02-23T02:11:37Z" user="cnvery" uid="3627342" lat="22.2796138" lon="114.1879382">
+  <tag k="name" v="信德街 Shelter Street"/>
+  <tag k="name:en" v="Shelter Street"/>
+  <tag k="name:zh" v="信德街"/>
+  <tag k="name:zh-Hans" v="信德街"/>
+  <tag k="name:zh-Hant" v="信德街"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="55E"/>
+  <tag k="tram" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="1623825582" visible="true" version="9" changeset="76859372" timestamp="2019-11-10T04:22:54Z" user="Wright One" uid="261189" lat="22.2804816" lon="114.1892456">
+  <tag k="name" v="維多利亞公園 Victoria Park"/>
+  <tag k="name:en" v="Victoria Park"/>
+  <tag k="name:zh" v="維多利亞公園"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="57E"/>
+  <tag k="tram" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="1623825585" visible="true" version="8" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2818873" lon="114.1913256">
+  <tag k="railway" v="level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="1623825586" visible="true" version="6" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2821829" lon="114.1917587"/>
+ <node id="1623825587" visible="true" version="6" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2822747" lon="114.1918637"/>
+ <node id="1623825588" visible="true" version="6" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2823773" lon="114.1919602"/>
+ <node id="1623825591" visible="true" version="6" changeset="148894328" timestamp="2024-03-20T06:39:38Z" user="Wright One" uid="261189" lat="22.2826676" lon="114.1921469"/>
+ <node id="1653118341" visible="true" version="4" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2778872" lon="114.2301392"/>
+ <node id="1898227196" visible="true" version="9" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2902627" lon="114.1957327">
+  <tag k="railway" v="level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="1898227198" visible="true" version="7" changeset="80105846" timestamp="2020-01-26T18:37:47Z" user="Kovoschiz" uid="6250193" lat="22.2904318" lon="114.1965341">
+  <tag k="railway" v="switch"/>
+ </node>
+ <node id="1898227202" visible="true" version="7" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2908846" lon="114.1987349">
+  <tag k="railway" v="railway_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="1898227224" visible="true" version="8" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2912063" lon="114.2002952">
+  <tag k="railway" v="level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="1898227230" visible="true" version="7" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2914833" lon="114.2016514">
+  <tag k="railway" v="level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="1898227251" visible="true" version="8" changeset="97875309" timestamp="2021-01-21T05:30:15Z" user="Wright One" uid="261189" lat="22.2917757" lon="114.2030889">
+  <tag k="intersection" v="traffic_signals"/>
+  <tag k="railway" v="level_crossing"/>
+  <tag k="ref" v="H093"/>
+  <tag k="traffic_signals" v="signal"/>
+  <tag k="traffic_signals:ref" v="H093"/>
+ </node>
+ <node id="1898291217" visible="true" version="4" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2829446" lon="114.1922798"/>
+ <node id="1898291219" visible="true" version="4" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2832082" lon="114.1924033"/>
+ <node id="1898291222" visible="true" version="4" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2834794" lon="114.1925041"/>
+ <node id="1898291226" visible="true" version="8" changeset="148894328" timestamp="2024-03-20T06:39:38Z" user="Wright One" uid="261189" lat="22.2842327" lon="114.1926662"/>
+ <node id="1898291228" visible="true" version="4" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2845026" lon="114.1927256"/>
+ <node id="1898291230" visible="true" version="7" changeset="76602217" timestamp="2019-11-04T15:54:52Z" user="Wright One" uid="261189" lat="22.2847423" lon="114.1927785"/>
+ <node id="1898291240" visible="true" version="8" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2850051" lon="114.1928383">
+  <tag k="name" v="永興街 Wing Hing Street"/>
+  <tag k="name:en" v="Wing Hing Street"/>
+  <tag k="name:zh" v="永興街"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="61E"/>
+  <tag k="tram" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="1898291245" visible="true" version="9" changeset="97500208" timestamp="2021-01-14T14:18:24Z" user="Kovoschiz" uid="6250193" lat="22.2853213" lon="114.1928949">
+  <tag k="level_crossing" v="traffic_signals"/>
+  <tag k="railway" v="level_crossing"/>
+  <tag k="ref" v="H073"/>
+  <tag k="traffic_signals:ref" v="H073"/>
+ </node>
+ <node id="1898291249" visible="true" version="5" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2854805" lon="114.1929112"/>
+ <node id="1898291253" visible="true" version="4" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2856914" lon="114.1929216"/>
+ <node id="1898291254" visible="true" version="5" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2858696" lon="114.1929203"/>
+ <node id="1898291256" visible="true" version="9" changeset="113230546" timestamp="2021-11-01T11:10:45Z" user="Wright One" uid="261189" lat="22.2865000" lon="114.1928900">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="railway" v="crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="1898291257" visible="true" version="5" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2868964" lon="114.1928689"/>
+ <node id="1898291260" visible="true" version="5" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2870244" lon="114.1928642"/>
+ <node id="1898291263" visible="true" version="5" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2871431" lon="114.1928680"/>
+ <node id="1898291265" visible="true" version="5" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2872698" lon="114.1928809"/>
+ <node id="1898291269" visible="true" version="5" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2874402" lon="114.1929184"/>
+ <node id="1898291271" visible="true" version="4" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2876236" lon="114.1929854"/>
+ <node id="1898291273" visible="true" version="4" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2877747" lon="114.1930696"/>
+ <node id="1898291275" visible="true" version="7" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2880739" lon="114.1933007">
+  <tag k="railway" v="level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="1898291277" visible="true" version="8" changeset="101749764" timestamp="2021-03-25T23:54:22Z" user="Kovoschiz" uid="6250193" lat="22.2895000" lon="114.1945812">
+  <tag k="intersection" v="normal"/>
+  <tag k="level_crossing" v="traffic_signals"/>
+  <tag k="railway" v="level_crossing"/>
+  <tag k="ref" v="H050"/>
+  <tag k="traffic_signals" v="signal"/>
+  <tag k="traffic_signals:ref" v="H050"/>
+ </node>
+ <node id="1898291279" visible="true" version="7" changeset="164207875" timestamp="2025-03-28T13:22:44Z" user="Wright One" uid="261189" lat="22.2899210" lon="114.1949741"/>
+ <node id="1898291281" visible="true" version="6" changeset="164207875" timestamp="2025-03-28T13:22:44Z" user="Wright One" uid="261189" lat="22.2898833" lon="114.1949348"/>
+ <node id="1898291283" visible="true" version="7" changeset="164207875" timestamp="2025-03-28T13:22:44Z" user="Wright One" uid="261189" lat="22.2899972" lon="114.1950678"/>
+ <node id="1898291285" visible="true" version="7" changeset="164207875" timestamp="2025-03-28T13:22:44Z" user="Wright One" uid="261189" lat="22.2900949" lon="114.1952176"/>
+ <node id="1898291287" visible="true" version="9" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2901557" lon="114.1953469">
+  <tag k="railway" v="level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="1898291290" visible="true" version="5" changeset="76281849" timestamp="2019-10-28T04:30:16Z" user="Wright One" uid="261189" lat="22.2902375" lon="114.1956090"/>
+ <node id="1898507940" visible="true" version="9" changeset="159793691" timestamp="2024-12-01T03:15:58Z" user="cnvery" uid="3627342" lat="22.2817408" lon="114.1911081">
+  <tag k="name" v="興發街 Hing Fat Street"/>
+  <tag k="name:en" v="Hing Fat Street"/>
+  <tag k="name:zh" v="興發街"/>
+  <tag k="name:zh-Hans" v="兴发街"/>
+  <tag k="name:zh-Hant" v="興發街"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="59E"/>
+  <tag k="tram" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="1898508000" visible="true" version="8" changeset="166694319" timestamp="2025-05-24T12:12:18Z" user="Wright One" uid="261189" lat="22.2793818" lon="114.1875426"/>
+ <node id="1898508018" visible="true" version="8" changeset="166694319" timestamp="2025-05-24T12:12:18Z" user="Wright One" uid="261189" lat="22.2793532" lon="114.1872004"/>
+ <node id="1898508027" visible="true" version="8" changeset="166694319" timestamp="2025-05-24T12:12:18Z" user="Wright One" uid="261189" lat="22.2793605" lon="114.1871633"/>
+ <node id="1898508034" visible="true" version="12" changeset="166694319" timestamp="2025-05-24T12:12:18Z" user="Wright One" uid="261189" lat="22.2793638" lon="114.1874831"/>
+ <node id="1898508042" visible="true" version="9" changeset="166694319" timestamp="2025-05-24T12:12:18Z" user="Wright One" uid="261189" lat="22.2794320" lon="114.1869281">
+  <tag k="railway" v="switch"/>
+  <tag k="railway:turnout_side" v="left"/>
+ </node>
+ <node id="1898508066" visible="true" version="12" changeset="166694319" timestamp="2025-05-24T12:12:18Z" user="Wright One" uid="261189" lat="22.2794348" lon="114.1869184">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="crossing:island" v="left"/>
+  <tag k="kerb:left" v="flush"/>
+  <tag k="kerb:right" v="no"/>
+  <tag k="railway" v="crossing"/>
+  <tag k="ref" v="H146"/>
+  <tag k="road_marking" v="zebra"/>
+  <tag k="road_marking:colour" v="yellow"/>
+  <tag k="tactile_paving:left" v="yes"/>
+  <tag k="tactile_paving:left:colour" v="yellow"/>
+  <tag k="tactile_paving:right" v="no"/>
+  <tag k="traffic_signals" v="signal"/>
+  <tag k="traffic_signals:ref" v="H146"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="1898508078" visible="true" version="7" changeset="166694319" timestamp="2025-05-24T12:12:18Z" user="Wright One" uid="261189" lat="22.2793451" lon="114.1873644"/>
+ <node id="1898508081" visible="true" version="7" changeset="166694319" timestamp="2025-05-24T12:12:18Z" user="Wright One" uid="261189" lat="22.2794787" lon="114.1867809"/>
+ <node id="1898508086" visible="true" version="7" changeset="166694319" timestamp="2025-05-24T12:12:18Z" user="Wright One" uid="261189" lat="22.2793437" lon="114.1872955"/>
+ <node id="1898508203" visible="true" version="7" changeset="119143426" timestamp="2022-03-31T06:32:52Z" user="GasaiYuno" uid="10054182" lat="22.2818466" lon="114.1912655">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="railway" v="crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="2007744664" visible="true" version="11" changeset="162524465" timestamp="2025-02-15T03:24:04Z" user="cnvery" uid="3627342" lat="22.2785050" lon="114.1796517">
+  <tag k="name" v="天樂里 Tin Lok Lane"/>
+  <tag k="name:en" v="Tin Lok Lane"/>
+  <tag k="name:zh" v="天樂里"/>
+  <tag k="name:zh-Hans" v="天乐里"/>
+  <tag k="name:zh-Hant" v="天樂里"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="112"/>
+  <tag k="tram" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="2099848102" visible="true" version="10" changeset="159554739" timestamp="2024-11-25T01:52:34Z" user="cnvery" uid="3627342" lat="22.2891424" lon="114.1942595">
+  <tag k="name" v="炮台山 Fortress Hill"/>
+  <tag k="name:en" v="Fortress Hill"/>
+  <tag k="name:zh" v="炮台山"/>
+  <tag k="name:zh-Hans" v="炮台山"/>
+  <tag k="name:zh-Hant" v="炮台山"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="65E"/>
+  <tag k="tram" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="2099848103" visible="true" version="11" changeset="159793691" timestamp="2024-12-01T03:15:58Z" user="cnvery" uid="3627342" lat="22.2864134" lon="114.1928947">
+  <tag k="name" v="木星街 Jupiter Street"/>
+  <tag k="name:en" v="Jupiter Street"/>
+  <tag k="name:zh" v="木星街"/>
+  <tag k="name:zh-Hans" v="木星街"/>
+  <tag k="name:zh-Hant" v="木星街"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="63E"/>
+  <tag k="tram" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="2099848106" visible="true" version="7" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2843291" lon="114.1926877">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="railway" v="crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="2099848150" visible="true" version="7" changeset="101749764" timestamp="2021-03-25T23:54:22Z" user="Kovoschiz" uid="6250193" lat="22.2881583" lon="114.1933759">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="2099848170" visible="true" version="6" changeset="101749764" timestamp="2021-03-25T23:54:22Z" user="Kovoschiz" uid="6250193" lat="22.2892546" lon="114.1943613">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="crossing:island" v="separate"/>
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="2300360770" visible="true" version="15" changeset="162683192" timestamp="2025-02-19T02:30:15Z" user="cnvery" uid="3627342" lat="22.2800234" lon="114.1829275">
+  <tag k="name" v="波斯富街 Percival Street"/>
+  <tag k="name:en" v="Percival Street"/>
+  <tag k="name:zh" v="波斯富街"/>
+  <tag k="name:zh-Hans" v="波斯富街"/>
+  <tag k="name:zh-Hant" v="波斯富街"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="51E"/>
+  <tag k="tram" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="2300434248" visible="true" version="13" changeset="162683192" timestamp="2025-02-19T02:30:15Z" user="cnvery" uid="3627342" lat="22.2796898" lon="114.1861371">
+  <tag k="name" v="百德新街 Paterson Street"/>
+  <tag k="name:en" v="Paterson Street"/>
+  <tag k="name:zh" v="百德新街"/>
+  <tag k="name:zh-Hans" v="百德新街"/>
+  <tag k="name:zh-Hant" v="百德新街"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="53E"/>
+  <tag k="tram" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="2300434323" visible="true" version="7" changeset="97501577" timestamp="2021-01-14T14:48:34Z" user="Kovoschiz" uid="6250193" lat="22.2785799" lon="114.1796257">
+  <tag k="railway" v="switch"/>
+  <tag k="railway:switch" v="wye"/>
+ </node>
+ <node id="2300434349" visible="true" version="8" changeset="97501577" timestamp="2021-01-14T14:48:34Z" user="Kovoschiz" uid="6250193" lat="22.2788236" lon="114.1797147">
+  <tag k="railway" v="switch"/>
+  <tag k="railway:turnout_side" v="right"/>
+ </node>
+ <node id="2300434353" visible="true" version="10" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2788452" lon="114.1797729">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="crossing:island" v="yes"/>
+  <tag k="railway" v="crossing"/>
+  <tag k="ref" v="H002"/>
+  <tag k="ref:TD" v="H002"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="2300434361" visible="true" version="16" changeset="162557247" timestamp="2025-02-16T02:51:47Z" user="cnvery" uid="3627342" lat="22.2792254" lon="114.1807835">
+  <tag k="name" v="堅拿道西 Canal Road West"/>
+  <tag k="name:en" v="Canal Road West"/>
+  <tag k="name:zh" v="堅拿道西"/>
+  <tag k="name:zh-Hans" v="坚拿道西"/>
+  <tag k="name:zh-Hant" v="堅拿道西"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="49E"/>
+  <tag k="tram" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="2300434402" visible="true" version="7" changeset="80105846" timestamp="2020-01-26T18:37:47Z" user="Kovoschiz" uid="6250193" lat="22.2798467" lon="114.1824525">
+  <tag k="railway" v="switch"/>
+ </node>
+ <node id="2300434411" visible="true" version="11" changeset="156565119" timestamp="2024-09-13T10:22:29Z" user="Kovoschiz" uid="6250193" lat="22.2799204" lon="114.1826561">
+  <tag k="railway" v="level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="2300434443" visible="true" version="10" changeset="181778972" timestamp="2026-04-24T18:38:28Z" user="Kovoschiz" uid="6250193" lat="22.2797983" lon="114.1857970">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="crossing:island" v="separate"/>
+  <tag k="crossing:kerb" v="separate"/>
+  <tag k="crossing:markings" v="zebra;dots"/>
+  <tag k="crossing:markings:colour" v="yellow;unknown"/>
+  <tag k="crossing:markings:structure" v="paint;unknown"/>
+  <tag k="crossing:signals" v="dedicated"/>
+  <tag k="railway" v="crossing"/>
+  <tag k="ref" v="H465"/>
+  <tag k="tactile_paving" v="kerb"/>
+  <tag k="traffic_signals" v="signal"/>
+  <tag k="traffic_signals:ref" v="H465"/>
+ </node>
+ <node id="2300434448" visible="true" version="6" changeset="76763479" timestamp="2019-11-07T14:45:28Z" user="Wright One" uid="261189" lat="22.2800767" lon="114.1830712"/>
+ <node id="2300434449" visible="true" version="7" changeset="76787952" timestamp="2019-11-08T06:27:39Z" user="Wright One" uid="261189" lat="22.2800991" lon="114.1831554"/>
+ <node id="2300434451" visible="true" version="6" changeset="76787952" timestamp="2019-11-08T06:27:39Z" user="Wright One" uid="261189" lat="22.2801460" lon="114.1846960"/>
+ <node id="2300434454" visible="true" version="7" changeset="76787952" timestamp="2019-11-08T06:27:39Z" user="Wright One" uid="261189" lat="22.2801049" lon="114.1832136"/>
+ <node id="2300434462" visible="true" version="8" changeset="82973406" timestamp="2020-04-02T10:51:29Z" user="Wright One" uid="261189" lat="22.2801302" lon="114.1847579"/>
+ <node id="2300434464" visible="true" version="6" changeset="82973406" timestamp="2020-04-02T10:51:29Z" user="Wright One" uid="261189" lat="22.2801095" lon="114.1848245"/>
+ <node id="2394103584" visible="true" version="4" changeset="76280110" timestamp="2019-10-28T01:38:17Z" user="Wright One" uid="261189" lat="22.2920597" lon="114.2044144"/>
+ <node id="2394103589" visible="true" version="8" changeset="147220305" timestamp="2024-02-08T14:27:49Z" user="Kovoschiz" uid="6250193" lat="22.2920879" lon="114.2045708">
+  <tag k="level_crossing" v="traffic_signals"/>
+  <tag k="railway" v="level_crossing"/>
+  <tag k="traffic_signals" v="signal"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="2705355319" visible="true" version="8" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2798669" lon="114.1825087">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="railway" v="level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="2941502483" visible="true" version="6" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2805714" lon="114.2239656">
+  <tag k="railway" v="level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="2941502499" visible="true" version="3" changeset="76247484" timestamp="2019-10-26T16:33:20Z" user="Wright One" uid="261189" lat="22.2847831" lon="114.2196270"/>
+ <node id="2941505302" visible="true" version="5" changeset="87113210" timestamp="2020-06-25T08:38:39Z" user="Metrohsrtheedit" uid="7030314" lat="22.2845851" lon="114.2199437">
+  <tag k="crossing" v="no"/>
+  <tag k="description" v="香港電車 Hong Kong Tramways"/>
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="highway:ref" v="H152"/>
+  <tag k="level_crossing" v="separate"/>
+  <tag k="railway" v="signal"/>
+  <tag k="ref" v="H152"/>
+  <tag k="traffic_signals:ref" v="H152"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="2941505304" visible="true" version="3" changeset="76247484" timestamp="2019-10-26T16:33:20Z" user="Wright One" uid="261189" lat="22.2846412" lon="114.2198702"/>
+ <node id="2941505308" visible="true" version="3" changeset="76247484" timestamp="2019-10-26T16:33:20Z" user="Wright One" uid="261189" lat="22.2846959" lon="114.2197910"/>
+ <node id="2941505310" visible="true" version="3" changeset="76255656" timestamp="2019-10-27T01:35:38Z" user="Wright One" uid="261189" lat="22.2846554" lon="114.2171497"/>
+ <node id="2941505311" visible="true" version="2" changeset="24618028" timestamp="2014-08-08T16:14:57Z" user="hlaw" uid="169827" lat="22.2846668" lon="114.2172672"/>
+ <node id="2941505314" visible="true" version="3" changeset="76255656" timestamp="2019-10-27T01:35:38Z" user="Wright One" uid="261189" lat="22.2846971" lon="114.2174739"/>
+ <node id="2941505318" visible="true" version="9" changeset="172371752" timestamp="2025-09-24T03:22:43Z" user="cnvery" uid="3627342" lat="22.2846465" lon="114.2160725">
+  <tag k="name" v="康山 Kornhill"/>
+  <tag k="name:en" v="Kornhill"/>
+  <tag k="name:zh" v="康山"/>
+  <tag k="name:zh-Hans" v="康山"/>
+  <tag k="name:zh-Hant" v="康山"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="87E"/>
+  <tag k="tram" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="2941505320" visible="true" version="6" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2846693" lon="114.2128341"/>
+ <node id="2941505321" visible="true" version="6" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2846578" lon="114.2130963"/>
+ <node id="2941505322" visible="true" version="3" changeset="76247484" timestamp="2019-10-26T16:33:20Z" user="Wright One" uid="261189" lat="22.2847459" lon="114.2176959"/>
+ <node id="2941505324" visible="true" version="5" changeset="76255656" timestamp="2019-10-27T01:35:38Z" user="Wright One" uid="261189" lat="22.2846453" lon="114.2156520"/>
+ <node id="2941505325" visible="true" version="8" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2847370" lon="114.2125351">
+  <tag k="level_crossing" v="traffic_signals"/>
+  <tag k="railway" v="level_crossing"/>
+  <tag k="ref" v="H123"/>
+  <tag k="traffic_signals" v="signal"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="2941505330" visible="true" version="3" changeset="76247484" timestamp="2019-10-26T16:33:20Z" user="Wright One" uid="261189" lat="22.2849171" lon="114.2184356"/>
+ <node id="2941505331" visible="true" version="4" changeset="76255656" timestamp="2019-10-27T01:35:38Z" user="Wright One" uid="261189" lat="22.2846661" lon="114.2153012"/>
+ <node id="2941505332" visible="true" version="3" changeset="76247484" timestamp="2019-10-26T16:33:20Z" user="Wright One" uid="261189" lat="22.2847378" lon="114.2197174"/>
+ <node id="2941505333" visible="true" version="5" changeset="76255656" timestamp="2019-10-27T01:35:38Z" user="Wright One" uid="261189" lat="22.2847040" lon="114.2147144"/>
+ <node id="2941505336" visible="true" version="6" changeset="167897105" timestamp="2025-06-21T03:45:16Z" user="Wright One" uid="261189" lat="22.2851208" lon="114.2115385"/>
+ <node id="2941505338" visible="true" version="3" changeset="76247484" timestamp="2019-10-26T16:33:20Z" user="Wright One" uid="261189" lat="22.2848298" lon="114.2195184"/>
+ <node id="2941505340" visible="true" version="3" changeset="76247484" timestamp="2019-10-26T16:33:20Z" user="Wright One" uid="261189" lat="22.2849345" lon="114.2185691"/>
+ <node id="2941505344" visible="true" version="3" changeset="76247484" timestamp="2019-10-26T16:33:20Z" user="Wright One" uid="261189" lat="22.2848970" lon="114.2192820"/>
+ <node id="2941505345" visible="true" version="5" changeset="167897105" timestamp="2025-06-21T03:45:16Z" user="Wright One" uid="261189" lat="22.2851388" lon="114.2115187"/>
+ <node id="2941505346" visible="true" version="3" changeset="76247484" timestamp="2019-10-26T16:33:20Z" user="Wright One" uid="261189" lat="22.2849438" lon="114.2186759"/>
+ <node id="2941505350" visible="true" version="3" changeset="76247484" timestamp="2019-10-26T16:33:20Z" user="Wright One" uid="261189" lat="22.2849458" lon="114.2188201"/>
+ <node id="2941505351" visible="true" version="3" changeset="76247484" timestamp="2019-10-26T16:33:20Z" user="Wright One" uid="261189" lat="22.2849281" lon="114.2191070"/>
+ <node id="2941505353" visible="true" version="3" changeset="76247484" timestamp="2019-10-26T16:33:20Z" user="Wright One" uid="261189" lat="22.2849447" lon="114.2189038"/>
+ <node id="2941505354" visible="true" version="4" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2847051" lon="114.2126449"/>
+ <node id="2941505356" visible="true" version="5" changeset="167897105" timestamp="2025-06-21T03:45:16Z" user="Wright One" uid="261189" lat="22.2849856" lon="114.2117711"/>
+ <node id="2941505359" visible="true" version="5" changeset="167897105" timestamp="2025-06-21T03:45:16Z" user="Wright One" uid="261189" lat="22.2850305" lon="114.2116685"/>
+ <node id="2941505363" visible="true" version="5" changeset="167897105" timestamp="2025-06-21T03:45:16Z" user="Wright One" uid="261189" lat="22.2850841" lon="114.2115837"/>
+ <node id="2941505365" visible="true" version="4" changeset="167897105" timestamp="2025-06-21T03:45:16Z" user="Wright One" uid="261189" lat="22.2852135" lon="114.2114495"/>
+ <node id="2941505369" visible="true" version="5" changeset="167897105" timestamp="2025-06-21T03:45:16Z" user="Wright One" uid="261189" lat="22.2852370" lon="114.2114318"/>
+ <node id="2941505370" visible="true" version="9" changeset="174043804" timestamp="2025-11-01T01:33:43Z" user="cnvery" uid="3627342" lat="22.2856000" lon="114.2111993">
+  <tag k="name" v="柏架山道 Mount Parker Road"/>
+  <tag k="name:en" v="Mount Parker Road"/>
+  <tag k="name:zh" v="柏架山道"/>
+  <tag k="name:zh-Hans" v="柏架山道"/>
+  <tag k="name:zh-Hant" v="柏架山道"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="83E"/>
+  <tag k="tram" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="2941505372" visible="true" version="4" changeset="167897105" timestamp="2025-06-21T03:45:16Z" user="Wright One" uid="261189" lat="22.2865988" lon="114.2105604"/>
+ <node id="2941505374" visible="true" version="5" changeset="167897105" timestamp="2025-06-21T03:45:16Z" user="Wright One" uid="261189" lat="22.2866826" lon="114.2105115"/>
+ <node id="2941505376" visible="true" version="4" changeset="167897105" timestamp="2025-06-21T03:45:16Z" user="Wright One" uid="261189" lat="22.2868233" lon="114.2104446"/>
+ <node id="2941505382" visible="true" version="4" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2905392" lon="114.2092184"/>
+ <node id="2941505384" visible="true" version="3" changeset="76255656" timestamp="2019-10-27T01:35:38Z" user="Wright One" uid="261189" lat="22.2906057" lon="114.2091924"/>
+ <node id="2941505386" visible="true" version="3" changeset="76255656" timestamp="2019-10-27T01:35:38Z" user="Wright One" uid="261189" lat="22.2906864" lon="114.2091539"/>
+ <node id="2941505388" visible="true" version="3" changeset="76255656" timestamp="2019-10-27T01:35:38Z" user="Wright One" uid="261189" lat="22.2907474" lon="114.2091218"/>
+ <node id="2941505390" visible="true" version="4" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2909186" lon="114.2090095"/>
+ <node id="2941505392" visible="true" version="8" changeset="160595055" timestamp="2024-12-25T08:01:18Z" user="cnvery" uid="3627342" lat="22.2907928" lon="114.2090957">
+  <tag k="name" v="渣華道 Java Road"/>
+  <tag k="name:en" v="Java Road"/>
+  <tag k="name:zh" v="渣華道"/>
+  <tag k="name:zh-Hans" v="渣华道"/>
+  <tag k="name:zh-Hant" v="渣華道"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="79E"/>
+  <tag k="tram" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="2941505395" visible="true" version="5" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2911324" lon="114.2088169"/>
+ <node id="2941505400" visible="true" version="5" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2912142" lon="114.2087192"/>
+ <node id="2941505602" visible="true" version="5" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2913671" lon="114.2084843"/>
+ <node id="2941505604" visible="true" version="6" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2914243" lon="114.2083709"/>
+ <node id="2941505606" visible="true" version="5" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2919679" lon="114.2068956"/>
+ <node id="2941505611" visible="true" version="5" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2919919" lon="114.2068119"/>
+ <node id="2941505612" visible="true" version="5" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2920598" lon="114.2061871"/>
+ <node id="2978559515" visible="true" version="2" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2767287" lon="114.2292689"/>
+ <node id="2978559516" visible="true" version="2" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2767322" lon="114.2295288"/>
+ <node id="2978559518" visible="true" version="2" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2767702" lon="114.2296082"/>
+ <node id="2978559520" visible="true" version="2" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2768247" lon="114.2296712"/>
+ <node id="2978559522" visible="true" version="2" changeset="82724858" timestamp="2020-03-27T16:44:02Z" user="Wright One" uid="261189" lat="22.2768452" lon="114.2286515"/>
+ <node id="2978559524" visible="true" version="2" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2768430" lon="114.2296866"/>
+ <node id="2978559526" visible="true" version="2" changeset="82724858" timestamp="2020-03-27T16:44:02Z" user="Wright One" uid="261189" lat="22.2769236" lon="114.2283596"/>
+ <node id="2978559528" visible="true" version="2" changeset="82724858" timestamp="2020-03-27T16:44:02Z" user="Wright One" uid="261189" lat="22.2770465" lon="114.2280898"/>
+ <node id="2978559530" visible="true" version="2" changeset="82724858" timestamp="2020-03-27T16:44:02Z" user="Wright One" uid="261189" lat="22.2771177" lon="114.2279405"/>
+ <node id="2978559532" visible="true" version="4" changeset="153226530" timestamp="2024-06-27T02:33:57Z" user="Wright One" uid="261189" lat="22.2775541" lon="114.2300893"/>
+ <node id="2978559534" visible="true" version="5" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2775618" lon="114.2271066">
+  <tag k="railway" v="crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="2978559537" visible="true" version="5" changeset="153226530" timestamp="2024-06-27T02:33:57Z" user="Wright One" uid="261189" lat="22.2775708" lon="114.2300951"/>
+ <node id="2978559539" visible="true" version="3" changeset="82724858" timestamp="2020-03-27T16:44:02Z" user="Wright One" uid="261189" lat="22.2776049" lon="114.2270507"/>
+ <node id="2978559542" visible="true" version="3" changeset="82724858" timestamp="2020-03-27T16:44:02Z" user="Wright One" uid="261189" lat="22.2776650" lon="114.2269954"/>
+ <node id="2978559545" visible="true" version="3" changeset="82724858" timestamp="2020-03-27T16:44:02Z" user="Wright One" uid="261189" lat="22.2776831" lon="114.2269821"/>
+ <node id="2978706404" visible="true" version="7" changeset="131639932" timestamp="2023-01-24T08:44:31Z" user="Kovoschiz" uid="6250193" lat="22.2769532" lon="114.2282904">
+  <tag k="level_crossing" v="traffic_signals"/>
+  <tag k="railway" v="level_crossing"/>
+  <tag k="traffic_signals" v="signal"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="2978939696" visible="true" version="4" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2698040" lon="114.1841713"/>
+ <node id="2978939710" visible="true" version="5" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2720231" lon="114.1800305"/>
+ <node id="2978940050" visible="true" version="4" changeset="153226530" timestamp="2024-06-27T02:33:57Z" user="Wright One" uid="261189" lat="22.2776017" lon="114.2301014"/>
+ <node id="2978940051" visible="true" version="3" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2778760" lon="114.2301079"/>
+ <node id="3005197213" visible="true" version="9" changeset="176740164" timestamp="2026-01-02T12:10:57Z" user="Wright One" uid="261189" lat="22.2886120" lon="114.2098593">
+  <tag k="name" v="芬尼街 Finnie Street"/>
+  <tag k="name:en" v="Finnie Street"/>
+  <tag k="name:zh" v="芬尼街"/>
+  <tag k="name:zh-Hans" v="芬尼街"/>
+  <tag k="name:zh-Hant" v="芬尼街"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="81E"/>
+  <tag k="tram" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="3005197214" visible="true" version="9" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2917386" lon="114.2075229">
+  <tag k="name" v="健康東街 Healthy Street East"/>
+  <tag k="name:en" v="Healthy Street East"/>
+  <tag k="name:zh" v="健康東街"/>
+  <tag k="name:zh-Hans" v="健康东街"/>
+  <tag k="name:zh-Hant" v="健康東街"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="77E"/>
+  <tag k="tram" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="3005197215" visible="true" version="7" changeset="76280110" timestamp="2019-10-28T01:38:17Z" user="Wright One" uid="261189" lat="22.2921101" lon="114.2052014">
+  <tag k="name" v="健康西街 Healthy Street West"/>
+  <tag k="name:en" v="Healthy Street West"/>
+  <tag k="name:zh" v="健康西街"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="75E"/>
+  <tag k="tram" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="3005197216" visible="true" version="9" changeset="174086884" timestamp="2025-11-02T04:03:17Z" user="cnvery" uid="3627342" lat="22.2846833" lon="114.2138397">
+  <tag k="name" v="船塢里 Shipyard Lane"/>
+  <tag k="name:en" v="Shipyard Lane"/>
+  <tag k="name:zh" v="船塢里"/>
+  <tag k="name:zh-Hans" v="船坞里"/>
+  <tag k="name:zh-Hant" v="船塢里"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="85E"/>
+  <tag k="tram" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="3005197217" visible="true" version="7" changeset="112873400" timestamp="2021-10-23T13:03:37Z" user="Kovoschiz" uid="6250193" lat="22.2846568" lon="114.2130245">
+  <tag k="level_crossing" v="traffic_signals"/>
+  <tag k="railway" v="level_crossing"/>
+  <tag k="ref" v="H123"/>
+  <tag k="traffic_signals" v="signal"/>
+  <tag k="traffic_signals:ref" v="H123"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3005197218" visible="true" version="8" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2846730" lon="114.2135533">
+  <tag k="railway" v="level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3005197219" visible="true" version="8" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2847054" lon="114.2144451">
+  <tag k="railway" v="level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3005197220" visible="true" version="4" changeset="76255656" timestamp="2019-10-27T01:35:38Z" user="Wright One" uid="261189" lat="22.2847090" lon="114.2145879"/>
+ <node id="3005197222" visible="true" version="7" changeset="167897105" timestamp="2025-06-21T03:45:16Z" user="Wright One" uid="261189" lat="22.2858341" lon="114.2110490">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="crossing:island" v="left"/>
+  <tag k="railway" v="crossing"/>
+  <tag k="ref" v="H287"/>
+  <tag k="road_marking" v="zebra"/>
+  <tag k="road_marking:colour" v="yellow"/>
+  <tag k="tactile_paving:left" v="yes"/>
+  <tag k="tactile_paving:left:colour" v="yellow"/>
+  <tag k="tactile_paving:right" v="no"/>
+  <tag k="traffic_signals:ref" v="H287"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3005197224" visible="true" version="9" changeset="167897105" timestamp="2025-06-21T03:45:16Z" user="Wright One" uid="261189" lat="22.2873584" lon="114.2102663">
+  <tag k="level_crossing" v="traffic_signals"/>
+  <tag k="railway" v="level_crossing"/>
+  <tag k="ref" v="H118"/>
+  <tag k="traffic_signals" v="signal"/>
+  <tag k="traffic_signals:ref" v="H118"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3005197225" visible="true" version="7" changeset="167897105" timestamp="2025-06-21T03:45:16Z" user="Wright One" uid="261189" lat="22.2875705" lon="114.2101974">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="crossing:island" v="left"/>
+  <tag k="kerb:left" v="flush"/>
+  <tag k="kerb:right" v="no"/>
+  <tag k="railway" v="crossing"/>
+  <tag k="ref" v="H118"/>
+  <tag k="road_marking" v="zebra"/>
+  <tag k="road_marking:colour" v="yellow"/>
+  <tag k="tactile_paving:left" v="yes"/>
+  <tag k="tactile_paving:left:colour" v="yellow"/>
+  <tag k="tactile_paving:right" v="no"/>
+  <tag k="traffic_signals" v="signal"/>
+  <tag k="traffic_signals:ref" v="H118"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3005197226" visible="true" version="6" changeset="167897105" timestamp="2025-06-21T03:45:16Z" user="Wright One" uid="261189" lat="22.2880738" lon="114.2100352">
+  <tag k="railway" v="level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3005197227" visible="true" version="5" changeset="176740164" timestamp="2026-01-02T12:10:57Z" user="Wright One" uid="261189" lat="22.2893462" lon="114.2096181">
+  <tag k="railway" v="crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3005197228" visible="true" version="8" changeset="175018560" timestamp="2025-11-23T09:48:25Z" user="Kovoschiz" uid="6250193" lat="22.2902165" lon="114.2093278">
+  <tag k="level_crossing" v="uncontrolled"/>
+  <tag k="railway" v="level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3005197229" visible="true" version="8" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2908613" lon="114.2090507">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="railway" v="crossing"/>
+  <tag k="ref" v="H133"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3005197230" visible="true" version="7" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2909706" lon="114.2089690">
+  <tag k="crossing" v="no"/>
+  <tag k="level_crossing" v="traffic_signals"/>
+  <tag k="railway" v="level_crossing"/>
+  <tag k="ref" v="H133"/>
+  <tag k="traffic_signals" v="signal"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3005197231" visible="true" version="4" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2913323" lon="114.2085446"/>
+ <node id="3005197232" visible="true" version="6" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2918140" lon="114.2073174">
+  <tag k="railway" v="crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3005203733" visible="true" version="8" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2918601" lon="114.2071926">
+  <tag k="railway" v="level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3005203734" visible="true" version="5" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2921024" lon="114.2048063">
+  <tag k="railway" v="crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3005247188" visible="true" version="8" changeset="166315600" timestamp="2025-05-15T17:13:04Z" user="cnvery" uid="3627342" lat="22.2767580" lon="114.2291201">
+  <tag k="name" v="柴灣道 Chai Wan Road"/>
+  <tag k="name:en" v="Chai Wan Road"/>
+  <tag k="name:zh" v="柴灣道"/>
+  <tag k="name:zh-Hans" v="柴湾道"/>
+  <tag k="name:zh-Hant" v="柴灣道"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="101E"/>
+  <tag k="tram" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="3005247191" visible="true" version="7" changeset="172040747" timestamp="2025-09-17T02:25:23Z" user="cnvery" uid="3627342" lat="22.2804269" lon="114.2244223">
+  <tag k="name" v="海富街 Hoi Foo Street"/>
+  <tag k="name:en" v="Hoi Foo Street"/>
+  <tag k="name:zh" v="海富街"/>
+  <tag k="name:zh-Hans" v="海富街"/>
+  <tag k="name:zh-Hant" v="海富街"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="95E"/>
+  <tag k="tram" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="3005247194" visible="true" version="6" changeset="171925007" timestamp="2025-09-14T15:52:27Z" user="cnvery" uid="3627342" lat="22.2787375" lon="114.2263375">
+  <tag k="name" v="南康街 Nam Hong Street"/>
+  <tag k="name:en" v="Nam Hong Street"/>
+  <tag k="name:zh" v="南康街"/>
+  <tag k="name:zh-Hans" v="南康街"/>
+  <tag k="name:zh-Hant" v="南康街"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="99E"/>
+  <tag k="tram" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="3005247197" visible="true" version="6" changeset="76247484" timestamp="2019-10-26T16:33:20Z" user="Wright One" uid="261189" lat="22.2831496" lon="114.2211066">
+  <tag k="name" v="太康街 Tai Hong Street"/>
+  <tag k="name:en" v="Tai Hong Street"/>
+  <tag k="name:zh" v="太康街"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="91E"/>
+  <tag k="tram" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="3005247199" visible="true" version="7" changeset="172321809" timestamp="2025-09-23T03:02:51Z" user="cnvery" uid="3627342" lat="22.2840727" lon="114.2203849">
+  <tag k="name" v="太古城道 Tai Koo Shing Road"/>
+  <tag k="name:en" v="Tai Koo Shing Road"/>
+  <tag k="name:zh" v="太古城道"/>
+  <tag k="name:zh-Hans" v="太古城道"/>
+  <tag k="name:zh-Hant" v="太古城道"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="89E"/>
+  <tag k="tram" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="3005247201" visible="true" version="7" changeset="172257673" timestamp="2025-09-21T17:22:28Z" user="cnvery" uid="3627342" lat="22.2823366" lon="114.2217399">
+  <tag k="name" v="太安街 Tai On Street"/>
+  <tag k="name:en" v="Tai On Street"/>
+  <tag k="name:zh" v="太安街"/>
+  <tag k="name:zh-Hans" v="太安街"/>
+  <tag k="name:zh-Hant" v="太安街"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="93E"/>
+  <tag k="tram" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="3005247203" visible="true" version="5" changeset="131651661" timestamp="2023-01-24T13:17:12Z" user="Kovoschiz" uid="6250193" lat="22.2768100" lon="114.2288468">
+  <tag k="crossing" v="priority"/>
+  <tag k="crossing:markings" v="zebra"/>
+  <tag k="crossing:markings:colour" v="white"/>
+  <tag k="crossing:priority" v="footway"/>
+  <tag k="crossing:tactile_paving" v="studs"/>
+  <tag k="crossing:tactile_paving:colour" v="silver"/>
+  <tag k="crossing:tactile_paving:material" v="metal"/>
+  <tag k="designation" v="Zebra crossing"/>
+  <tag k="designation:en" v="Zebra crossing"/>
+  <tag k="kerb:both" v="no"/>
+  <tag k="railway" v="crossing"/>
+  <tag k="tactile_paving" v="studs"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3005247206" visible="true" version="2" changeset="82724858" timestamp="2020-03-27T16:44:02Z" user="Wright One" uid="261189" lat="22.2769042" lon="114.2284101"/>
+ <node id="3005247207" visible="true" version="5" changeset="131639932" timestamp="2023-01-24T08:44:31Z" user="Kovoschiz" uid="6250193" lat="22.2769916" lon="114.2282084">
+  <tag k="level_crossing" v="traffic_signals"/>
+  <tag k="railway" v="level_crossing"/>
+  <tag k="traffic_signals" v="signal"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3005247209" visible="true" version="3" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2769075" lon="114.2297275"/>
+ <node id="3005247211" visible="true" version="7" changeset="172139460" timestamp="2025-09-19T03:02:06Z" user="seewhyso" uid="9161716" lat="22.2770394" lon="114.2298017">
+  <tag k="give_way" v="minor"/>
+  <tag k="level_crossing" v="priority"/>
+  <tag k="railway" v="tram_level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3005247213" visible="true" version="7" changeset="172139460" timestamp="2025-09-19T03:02:06Z" user="seewhyso" uid="9161716" lat="22.2771246" lon="114.2298497">
+  <tag k="crossing" v="priority"/>
+  <tag k="crossing:markings" v="zebra"/>
+  <tag k="crossing:markings:colour" v="white"/>
+  <tag k="crossing:priority" v="footway"/>
+  <tag k="designation" v="Zebra crossing"/>
+  <tag k="designation:en" v="Zebra crossing"/>
+  <tag k="kerb:left" v="no"/>
+  <tag k="kerb:right" v="lowered"/>
+  <tag k="kerb:right:tactile_paving" v="yes"/>
+  <tag k="kerb:right:tactile_paving:colour" v="yellow"/>
+  <tag k="railway" v="crossing"/>
+  <tag k="tactile_paving" v="kerb"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3005247215" visible="true" version="2" changeset="82724858" timestamp="2020-03-27T16:44:02Z" user="Wright One" uid="261189" lat="22.2775208" lon="114.2271784"/>
+ <node id="3005247217" visible="true" version="4" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2776381" lon="114.2270175">
+  <tag k="railway" v="level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3005247218" visible="true" version="2" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2777435" lon="114.2300635"/>
+ <node id="3005247220" visible="true" version="2" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2777626" lon="114.2300556"/>
+ <node id="3005247221" visible="true" version="7" changeset="172139460" timestamp="2025-09-19T03:02:06Z" user="seewhyso" uid="9161716" lat="22.2777880" lon="114.2300531">
+  <tag k="railway" v="tram_level_crossing"/>
+ </node>
+ <node id="3005247223" visible="true" version="3" changeset="153226530" timestamp="2024-06-27T02:33:57Z" user="Wright One" uid="261189" lat="22.2778000" lon="114.2300540"/>
+ <node id="3005247224" visible="true" version="2" changeset="82724858" timestamp="2020-03-27T16:44:02Z" user="Wright One" uid="261189" lat="22.2777080" lon="114.2269659"/>
+ <node id="3005247227" visible="true" version="6" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2782968" lon="114.2266078">
+  <tag k="railway" v="level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3005247229" visible="true" version="5" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2783760" lon="114.2265587">
+  <tag k="railway" v="crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3005247231" visible="true" version="4" changeset="81596884" timestamp="2020-02-28T15:26:54Z" user="GasaiYuno" uid="10054182" lat="22.2797180" lon="114.2257422"/>
+ <node id="3005248434" visible="true" version="6" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2799636" lon="114.2255913">
+  <tag k="railway" v="railway_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3005248435" visible="true" version="2" changeset="76128772" timestamp="2019-10-24T01:36:33Z" user="Wright One" uid="261189" lat="22.2800299" lon="114.2255515"/>
+ <node id="3005248436" visible="true" version="2" changeset="76128772" timestamp="2019-10-24T01:36:33Z" user="Wright One" uid="261189" lat="22.2800555" lon="114.2255343"/>
+ <node id="3005248441" visible="true" version="2" changeset="76128772" timestamp="2019-10-24T01:36:33Z" user="Wright One" uid="261189" lat="22.2801238" lon="114.2254682"/>
+ <node id="3005248442" visible="true" version="4" changeset="187130096" timestamp="2026-08-08T11:47:50Z" user="vectorial8192" uid="10815817" lat="22.2801610" lon="114.2254292">
+  <tag k="demolished:railway" v="switch"/>
+ </node>
+ <node id="3005248443" visible="true" version="2" changeset="76128772" timestamp="2019-10-24T01:36:33Z" user="Wright One" uid="261189" lat="22.2801887" lon="114.2253881"/>
+ <node id="3005248447" visible="true" version="2" changeset="76128772" timestamp="2019-10-24T01:36:33Z" user="Wright One" uid="261189" lat="22.2802144" lon="114.2253454"/>
+ <node id="3005248449" visible="true" version="2" changeset="76128772" timestamp="2019-10-24T01:36:33Z" user="Wright One" uid="261189" lat="22.2802359" lon="114.2253026"/>
+ <node id="3005248451" visible="true" version="2" changeset="76128772" timestamp="2019-10-24T01:36:33Z" user="Wright One" uid="261189" lat="22.2802526" lon="114.2252625"/>
+ <node id="3005248452" visible="true" version="2" changeset="76128772" timestamp="2019-10-24T01:36:33Z" user="Wright One" uid="261189" lat="22.2802817" lon="114.2251729"/>
+ <node id="3005248454" visible="true" version="2" changeset="76128772" timestamp="2019-10-24T01:36:33Z" user="Wright One" uid="261189" lat="22.2802920" lon="114.2251263"/>
+ <node id="3005248455" visible="true" version="5" changeset="146699859" timestamp="2024-01-26T08:14:18Z" user="owennson" uid="1799954" lat="22.2803934" lon="114.2245903">
+  <tag k="railway" v="crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3005248457" visible="true" version="3" changeset="76245552" timestamp="2019-10-26T15:04:44Z" user="Wright One" uid="261189" lat="22.2804548" lon="114.2242979"/>
+ <node id="3005248459" visible="true" version="2" changeset="76245552" timestamp="2019-10-26T15:04:44Z" user="Wright One" uid="261189" lat="22.2804695" lon="114.2242449"/>
+ <node id="3005248463" visible="true" version="3" changeset="80108719" timestamp="2020-01-26T20:53:22Z" user="Kovoschiz" uid="6250193" lat="22.2805038" lon="114.2241373">
+  <tag k="railway" v="switch"/>
+ </node>
+ <node id="3005248464" visible="true" version="6" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2806003" lon="114.2239044">
+  <tag k="railway" v="railway_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3005248473" visible="true" version="4" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2809977" lon="114.2230576">
+  <tag k="railway" v="crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3005248476" visible="true" version="4" changeset="147594428" timestamp="2024-02-18T03:39:43Z" user="Wright One" uid="261189" lat="22.2810497" lon="114.2229566"/>
+ <node id="3005248480" visible="true" version="2" changeset="76245552" timestamp="2019-10-26T15:04:44Z" user="Wright One" uid="261189" lat="22.2811767" lon="114.2227498"/>
+ <node id="3005248481" visible="true" version="2" changeset="76245552" timestamp="2019-10-26T15:04:44Z" user="Wright One" uid="261189" lat="22.2813000" lon="114.2225860"/>
+ <node id="3005248484" visible="true" version="2" changeset="76247484" timestamp="2019-10-26T16:33:20Z" user="Wright One" uid="261189" lat="22.2814458" lon="114.2224267"/>
+ <node id="3005248485" visible="true" version="2" changeset="76247484" timestamp="2019-10-26T16:33:20Z" user="Wright One" uid="261189" lat="22.2815246" lon="114.2223548"/>
+ <node id="3005248486" visible="true" version="2" changeset="76247484" timestamp="2019-10-26T16:33:20Z" user="Wright One" uid="261189" lat="22.2815647" lon="114.2223211"/>
+ <node id="3005248491" visible="true" version="7" changeset="159045227" timestamp="2024-11-12T11:06:56Z" user="Kovoschiz" uid="6250193" lat="22.2825086" lon="114.2216077">
+  <tag k="access" v="no"/>
+  <tag k="level_crossing" v="uncontrolled"/>
+  <tag k="priority" v="uncontrolled"/>
+  <tag k="railway" v="level_crossing"/>
+  <tag k="service" v="emergency_access"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+  <tag k="virtual" v="yes"/>
+ </node>
+ <node id="3005248493" visible="true" version="4" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2829439" lon="114.2212680">
+  <tag k="railway" v="level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3005248495" visible="true" version="5" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2830369" lon="114.2211954">
+  <tag k="railway" v="crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3005248497" visible="true" version="4" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2833690" lon="114.2209350">
+  <tag k="railway" v="level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3005248504" visible="true" version="6" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2845327" lon="114.2200025">
+  <tag k="crossing" v="no"/>
+  <tag k="foot" v="no"/>
+  <tag k="highway:ref" v="H152"/>
+  <tag k="level_crossing" v="traffic_signals"/>
+  <tag k="railway" v="level_crossing"/>
+  <tag k="ref" v="H152"/>
+  <tag k="traffic_signals" v="yes"/>
+  <tag k="traffic_signals:ref" v="H152"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3005248526" visible="true" version="2" changeset="76247484" timestamp="2019-10-26T16:33:20Z" user="Wright One" uid="261189" lat="22.2848689" lon="114.2193966"/>
+ <node id="3005248528" visible="true" version="2" changeset="76247484" timestamp="2019-10-26T16:33:20Z" user="Wright One" uid="261189" lat="22.2848932" lon="114.2183043"/>
+ <node id="3005248532" visible="true" version="2" changeset="76247484" timestamp="2019-10-26T16:33:20Z" user="Wright One" uid="261189" lat="22.2849127" lon="114.2192003"/>
+ <node id="3005248535" visible="true" version="2" changeset="76247484" timestamp="2019-10-26T16:33:20Z" user="Wright One" uid="261189" lat="22.2849405" lon="114.2189896"/>
+ <node id="3005305192" visible="true" version="2" changeset="82724858" timestamp="2020-03-27T16:44:02Z" user="Wright One" uid="261189" lat="22.2775827" lon="114.2270762"/>
+ <node id="3005351251" visible="true" version="3" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2904778" lon="114.2092407"/>
+ <node id="3112111425" visible="true" version="7" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2723873" lon="114.1798966">
+  <tag k="name" v="香港墳場 Hong Kong Cemetery"/>
+  <tag k="name:en" v="Hong Kong Cemetery"/>
+  <tag k="name:zh" v="香港墳場"/>
+  <tag k="old_name" v="天主教墳場 Colonial Cemetery"/>
+  <tag k="old_name:en" v="Colonial Cemetery"/>
+  <tag k="old_name:zh" v="天主教墳場"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="109"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3112114532" visible="true" version="6" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2758504" lon="114.1805443">
+  <tag k="name" v="摩理臣山道 Morrison Hill Road"/>
+  <tag k="name:en" v="Morrison Hill Road"/>
+  <tag k="name:zh" v="摩理臣山道"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="111"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3112114549" visible="true" version="3" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2720035" lon="114.1800384"/>
+ <node id="3112418730" visible="true" version="8" changeset="158642479" timestamp="2024-11-02T01:25:24Z" user="cnvery" uid="3627342" lat="22.2905516" lon="114.1971209">
+  <tag k="name" v="北角道 North Point Road"/>
+  <tag k="name:en" v="North Point Road"/>
+  <tag k="name:zh" v="北角道"/>
+  <tag k="name:zh-Hans" v="北角道"/>
+  <tag k="name:zh-Hant" v="北角道"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="69E"/>
+  <tag k="tram" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="3112418732" visible="true" version="8" changeset="159307480" timestamp="2024-11-19T03:28:36Z" user="cnvery" uid="3627342" lat="22.2913110" lon="114.2008106">
+  <tag k="name" v="書局街 Shu Kuk Street"/>
+  <tag k="name:en" v="Shu Kuk Street"/>
+  <tag k="name:zh" v="書局街"/>
+  <tag k="name:zh-Hans" v="书局街"/>
+  <tag k="name:zh-Hant" v="書局街"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="71E"/>
+  <tag k="tram" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="3112418734" visible="true" version="8" changeset="160594596" timestamp="2024-12-25T07:23:21Z" user="cnvery" uid="3627342" lat="22.2918675" lon="114.2035297">
+  <tag k="name" v="電照街 Tin Chiu Street"/>
+  <tag k="name:en" v="Tin Chiu Street"/>
+  <tag k="name:zh" v="電照街"/>
+  <tag k="name:zh-Hans" v="电照街"/>
+  <tag k="name:zh-Hant" v="電照街"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="73E"/>
+  <tag k="tram" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="3141194061" visible="true" version="5" changeset="99718142" timestamp="2021-02-22T06:30:47Z" user="Kovoschiz" uid="6250193" lat="22.2697502" lon="114.1837520">
+  <tag k="level_crossing" v="uncontrolled"/>
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="3141194062" visible="true" version="2" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2697557" lon="114.1836564"/>
+ <node id="3141194064" visible="true" version="2" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2697624" lon="114.1838787"/>
+ <node id="3141194065" visible="true" version="8" changeset="120829387" timestamp="2022-05-11T09:15:54Z" user="Kovoschiz" uid="6250193" lat="22.2697952" lon="114.1834432">
+  <tag k="give_way" v="no"/>
+  <tag k="level_crossing" v="uncontrolled"/>
+  <tag k="railway" v="level_crossing"/>
+  <tag k="stop" v="no"/>
+ </node>
+ <node id="3141194066" visible="true" version="2" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2697979" lon="114.1841501"/>
+ <node id="3141194069" visible="true" version="5" changeset="120829387" timestamp="2022-05-11T09:15:54Z" user="Kovoschiz" uid="6250193" lat="22.2698319" lon="114.1833221">
+  <tag k="railway" v="crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="3141258638" visible="true" version="3" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2736858" lon="114.1794426"/>
+ <node id="3141258642" visible="true" version="3" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2740189" lon="114.1794024"/>
+ <node id="3141258643" visible="true" version="3" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2742862" lon="114.1794256"/>
+ <node id="3141258645" visible="true" version="3" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2745462" lon="114.1794927"/>
+ <node id="4366524606" visible="true" version="3" changeset="82724858" timestamp="2020-03-27T16:44:02Z" user="Wright One" uid="261189" lat="22.2775406" lon="114.2271419"/>
+ <node id="4413339022" visible="true" version="4" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2819791" lon="114.2219956">
+  <tag k="railway" v="crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="4779749104" visible="true" version="2" changeset="76280110" timestamp="2019-10-28T01:38:17Z" user="Wright One" uid="261189" lat="22.2920935" lon="114.2046336"/>
+ <node id="4779749105" visible="true" version="2" changeset="76280110" timestamp="2019-10-28T01:38:17Z" user="Wright One" uid="261189" lat="22.2921174" lon="114.2056048"/>
+ <node id="4779749107" visible="true" version="3" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2921047" lon="114.2058365"/>
+ <node id="4779749108" visible="true" version="2" changeset="76280110" timestamp="2019-10-28T01:38:17Z" user="Wright One" uid="261189" lat="22.2921161" lon="114.2056782"/>
+ <node id="4858150633" visible="true" version="4" changeset="120827745" timestamp="2022-05-11T08:38:06Z" user="Kovoschiz" uid="6250193" lat="22.2697741" lon="114.1835376"/>
+ <node id="5008429535" visible="true" version="4" changeset="153226530" timestamp="2024-06-27T02:33:57Z" user="Wright One" uid="261189" lat="22.2778134" lon="114.2300569"/>
+ <node id="5008429536" visible="true" version="4" changeset="153226530" timestamp="2024-06-27T02:33:57Z" user="Wright One" uid="261189" lat="22.2770963" lon="114.2298335">
+  <tag k="crossing" v="separate"/>
+  <tag k="direction" v="forward"/>
+  <tag k="give_way" v="minor"/>
+  <tag k="highway" v="give_way"/>
+  <tag k="intersection" v="separate"/>
+ </node>
+ <node id="5010385729" visible="true" version="2" changeset="83195047" timestamp="2020-04-07T11:39:24Z" user="Wright One" uid="261189" lat="22.2706945" lon="114.1820440"/>
+ <node id="5010385733" visible="true" version="2" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2710214" lon="114.1813410"/>
+ <node id="5010385734" visible="true" version="1" changeset="50793477" timestamp="2017-08-02T23:50:24Z" user="FlyTy" uid="6095805" lat="22.2708382" lon="114.1817077"/>
+ <node id="5010385735" visible="true" version="2" changeset="83195047" timestamp="2020-04-07T11:39:24Z" user="Wright One" uid="261189" lat="22.2705811" lon="114.1822404"/>
+ <node id="5010385736" visible="true" version="2" changeset="83195047" timestamp="2020-04-07T11:39:24Z" user="Wright One" uid="261189" lat="22.2705258" lon="114.1823226"/>
+ <node id="5052297346" visible="true" version="6" changeset="148894328" timestamp="2024-03-20T06:39:38Z" user="Wright One" uid="261189" lat="22.2787627" lon="114.1796410"/>
+ <node id="5057022212" visible="true" version="2" changeset="76255656" timestamp="2019-10-27T01:35:38Z" user="Wright One" uid="261189" lat="22.2846478" lon="114.2170211"/>
+ <node id="5059357221" visible="true" version="6" changeset="148894328" timestamp="2024-03-20T06:39:38Z" user="Wright One" uid="261189" lat="22.2829103" lon="114.1922627">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="railway" v="crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="5064607004" visible="true" version="3" changeset="166694319" timestamp="2025-05-24T12:12:18Z" user="Wright One" uid="261189" lat="22.2793495" lon="114.1874052"/>
+ <node id="5064607006" visible="true" version="3" changeset="166694319" timestamp="2025-05-24T12:12:18Z" user="Wright One" uid="261189" lat="22.2794458" lon="114.1876759"/>
+ <node id="5064607007" visible="true" version="4" changeset="148894328" timestamp="2024-03-20T06:39:38Z" user="Wright One" uid="261189" lat="22.2801595" lon="114.1845790"/>
+ <node id="5098882303" visible="true" version="5" changeset="148778712" timestamp="2024-03-17T15:56:48Z" user="Wright One" uid="261189" lat="22.2909239" lon="114.1989217">
+  <tag k="railway" v="level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="5098882305" visible="true" version="5" changeset="148778712" timestamp="2024-03-17T15:56:48Z" user="Wright One" uid="261189" lat="22.2909443" lon="114.1989964">
+  <tag k="railway" v="level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="5098932911" visible="true" version="6" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2844551" lon="114.2200765">
+  <tag k="crossing" v="no"/>
+  <tag k="foot" v="no"/>
+  <tag k="highway:ref" v="H152"/>
+  <tag k="level_crossing" v="traffic_signals"/>
+  <tag k="railway" v="level_crossing"/>
+  <tag k="ref" v="H152"/>
+  <tag k="traffic_signals" v="yes"/>
+  <tag k="traffic_signals:ref" v="H152"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="5098932913" visible="true" version="2" changeset="76247484" timestamp="2019-10-26T16:33:20Z" user="Wright One" uid="261189" lat="22.2845193" lon="114.2200167"/>
+ <node id="5118426084" visible="true" version="2" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2765706" lon="114.1803770"/>
+ <node id="6424317058" visible="true" version="4" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2846501" lon="114.2155584">
+  <tag k="railway" v="crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="6475303977" visible="true" version="8" changeset="167608763" timestamp="2025-06-14T11:30:33Z" user="vectorial8192" uid="10815817" lat="22.2793823" lon="114.1870854">
+  <tag k="crossing" v="separate"/>
+  <tag k="level_crossing" v="traffic_signals"/>
+  <tag k="railway" v="level_crossing"/>
+  <tag k="ref" v="H146"/>
+  <tag k="traffic_signals:ref" v="H146"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="6475303981" visible="true" version="2" changeset="76859372" timestamp="2019-11-10T04:22:54Z" user="Wright One" uid="261189" lat="22.2798257" lon="114.1882775"/>
+ <node id="6475303983" visible="true" version="5" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2796548" lon="114.1880036">
+  <tag k="railway" v="crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="6781156051" visible="true" version="6" changeset="99957920" timestamp="2021-02-25T08:14:24Z" user="SWF8" uid="3524812" lat="22.2785512" lon="114.1796355">
+  <tag k="crossing" v="separate"/>
+  <tag k="crossing:separate" v="traffic_signals"/>
+  <tag k="description" v="香港電車 Hong Kong Tramways"/>
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="junction" v="no"/>
+  <tag k="ref" v="H002"/>
+  <tag k="traffic_signals" v="signal"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="6781156052" visible="true" version="6" changeset="97501577" timestamp="2021-01-14T14:48:34Z" user="Kovoschiz" uid="6250193" lat="22.2785771" lon="114.1796266">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="crossing:island" v="yes"/>
+  <tag k="railway" v="crossing"/>
+  <tag k="ref" v="H002"/>
+  <tag k="ref:TD" v="H002"/>
+ </node>
+ <node id="6799200158" visible="true" version="3" changeset="166694319" timestamp="2025-05-24T12:12:18Z" user="Wright One" uid="261189" lat="22.2793432" lon="114.1873295"/>
+ <node id="6799200165" visible="true" version="3" changeset="166694319" timestamp="2025-05-24T12:12:18Z" user="Wright One" uid="261189" lat="22.2793703" lon="114.1871247"/>
+ <node id="6864516587" visible="true" version="2" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2826091" lon="114.1921168"/>
+ <node id="6864516589" visible="true" version="2" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2824969" lon="114.1920508"/>
+ <node id="6872770230" visible="true" version="6" changeset="148758419" timestamp="2024-03-17T06:08:58Z" user="Wright One" uid="261189" lat="22.2848114" lon="114.2123060">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="kerb:both" v="no"/>
+  <tag k="railway" v="crossing"/>
+  <tag k="ref" v="H123"/>
+  <tag k="road_marking" v="zebra"/>
+  <tag k="road_marking:colour" v="yellow"/>
+  <tag k="tactile_paving:both" v="no"/>
+  <tag k="traffic_signals" v="signal"/>
+  <tag k="traffic_signals:ref" v="H123"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="6872770231" visible="true" version="3" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2846926" lon="114.2126975"/>
+ <node id="6872770232" visible="true" version="6" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2846600" lon="114.2129335">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="crossing:island" v="left"/>
+  <tag k="kerb:left" v="flush"/>
+  <tag k="kerb:right" v="no"/>
+  <tag k="level_crossing" v="no"/>
+  <tag k="railway" v="crossing"/>
+  <tag k="ref" v="H123"/>
+  <tag k="road_marking" v="zebra"/>
+  <tag k="road_marking:colour" v="yellow"/>
+  <tag k="tactile_paving:left" v="yes"/>
+  <tag k="tactile_paving:left:colour" v="yellow"/>
+  <tag k="tactile_paving:right" v="no"/>
+  <tag k="traffic_signals" v="signal"/>
+  <tag k="traffic_signals:ref" v="H123"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="6872770234" visible="true" version="4" changeset="167897105" timestamp="2025-06-21T03:45:16Z" user="Wright One" uid="261189" lat="22.2849991" lon="114.2117352"/>
+ <node id="6872770237" visible="true" version="4" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2846578" lon="114.2129782"/>
+ <node id="6910862085" visible="true" version="1" changeset="76128772" timestamp="2019-10-24T01:36:33Z" user="Wright One" uid="261189" lat="22.2802730" lon="114.2252028"/>
+ <node id="6918662947" visible="true" version="1" changeset="76247484" timestamp="2019-10-26T16:33:20Z" user="Wright One" uid="261189" lat="22.2846701" lon="114.2198302"/>
+ <node id="6918662948" visible="true" version="1" changeset="76247484" timestamp="2019-10-26T16:33:20Z" user="Wright One" uid="261189" lat="22.2849266" lon="114.2185035"/>
+ <node id="6918662949" visible="true" version="1" changeset="76247484" timestamp="2019-10-26T16:33:20Z" user="Wright One" uid="261189" lat="22.2848493" lon="114.2194601"/>
+ <node id="6918662955" visible="true" version="1" changeset="76247484" timestamp="2019-10-26T16:33:20Z" user="Wright One" uid="261189" lat="22.2848050" lon="114.2195793"/>
+ <node id="6918662956" visible="true" version="1" changeset="76247484" timestamp="2019-10-26T16:33:20Z" user="Wright One" uid="261189" lat="22.2848723" lon="114.2182123"/>
+ <node id="6919373644" visible="true" version="2" changeset="167897105" timestamp="2025-06-21T03:45:16Z" user="Wright One" uid="261189" lat="22.2851013" lon="114.2115615"/>
+ <node id="6919373645" visible="true" version="2" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2910799" lon="114.2088709"/>
+ <node id="6919373654" visible="true" version="3" changeset="167897105" timestamp="2025-06-21T03:45:16Z" user="Wright One" uid="261189" lat="22.2868754" lon="114.2104247"/>
+ <node id="6923680339" visible="true" version="2" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2919802" lon="114.2068559"/>
+ <node id="6923680340" visible="true" version="5" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2914850" lon="114.2082178">
+  <tag k="colour" v="yellow"/>
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="crossing:island" v="both"/>
+  <tag k="railway" v="crossing"/>
+  <tag k="ref" v="H322"/>
+  <tag k="road_marking" v="zebra"/>
+  <tag k="traffic_signals" v="signal"/>
+  <tag k="traffic_signals:ref" v="H322"/>
+ </node>
+ <node id="6923680344" visible="true" version="2" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2920171" lon="114.2066712"/>
+ <node id="6923680345" visible="true" version="1" changeset="76280110" timestamp="2019-10-28T01:38:17Z" user="Wright One" uid="261189" lat="22.2919752" lon="114.2040648"/>
+ <node id="6923680349" visible="true" version="1" changeset="76280110" timestamp="2019-10-28T01:38:17Z" user="Wright One" uid="261189" lat="22.2920769" lon="114.2060372"/>
+ <node id="6923680351" visible="true" version="1" changeset="76280110" timestamp="2019-10-28T01:38:17Z" user="Wright One" uid="261189" lat="22.2919940" lon="114.2041496"/>
+ <node id="6923680352" visible="true" version="2" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2920115" lon="114.2067154"/>
+ <node id="6923680353" visible="true" version="2" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2914500" lon="114.2083097"/>
+ <node id="6923680357" visible="true" version="2" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2920031" lon="114.2067598"/>
+ <node id="6923680364" visible="true" version="1" changeset="76280110" timestamp="2019-10-28T01:38:17Z" user="Wright One" uid="261189" lat="22.2920776" lon="114.2045057"/>
+ <node id="6923680369" visible="true" version="1" changeset="76280110" timestamp="2019-10-28T01:38:17Z" user="Wright One" uid="261189" lat="22.2810816" lon="114.2228985"/>
+ <node id="6923680376" visible="true" version="1" changeset="76280110" timestamp="2019-10-28T01:38:17Z" user="Wright One" uid="261189" lat="22.2921116" lon="114.2057755"/>
+ <node id="6923680382" visible="true" version="2" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2914002" lon="114.2084218"/>
+ <node id="6923688391" visible="true" version="1" changeset="76280110" timestamp="2019-10-28T01:38:17Z" user="Wright One" uid="261189" lat="22.2921151" lon="114.2057258"/>
+ <node id="6923799432" visible="true" version="2" changeset="166352444" timestamp="2025-05-16T13:49:20Z" user="Wright One" uid="261189" lat="22.2903767" lon="114.1962866"/>
+ <node id="6923799436" visible="true" version="1" changeset="76281849" timestamp="2019-10-28T04:30:16Z" user="Wright One" uid="261189" lat="22.2901906" lon="114.1954421"/>
+ <node id="6923799446" visible="true" version="1" changeset="76281849" timestamp="2019-10-28T04:30:16Z" user="Wright One" uid="261189" lat="22.2902099" lon="114.1955008"/>
+ <node id="6924815698" visible="true" version="3" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2915049" lon="114.2017575">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="railway" v="crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="6926117134" visible="true" version="2" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2846800" lon="114.2127618"/>
+ <node id="6944318091" visible="true" version="2" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2771020" lon="114.1801869"/>
+ <node id="6944318092" visible="true" version="2" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2776283" lon="114.1799576"/>
+ <node id="6944318120" visible="true" version="2" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2762151" lon="114.1807166"/>
+ <node id="6944318121" visible="true" version="2" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2762619" lon="114.1806894"/>
+ <node id="6945512044" visible="true" version="1" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2833435" lon="114.1924568"/>
+ <node id="6945512046" visible="true" version="1" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2835777" lon="114.1925326"/>
+ <node id="6945512048" visible="true" version="1" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2836807" lon="114.1925592"/>
+ <node id="6945512052" visible="true" version="1" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2851705" lon="114.1928725"/>
+ <node id="6945512055" visible="true" version="1" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2855834" lon="114.1929176"/>
+ <node id="6945512058" visible="true" version="2" changeset="113230546" timestamp="2021-11-01T11:10:45Z" user="Wright One" uid="261189" lat="22.2860723" lon="114.1929132"/>
+ <node id="6945512059" visible="true" version="1" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2872083" lon="114.1928725"/>
+ <node id="6945512061" visible="true" version="1" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2873590" lon="114.1928977"/>
+ <node id="6945512063" visible="true" version="1" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2875780" lon="114.1929653"/>
+ <node id="6945512064" visible="true" version="1" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2875326" lon="114.1929480"/>
+ <node id="6945512068" visible="true" version="1" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2876858" lon="114.1930166"/>
+ <node id="6945512069" visible="true" version="1" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2878529" lon="114.1931220"/>
+ <node id="6945531487" visible="true" version="1" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2880103" lon="114.1932436"/>
+ <node id="6945531490" visible="true" version="1" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2879745" lon="114.1932131"/>
+ <node id="6945531491" visible="true" version="1" changeset="76599629" timestamp="2019-11-04T14:58:27Z" user="Wright One" uid="261189" lat="22.2879276" lon="114.1931761"/>
+ <node id="6945531495" visible="true" version="2" changeset="164207875" timestamp="2025-03-28T13:22:44Z" user="Wright One" uid="261189" lat="22.2899523" lon="114.1950110"/>
+ <node id="6945531498" visible="true" version="2" changeset="164207875" timestamp="2025-03-28T13:22:44Z" user="Wright One" uid="261189" lat="22.2900367" lon="114.1951238"/>
+ <node id="6945531500" visible="true" version="2" changeset="164207875" timestamp="2025-03-28T13:22:44Z" user="Wright One" uid="261189" lat="22.2900720" lon="114.1951782"/>
+ <node id="6946660992" visible="true" version="1" changeset="76618654" timestamp="2019-11-05T01:08:36Z" user="Wright One" uid="261189" lat="22.2822303" lon="114.1918167"/>
+ <node id="6946660998" visible="true" version="1" changeset="76618654" timestamp="2019-11-05T01:08:36Z" user="Wright One" uid="261189" lat="22.2820985" lon="114.1916407"/>
+ <node id="6946661002" visible="true" version="1" changeset="76618654" timestamp="2019-11-05T01:08:36Z" user="Wright One" uid="261189" lat="22.2824293" lon="114.1920025"/>
+ <node id="6946661003" visible="true" version="1" changeset="76618654" timestamp="2019-11-05T01:08:36Z" user="Wright One" uid="261189" lat="22.2823236" lon="114.1919129"/>
+ <node id="6946661004" visible="true" version="1" changeset="76618654" timestamp="2019-11-05T01:08:36Z" user="Wright One" uid="261189" lat="22.2821366" lon="114.1916974"/>
+ <node id="6946661005" visible="true" version="1" changeset="76618654" timestamp="2019-11-05T01:08:36Z" user="Wright One" uid="261189" lat="22.2825467" lon="114.1920823"/>
+ <node id="6953121583" visible="true" version="2" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2751547" lon="114.1798674"/>
+ <node id="6953121584" visible="true" version="1" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2775736" lon="114.1799786"/>
+ <node id="6953150585" visible="true" version="1" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2786903" lon="114.1796139"/>
+ <node id="6953150587" visible="true" version="1" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2709376" lon="114.1814843"/>
+ <node id="6953150588" visible="true" version="1" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2766331" lon="114.1803383"/>
+ <node id="6953150590" visible="true" version="1" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2698086" lon="114.1833941"/>
+ <node id="6953150591" visible="true" version="2" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2761900" lon="114.1807244"/>
+ <node id="6953150592" visible="true" version="1" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2697953" lon="114.1841309"/>
+ <node id="6953150593" visible="true" version="2" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2748313" lon="114.1796236"/>
+ <node id="6953150594" visible="true" version="1" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2772206" lon="114.1801405"/>
+ <node id="6953150596" visible="true" version="2" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2717981" lon="114.1801989"/>
+ <node id="6953150597" visible="true" version="1" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2766984" lon="114.1803129"/>
+ <node id="6953150601" visible="true" version="2" changeset="148894328" timestamp="2024-03-20T06:39:38Z" user="Wright One" uid="261189" lat="22.2787303" lon="114.1796237"/>
+ <node id="6953150602" visible="true" version="1" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2697947" lon="114.1840162"/>
+ <node id="6953150603" visible="true" version="1" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2709144" lon="114.1815295"/>
+ <node id="6953150604" visible="true" version="1" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2772481" lon="114.1801287"/>
+ <node id="6953150607" visible="true" version="1" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2764678" lon="114.1804804"/>
+ <node id="6953150610" visible="true" version="2" changeset="154548643" timestamp="2024-07-29T07:18:07Z" user="Wright One" uid="261189" lat="22.2784066" lon="114.1796878"/>
+ <node id="6953150611" visible="true" version="2" changeset="148894328" timestamp="2024-03-20T06:39:38Z" user="Wright One" uid="261189" lat="22.2788095" lon="114.1796897"/>
+ <node id="6953150612" visible="true" version="1" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2697959" lon="114.1840445"/>
+ <node id="6953150613" visible="true" version="1" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2707402" lon="114.1819446"/>
+ <node id="6953150614" visible="true" version="1" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2770136" lon="114.1802148"/>
+ <node id="6953150618" visible="true" version="1" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2765460" lon="114.1803995"/>
+ <node id="6953150620" visible="true" version="2" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2752411" lon="114.1799478"/>
+ <node id="6953150621" visible="true" version="1" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2779152" lon="114.1798531"/>
+ <node id="6953150622" visible="true" version="1" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2786649" lon="114.1796123"/>
+ <node id="6953150623" visible="true" version="1" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2697943" lon="114.1840871"/>
+ <node id="6953150624" visible="true" version="1" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2708767" lon="114.1816136"/>
+ <node id="6953150628" visible="true" version="1" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2699920" lon="114.1830061"/>
+ <node id="6953150629" visible="true" version="1" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2762385" lon="114.1807051"/>
+ <node id="6953150631" visible="true" version="2" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2750521" lon="114.1797780"/>
+ <node id="6953150632" visible="true" version="1" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2774799" lon="114.1800188"/>
+ <node id="6953150633" visible="true" version="1" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2786263" lon="114.1796144"/>
+ <node id="6953150635" visible="true" version="1" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2709707" lon="114.1814242"/>
+ <node id="6953150636" visible="true" version="1" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2766080" lon="114.1803513"/>
+ <node id="6953150637" visible="true" version="1" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2786057" lon="114.1796185"/>
+ <node id="6953150639" visible="true" version="1" changeset="76731100" timestamp="2019-11-07T04:17:38Z" user="Wright One" uid="261189" lat="22.2701024" lon="114.1828548"/>
+ <node id="6953150640" visible="true" version="2" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2761379" lon="114.1807300"/>
+ <node id="6954506293" visible="true" version="1" changeset="76763479" timestamp="2019-11-07T14:45:28Z" user="Wright One" uid="261189" lat="22.2800880" lon="114.1831089"/>
+ <node id="6954506297" visible="true" version="1" changeset="76763479" timestamp="2019-11-07T14:45:28Z" user="Wright One" uid="261189" lat="22.2800961" lon="114.1831400"/>
+ <node id="6954506300" visible="true" version="2" changeset="76787952" timestamp="2019-11-08T06:27:39Z" user="Wright One" uid="261189" lat="22.2801016" lon="114.1831727"/>
+ <node id="6956676645" visible="true" version="2" changeset="166694319" timestamp="2025-05-24T12:12:18Z" user="Wright One" uid="261189" lat="22.2793919" lon="114.1875693"/>
+ <node id="6956676662" visible="true" version="2" changeset="166694319" timestamp="2025-05-24T12:12:18Z" user="Wright One" uid="261189" lat="22.2794232" lon="114.1876354"/>
+ <node id="6956676664" visible="true" version="1" changeset="76787952" timestamp="2019-11-08T06:27:39Z" user="Wright One" uid="261189" lat="22.2801582" lon="114.1846069"/>
+ <node id="6956676667" visible="true" version="2" changeset="181778972" timestamp="2026-04-24T18:38:28Z" user="Kovoschiz" uid="6250193" lat="22.2801561" lon="114.1846316"/>
+ <node id="6961195448" visible="true" version="3" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2800659" lon="114.1886320">
+  <tag k="railway" v="level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="6961195449" visible="true" version="4" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2806130" lon="114.1894397">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="railway" v="crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="7009742592" visible="true" version="2" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2912347" lon="114.2004384">
+  <tag k="railway" v="crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="7009742594" visible="true" version="2" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2906452" lon="114.1975746">
+  <tag k="railway" v="crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="7009742599" visible="true" version="3" changeset="148894328" timestamp="2024-03-20T06:39:38Z" user="Wright One" uid="261189" lat="22.2787974" lon="114.1796720">
+  <tag k="intersection" v="offset"/>
+  <tag k="level_crossing" v="traffic_signals"/>
+  <tag k="railway" v="level_crossing"/>
+  <tag k="ref" v="H002"/>
+  <tag k="traffic_signals" v="signal"/>
+ </node>
+ <node id="7009742604" visible="true" version="5" changeset="181778972" timestamp="2026-04-24T18:38:28Z" user="Kovoschiz" uid="6250193" lat="22.2801521" lon="114.1846635">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="crossing:island" v="separate"/>
+  <tag k="crossing:kerb" v="separate"/>
+  <tag k="crossing:markings" v="zebra;dots"/>
+  <tag k="crossing:markings:colour" v="yellow;unknown"/>
+  <tag k="crossing:markings:structure" v="paint;unknown"/>
+  <tag k="crossing:signals" v="dedicated"/>
+  <tag k="railway" v="crossing"/>
+  <tag k="ref" v="H030"/>
+  <tag k="road_marking" v="zebra"/>
+  <tag k="tactile_paving" v="kerb"/>
+  <tag k="traffic_signals" v="signal"/>
+  <tag k="traffic_signals:ref" v="H030"/>
+ </node>
+ <node id="7009742617" visible="true" version="3" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2746191" lon="114.1795217">
+  <tag k="railway" v="level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="7009742618" visible="true" version="3" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2746562" lon="114.1795382">
+  <tag k="railway" v="level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="7009742619" visible="true" version="2" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2774476" lon="114.1800341">
+  <tag k="railway" v="level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="7009742620" visible="true" version="3" changeset="138187719" timestamp="2023-07-06T12:58:55Z" user="HolloWorld" uid="6946532" lat="22.2764008" lon="114.1805528">
+  <tag k="railway" v="level_crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="7060166406" visible="true" version="4" changeset="148894328" timestamp="2024-03-20T06:39:38Z" user="Wright One" uid="261189" lat="22.2801593" lon="114.1845533">
+  <tag k="crossing" v="separate"/>
+  <tag k="crossing:separate" v="traffic_signals"/>
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="junction" v="no"/>
+  <tag k="railway" v="no"/>
+  <tag k="ref" v="H030"/>
+  <tag k="traffic_signals" v="signal"/>
+  <tag k="traffic_signals:ref" v="H030"/>
+ </node>
+ <node id="7084644609" visible="true" version="3" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2909884" lon="114.2089545">
+  <tag k="crossing" v="no"/>
+  <tag k="description" v="香港電車 Hong Kong Tramways"/>
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="level_crossing" v="separate"/>
+  <tag k="level_crossing:separate" v="traffic_signals"/>
+  <tag k="ref" v="H133"/>
+  <tag k="traffic_signals" v="signal"/>
+ </node>
+ <node id="7132963164" visible="true" version="1" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2767126" lon="114.2293896"/>
+ <node id="7132963165" visible="true" version="1" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2767140" lon="114.2293731"/>
+ <node id="7132963166" visible="true" version="1" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2767179" lon="114.2293387"/>
+ <node id="7132963167" visible="true" version="1" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2767127" lon="114.2294225"/>
+ <node id="7132963168" visible="true" version="1" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2767156" lon="114.2294552"/>
+ <node id="7132963169" visible="true" version="1" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2767137" lon="114.2294387"/>
+ <node id="7132963170" visible="true" version="1" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2767248" lon="114.2295021"/>
+ <node id="7132963171" visible="true" version="1" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2767185" lon="114.2294724"/>
+ <node id="7132963172" visible="true" version="1" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2767121" lon="114.2294062"/>
+ <node id="7132979588" visible="true" version="1" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2767823" lon="114.2296258"/>
+ <node id="7132979589" visible="true" version="1" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2767591" lon="114.2295906"/>
+ <node id="7132979590" visible="true" version="1" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2767395" lon="114.2295499"/>
+ <node id="7132979591" visible="true" version="1" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2767485" lon="114.2295713"/>
+ <node id="7132979592" visible="true" version="1" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2767985" lon="114.2296449"/>
+ <node id="7132979593" visible="true" version="1" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2768568" lon="114.2296964"/>
+ <node id="7132979594" visible="true" version="1" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2768786" lon="114.2297101"/>
+ <node id="7132979608" visible="true" version="1" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2775888" lon="114.2300997"/>
+ <node id="7132979609" visible="true" version="2" changeset="153226530" timestamp="2024-06-27T02:33:57Z" user="Wright One" uid="261189" lat="22.2776157" lon="114.2301013"/>
+ <node id="7132979610" visible="true" version="1" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2776582" lon="114.2300967"/>
+ <node id="7132979611" visible="true" version="1" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2776397" lon="114.2300996"/>
+ <node id="7132979612" visible="true" version="1" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2777521" lon="114.2300591"/>
+ <node id="7132979613" visible="true" version="1" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2777064" lon="114.2300828"/>
+ <node id="7132979614" visible="true" version="1" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2777227" lon="114.2300754"/>
+ <node id="7132979615" visible="true" version="1" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2776936" lon="114.2300875"/>
+ <node id="7132979616" visible="true" version="1" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2776748" lon="114.2300930"/>
+ <node id="7132979617" visible="true" version="2" changeset="153226530" timestamp="2024-06-27T02:33:57Z" user="Wright One" uid="261189" lat="22.2778264" lon="114.2300618"/>
+ <node id="7132979618" visible="true" version="2" changeset="153226530" timestamp="2024-06-27T02:33:57Z" user="Wright One" uid="261189" lat="22.2777757" lon="114.2300534"/>
+ <node id="7132979619" visible="true" version="1" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2778899" lon="114.2301528"/>
+ <node id="7132979623" visible="true" version="1" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2778706" lon="114.2300992"/>
+ <node id="7132979624" visible="true" version="1" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2778521" lon="114.2300785"/>
+ <node id="7132979625" visible="true" version="1" changeset="79605518" timestamp="2020-01-15T11:46:50Z" user="Wright One" uid="261189" lat="22.2778826" lon="114.2301223"/>
+ <node id="7160938991" visible="true" version="3" changeset="156752103" timestamp="2024-09-18T01:29:16Z" user="Wright One" uid="261189" lat="22.2808649" lon="114.1898124">
+  <tag k="electric" v="no"/>
+  <tag k="local_operated" v="yes"/>
+  <tag k="railway" v="switch"/>
+  <tag k="turnout_side" v="left"/>
+ </node>
+ <node id="7160938997" visible="true" version="3" changeset="156752103" timestamp="2024-09-18T01:29:16Z" user="Wright One" uid="261189" lat="22.2908361" lon="114.1984996">
+  <tag k="electric" v="no"/>
+  <tag k="local_operated" v="yes"/>
+  <tag k="railway" v="switch"/>
+  <tag k="turnout_side" v="left"/>
+ </node>
+ <node id="7160938998" visible="true" version="3" changeset="99957920" timestamp="2021-02-25T08:14:24Z" user="SWF8" uid="3524812" lat="22.2908646" lon="114.1986379">
+  <tag k="crossing" v="no"/>
+  <tag k="description" v="香港電車 Hong Kong Tramways"/>
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="ref" v="H095"/>
+  <tag k="traffic_signals:ref" v="H095"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="7160939001" visible="true" version="5" changeset="148778712" timestamp="2024-03-17T15:56:48Z" user="Wright One" uid="261189" lat="22.2909684" lon="114.1990963">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="railway" v="crossing"/>
+  <tag k="ref" v="H095"/>
+  <tag k="traffic_signals:ref" v="H095"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="7227321371" visible="true" version="2" changeset="82973406" timestamp="2020-04-02T10:51:29Z" user="Wright One" uid="261189" lat="22.2801388" lon="114.1847267"/>
+ <node id="7246977636" visible="true" version="3" changeset="93483528" timestamp="2020-11-03T12:32:13Z" user="Kovoschiz" uid="6250193" lat="22.2869107" lon="114.1928678">
+  <tag k="give_way" v="minor"/>
+  <tag k="level_crossing" v="priority"/>
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="7335412760" visible="true" version="1" changeset="82724858" timestamp="2020-03-27T16:44:02Z" user="Wright One" uid="261189" lat="22.2771518" lon="114.2278715"/>
+ <node id="7335412762" visible="true" version="1" changeset="82724858" timestamp="2020-03-27T16:44:02Z" user="Wright One" uid="261189" lat="22.2768947" lon="114.2284362"/>
+ <node id="7335412763" visible="true" version="1" changeset="82724858" timestamp="2020-03-27T16:44:02Z" user="Wright One" uid="261189" lat="22.2768769" lon="114.2285039"/>
+ <node id="7335412765" visible="true" version="1" changeset="82724858" timestamp="2020-03-27T16:44:02Z" user="Wright One" uid="261189" lat="22.2768876" lon="114.2284602"/>
+ <node id="7375273770" visible="true" version="1" changeset="83195047" timestamp="2020-04-07T11:39:24Z" user="Wright One" uid="261189" lat="22.2697508" lon="114.1837821"/>
+ <node id="7375273771" visible="true" version="1" changeset="83195047" timestamp="2020-04-07T11:39:24Z" user="Wright One" uid="261189" lat="22.2697517" lon="114.1837015"/>
+ <node id="7375273781" visible="true" version="1" changeset="83195047" timestamp="2020-04-07T11:39:24Z" user="Wright One" uid="261189" lat="22.2706399" lon="114.1821438"/>
+ <node id="7590272948" visible="true" version="5" changeset="157576137" timestamp="2024-10-07T10:53:02Z" user="vectorial8192" uid="10815817" lat="22.2793353" lon="114.1810841">
+  <tag k="railway" v="crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="7596282957" visible="true" version="3" changeset="107914205" timestamp="2021-07-13T13:39:58Z" user="Kovoschiz" uid="6250193" lat="22.2846772" lon="114.2136705">
+  <tag k="railway" v="crossing"/>
+  <tag k="train" v="no"/>
+  <tag k="tram" v="yes"/>
+ </node>
+ <node id="7727420735" visible="true" version="1" changeset="88187743" timestamp="2020-07-18T22:27:21Z" user="Kovoschiz" uid="6250193" lat="22.2779053" lon="114.1798567">
+  <tag k="crossing" v="no"/>
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="level_crossing" v="separate"/>
+  <tag k="level_crossing:separate" v="traffic_signals"/>
+  <tag k="ref" v="H038"/>
+  <tag k="traffic_signals" v="signal"/>
+  <tag k="traffic_signals:ref" v="H038"/>
+ </node>
+ <node id="7727420738" visible="true" version="2" changeset="154548643" timestamp="2024-07-29T07:18:07Z" user="Wright One" uid="261189" lat="22.2781224" lon="114.1797800">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="crossing:island" v="left"/>
+  <tag k="railway" v="crossing"/>
+  <tag k="ref" v="H038"/>
+  <tag k="traffic_signals:ref" v="H038"/>
+ </node>
+ <node id="8034963028" visible="true" version="3" changeset="166725576" timestamp="2025-05-25T09:11:34Z" user="Kovoschiz" uid="6250193" lat="22.2794647" lon="114.1814257">
+  <tag k="access" v="private"/>
+  <tag k="emergency" v="yes"/>
+  <tag k="level_crossing" v="uncontrolled"/>
+  <tag k="motor_vehicle:conditional" v="yes @ (emergency)"/>
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="8078011578" visible="true" version="2" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2917601" lon="114.2030089">
+  <tag k="crossing" v="no"/>
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="intersection" v="traffic_signals"/>
+  <tag k="level_crossing" v="separate"/>
+  <tag k="railway" v="signal"/>
+  <tag k="ref" v="H093"/>
+  <tag k="traffic_signals" v="signal"/>
+  <tag k="traffic_signals:ref" v="H093"/>
+ </node>
+ <node id="8078011580" visible="true" version="2" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2920985" lon="114.2047115"/>
+ <node id="8321380696" visible="true" version="1" changeset="97500208" timestamp="2021-01-14T14:18:24Z" user="Kovoschiz" uid="6250193" lat="22.2852452" lon="114.1928836">
+  <tag k="crossing" v="no"/>
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="intersection" v="normal"/>
+  <tag k="level_crossing" v="separate"/>
+  <tag k="level_crossing:separate" v="traffic_signals"/>
+  <tag k="railway" v="signal"/>
+  <tag k="ref" v="H073"/>
+  <tag k="traffic_signals:ref" v="H073"/>
+ </node>
+ <node id="8321380698" visible="true" version="1" changeset="97500208" timestamp="2021-01-14T14:18:24Z" user="Kovoschiz" uid="6250193" lat="22.2853875" lon="114.1929017"/>
+ <node id="8353799764" visible="true" version="3" changeset="148894328" timestamp="2024-03-20T06:39:38Z" user="Wright One" uid="261189" lat="22.2787460" lon="114.1796309"/>
+ <node id="8353890041" visible="true" version="5" changeset="148778712" timestamp="2024-03-17T15:56:48Z" user="Wright One" uid="261189" lat="22.2910749" lon="114.1996184"/>
+ <node id="8353996721" visible="true" version="3" changeset="148778712" timestamp="2024-03-17T15:56:48Z" user="Wright One" uid="261189" lat="22.2910881" lon="114.1997236"/>
+ <node id="8442857198" visible="true" version="1" changeset="99684328" timestamp="2021-02-21T15:07:53Z" user="Kovoschiz" uid="6250193" lat="22.2797718" lon="114.1858800"/>
+ <node id="8442866826" visible="true" version="1" changeset="99684328" timestamp="2021-02-21T15:07:53Z" user="Kovoschiz" uid="6250193" lat="22.2798357" lon="114.1856801">
+  <tag k="crossing" v="separate"/>
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="junction" v="no"/>
+  <tag k="railway" v="no"/>
+  <tag k="ref" v="H465"/>
+  <tag k="traffic_signals" v="signal"/>
+  <tag k="traffic_signals:ref" v="H465"/>
+  <tag k="traffic_signals:turn" v="all"/>
+ </node>
+ <node id="8442866827" visible="true" version="1" changeset="99684328" timestamp="2021-02-21T15:07:53Z" user="Kovoschiz" uid="6250193" lat="22.2798277" lon="114.1857053"/>
+ <node id="8442866828" visible="true" version="1" changeset="99684328" timestamp="2021-02-21T15:07:53Z" user="Kovoschiz" uid="6250193" lat="22.2797763" lon="114.1858658"/>
+ <node id="8442866829" visible="true" version="1" changeset="99684328" timestamp="2021-02-21T15:07:53Z" user="Kovoschiz" uid="6250193" lat="22.2797805" lon="114.1858528"/>
+ <node id="8444625222" visible="true" version="1" changeset="99718142" timestamp="2021-02-22T06:30:47Z" user="Kovoschiz" uid="6250193" lat="22.2697536" lon="114.1836773"/>
+ <node id="8531792745" visible="true" version="1" changeset="101253995" timestamp="2021-03-18T11:10:52Z" user="Kovoschiz" uid="6250193" lat="22.2918398" lon="114.2033965">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="informal" v="yes"/>
+  <tag k="railway" v="crossing"/>
+  <tag k="road_marking" v="no"/>
+ </node>
+ <node id="8562160672" visible="true" version="1" changeset="101749764" timestamp="2021-03-25T23:54:22Z" user="Kovoschiz" uid="6250193" lat="22.2892369" lon="114.1943452">
+  <tag k="crossing" v="separate"/>
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="intersection" v="separate"/>
+  <tag k="level_crossing" v="separate"/>
+  <tag k="railway" v="yes"/>
+  <tag k="ref" v="H050"/>
+  <tag k="traffic_signals" v="signal"/>
+  <tag k="traffic_signals:ref" v="H050"/>
+ </node>
+ <node id="8562160678" visible="true" version="1" changeset="101749764" timestamp="2021-03-25T23:54:22Z" user="Kovoschiz" uid="6250193" lat="22.2892457" lon="114.1943533"/>
+ <node id="8562160692" visible="true" version="1" changeset="101749764" timestamp="2021-03-25T23:54:22Z" user="Kovoschiz" uid="6250193" lat="22.2895684" lon="114.1946430"/>
+ <node id="8562160693" visible="true" version="1" changeset="101749764" timestamp="2021-03-25T23:54:22Z" user="Kovoschiz" uid="6250193" lat="22.2894561" lon="114.1945419">
+  <tag k="crossing" v="separate"/>
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="intersection" v="separate"/>
+  <tag k="level_crossing" v="separate"/>
+  <tag k="railway" v="yes"/>
+  <tag k="ref" v="H050"/>
+  <tag k="traffic_signals" v="signal"/>
+  <tag k="traffic_signals:ref" v="H050"/>
+ </node>
+ <node id="8567765431" visible="true" version="3" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2912977" lon="114.2086000"/>
+ <node id="8567765433" visible="true" version="2" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2914997" lon="114.2081778">
+  <tag k="crossing" v="separate"/>
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="intersection" v="no"/>
+  <tag k="level_crossing" v="no"/>
+  <tag k="ref" v="H322"/>
+  <tag k="traffic_signals" v="signal"/>
+  <tag k="traffic_signals:ref" v="H322"/>
+  <tag k="traffic_signals:turn" v="all"/>
+ </node>
+ <node id="8567765434" visible="true" version="3" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2912606" lon="114.2086560"/>
+ <node id="9195795749" visible="true" version="3" changeset="167897105" timestamp="2025-06-21T03:45:16Z" user="Wright One" uid="261189" lat="22.2876416" lon="114.2101749">
+  <tag k="crossing" v="separate"/>
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="intersection" v="separate"/>
+  <tag k="level_crossing" v="separate"/>
+  <tag k="railway" v="yes"/>
+  <tag k="ref" v="H118"/>
+  <tag k="traffic_signals" v="signal"/>
+  <tag k="traffic_signals:ref" v="H118"/>
+ </node>
+ <node id="9195795752" visible="true" version="3" changeset="167897105" timestamp="2025-06-21T03:45:16Z" user="Wright One" uid="261189" lat="22.2869346" lon="114.2104037"/>
+ <node id="9195795754" visible="true" version="3" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2847187" lon="114.2125942"/>
+ <node id="9195795766" visible="true" version="3" changeset="167897105" timestamp="2025-06-21T03:45:16Z" user="Wright One" uid="261189" lat="22.2866405" lon="114.2105351"/>
+ <node id="9195795768" visible="true" version="3" changeset="167897105" timestamp="2025-06-21T03:45:16Z" user="Wright One" uid="261189" lat="22.2867798" lon="114.2104639"/>
+ <node id="9195795770" visible="true" version="3" changeset="167897105" timestamp="2025-06-21T03:45:16Z" user="Wright One" uid="261189" lat="22.2867287" lon="114.2104874"/>
+ <node id="9195795784" visible="true" version="4" changeset="167897105" timestamp="2025-06-21T03:45:16Z" user="Wright One" uid="261189" lat="22.2851606" lon="114.2114960"/>
+ <node id="9195795797" visible="true" version="4" changeset="167897105" timestamp="2025-06-21T03:45:16Z" user="Wright One" uid="261189" lat="22.2851869" lon="114.2114717"/>
+ <node id="9195795799" visible="true" version="3" changeset="167897105" timestamp="2025-06-21T03:45:16Z" user="Wright One" uid="261189" lat="22.2858592" lon="114.2110328">
+  <tag k="crossing" v="separate"/>
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="railway" v="yes"/>
+  <tag k="ref" v="H287"/>
+  <tag k="traffic_signals" v="signal"/>
+  <tag k="traffic_signals:ref" v="H287"/>
+ </node>
+ <node id="9195795810" visible="true" version="2" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2846627" lon="114.2128947">
+  <tag k="crossing" v="separate"/>
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="intersection" v="separate"/>
+  <tag k="level_crossing" v="separate"/>
+  <tag k="railway" v="yes"/>
+  <tag k="ref" v="H123"/>
+  <tag k="traffic_signals" v="signal"/>
+  <tag k="traffic_signals:ref" v="H123"/>
+ </node>
+ <node id="9195803146" visible="true" version="3" changeset="167897105" timestamp="2025-06-21T03:45:16Z" user="Wright One" uid="261189" lat="22.2850122" lon="114.2117056"/>
+ <node id="9195803147" visible="true" version="3" changeset="167897105" timestamp="2025-06-21T03:45:16Z" user="Wright One" uid="261189" lat="22.2850466" lon="114.2116399"/>
+ <node id="9195803148" visible="true" version="2" changeset="148758419" timestamp="2024-03-17T06:08:58Z" user="Wright One" uid="261189" lat="22.2848200" lon="114.2122792">
+  <tag k="crossing" v="separate"/>
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="intersection" v="separate"/>
+  <tag k="level_crossing" v="separate"/>
+  <tag k="railway" v="yes"/>
+  <tag k="ref" v="H123"/>
+  <tag k="traffic_signals" v="signal"/>
+  <tag k="traffic_signals:ref" v="H123"/>
+ </node>
+ <node id="9234884536" visible="true" version="2" changeset="166694319" timestamp="2025-05-24T12:12:18Z" user="Wright One" uid="261189" lat="22.2793558" lon="114.1874448"/>
+ <node id="9234884538" visible="true" version="2" changeset="166694319" timestamp="2025-05-24T12:12:18Z" user="Wright One" uid="261189" lat="22.2794554" lon="114.1868539">
+  <tag k="crossing" v="separate"/>
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="level_crossing" v="separate"/>
+  <tag k="railway" v="signal"/>
+  <tag k="railway:signal:catenary_mast" v="yes"/>
+  <tag k="railway:signal:route" v="yes"/>
+  <tag k="railway:signal:route:direction" v="forward"/>
+  <tag k="railway:signal:route:for" v="tram"/>
+  <tag k="railway:signal:route:form" v="light"/>
+  <tag k="railway:signal:route:position" v="left"/>
+  <tag k="traffic_signals:ref" v="H146"/>
+  <tag k="traffic_signals:tram" v="signal"/>
+  <tag k="traffic_signals:turn:tram" v="through"/>
+ </node>
+ <node id="9694763552" visible="true" version="1" changeset="120204218" timestamp="2022-04-26T10:08:45Z" user="kelvin1130" uid="9521290" lat="22.2705757" lon="114.1822485">
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="9710475093" visible="true" version="1" changeset="120484114" timestamp="2022-05-03T02:45:07Z" user="kelvin1130" uid="9521290" lat="22.2764597" lon="114.1804888"/>
+ <node id="9732426934" visible="true" version="1" changeset="120834484" timestamp="2022-05-11T11:08:00Z" user="Kovoschiz" uid="6250193" lat="22.2710439" lon="114.1813080"/>
+ <node id="10579014748" visible="true" version="1" changeset="131651661" timestamp="2023-01-24T13:17:12Z" user="Kovoschiz" uid="6250193" lat="22.2768156" lon="114.2288155">
+  <tag k="crossing" v="separate"/>
+  <tag k="direction" v="forward"/>
+  <tag k="give_way" v="minor"/>
+  <tag k="highway" v="give_way"/>
+ </node>
+ <node id="10579014750" visible="true" version="1" changeset="131651661" timestamp="2023-01-24T13:17:12Z" user="Kovoschiz" uid="6250193" lat="22.2767717" lon="114.2290467"/>
+ <node id="10579014751" visible="true" version="1" changeset="131651661" timestamp="2023-01-24T13:17:12Z" user="Kovoschiz" uid="6250193" lat="22.2767700" lon="114.2290554"/>
+ <node id="10579014754" visible="true" version="2" changeset="153226530" timestamp="2024-06-27T02:33:57Z" user="Wright One" uid="261189" lat="22.2775395" lon="114.2300825"/>
+ <node id="11553294433" visible="true" version="1" changeset="146699155" timestamp="2024-01-26T07:50:44Z" user="owennson" uid="1799954" lat="22.2796295" lon="114.2257959">
+  <tag k="railway" v="tram_crossing"/>
+ </node>
+ <node id="11739122587" visible="true" version="1" changeset="148778712" timestamp="2024-03-17T15:56:48Z" user="Wright One" uid="261189" lat="22.2909288" lon="114.1989407"/>
+ <node id="11739122588" visible="true" version="1" changeset="148778712" timestamp="2024-03-17T15:56:48Z" user="Wright One" uid="261189" lat="22.2909156" lon="114.1988843"/>
+ <node id="11739122591" visible="true" version="1" changeset="148778712" timestamp="2024-03-17T15:56:48Z" user="Wright One" uid="261189" lat="22.2910861" lon="114.1997106"/>
+ <node id="11739122594" visible="true" version="1" changeset="148778712" timestamp="2024-03-17T15:56:48Z" user="Wright One" uid="261189" lat="22.2910769" lon="114.1996313"/>
+ <node id="11832055621" visible="true" version="1" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2717735" lon="114.1802320"/>
+ <node id="11832055622" visible="true" version="1" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2718286" lon="114.1801641"/>
+ <node id="11832055623" visible="true" version="1" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2719764" lon="114.1800520"/>
+ <node id="11832055624" visible="true" version="1" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2719271" lon="114.1800814"/>
+ <node id="11832055625" visible="true" version="1" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2719537" lon="114.1800648"/>
+ <node id="11832055626" visible="true" version="1" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2734494" lon="114.1795083"/>
+ <node id="11832055627" visible="true" version="1" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2735699" lon="114.1794713"/>
+ <node id="11832055628" visible="true" version="1" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2737344" lon="114.1794329"/>
+ <node id="11832055629" visible="true" version="1" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2736350" lon="114.1794545"/>
+ <node id="11832055630" visible="true" version="1" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2738418" lon="114.1794143"/>
+ <node id="11832055631" visible="true" version="1" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2739676" lon="114.1794041"/>
+ <node id="11832055632" visible="true" version="1" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2738839" lon="114.1794103"/>
+ <node id="11832055633" visible="true" version="1" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2740874" lon="114.1794034"/>
+ <node id="11832055634" visible="true" version="1" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2742614" lon="114.1794216"/>
+ <node id="11832055635" visible="true" version="1" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2745815" lon="114.1795060"/>
+ <node id="11832055636" visible="true" version="1" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2744499" lon="114.1794625"/>
+ <node id="11832055637" visible="true" version="1" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2748585" lon="114.1796392"/>
+ <node id="11832055638" visible="true" version="1" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2747931" lon="114.1796036"/>
+ <node id="11832055639" visible="true" version="1" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2748879" lon="114.1796578"/>
+ <node id="11832055640" visible="true" version="1" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2749840" lon="114.1797255"/>
+ <node id="11832055641" visible="true" version="1" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2759761" lon="114.1806666"/>
+ <node id="11832055642" visible="true" version="1" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2750851" lon="114.1798054"/>
+ <node id="11832055643" visible="true" version="1" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2759993" lon="114.1806862"/>
+ <node id="11832055644" visible="true" version="1" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2760204" lon="114.1807000"/>
+ <node id="11832055645" visible="true" version="1" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189" lat="22.2760478" lon="114.1807133"/>
+ <node id="12079638461" visible="true" version="1" changeset="154548643" timestamp="2024-07-29T07:18:07Z" user="Wright One" uid="261189" lat="22.2783121" lon="114.1797159"/>
+ <node id="12079638462" visible="true" version="1" changeset="154548643" timestamp="2024-07-29T07:18:07Z" user="Wright One" uid="261189" lat="22.2783754" lon="114.1796979"/>
+ <node id="12336660610" visible="true" version="1" changeset="159080148" timestamp="2024-11-13T08:12:03Z" user="patricklee8" uid="2887656" lat="22.2901788" lon="114.1954100">
+  <tag k="railway" v="tram_crossing"/>
+ </node>
+ <node id="12353243578" visible="true" version="2" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2920510" lon="114.2062697"/>
+ <node id="12450651827" visible="true" version="2" changeset="164210687" timestamp="2025-03-28T14:36:00Z" user="Wright One" uid="261189" lat="22.2910313" lon="114.2089170"/>
+ <node id="12592622843" visible="true" version="2" changeset="176740164" timestamp="2026-01-02T12:10:57Z" user="Wright One" uid="261189" lat="22.2887505" lon="114.2098138">
+  <tag k="railway" v="switch"/>
+ </node>
+ <node id="12860650252" visible="true" version="1" changeset="166694319" timestamp="2025-05-24T12:12:18Z" user="Wright One" uid="261189" lat="22.2793718" lon="114.1875119"/>
+ <node id="13138017381" visible="true" version="1" changeset="171826522" timestamp="2025-09-12T11:16:11Z" user="vectorial8192" uid="10815817" lat="22.2884509" lon="114.2099127"/>
+ <node id="13154503242" visible="true" version="1" changeset="172139460" timestamp="2025-09-19T03:02:06Z" user="seewhyso" uid="9161716" lat="22.2776235" lon="114.2301007">
+  <tag k="railway" v="tram_level_crossing"/>
+ </node>
+ <node id="13154503243" visible="true" version="1" changeset="172139460" timestamp="2025-09-19T03:02:06Z" user="seewhyso" uid="9161716" lat="22.2846456" lon="114.2157532">
+  <tag k="railway" v="tram_crossing"/>
+ </node>
+ <way id="84588466" visible="true" version="25" changeset="162524465" timestamp="2025-02-15T03:24:04Z" user="cnvery" uid="3627342">
+  <nd ref="292204869"/>
+  <nd ref="11832055627"/>
+  <nd ref="11832055629"/>
+  <nd ref="3141258638"/>
+  <nd ref="11832055628"/>
+  <nd ref="982743776"/>
+  <nd ref="11832055630"/>
+  <nd ref="11832055632"/>
+  <nd ref="11832055631"/>
+  <nd ref="3141258642"/>
+  <nd ref="11832055633"/>
+  <nd ref="982743780"/>
+  <nd ref="11832055634"/>
+  <nd ref="3141258643"/>
+  <nd ref="982743784"/>
+  <nd ref="11832055636"/>
+  <nd ref="3141258645"/>
+  <nd ref="11832055635"/>
+  <nd ref="7009742617"/>
+  <nd ref="7009742618"/>
+  <nd ref="982743787"/>
+  <nd ref="11832055638"/>
+  <nd ref="6953150593"/>
+  <nd ref="11832055637"/>
+  <nd ref="11832055639"/>
+  <nd ref="292204870"/>
+  <nd ref="11832055640"/>
+  <nd ref="6953150631"/>
+  <nd ref="11832055642"/>
+  <nd ref="6953121583"/>
+  <nd ref="6953150620"/>
+  <nd ref="3112114532"/>
+  <nd ref="11832055641"/>
+  <nd ref="11832055643"/>
+  <nd ref="11832055644"/>
+  <nd ref="11832055645"/>
+  <nd ref="292204872"/>
+  <nd ref="292204941"/>
+  <nd ref="6953150640"/>
+  <nd ref="1012752139"/>
+  <nd ref="6953150591"/>
+  <nd ref="6944318120"/>
+  <nd ref="6953150629"/>
+  <nd ref="6944318121"/>
+  <nd ref="274479670"/>
+  <nd ref="7009742620"/>
+  <nd ref="9710475093"/>
+  <nd ref="6953150607"/>
+  <nd ref="6953150618"/>
+  <nd ref="5118426084"/>
+  <nd ref="6953150636"/>
+  <nd ref="6953150588"/>
+  <nd ref="977634114"/>
+  <nd ref="6953150597"/>
+  <nd ref="6953150614"/>
+  <nd ref="6944318091"/>
+  <nd ref="6953150594"/>
+  <nd ref="6953150604"/>
+  <nd ref="7009742619"/>
+  <nd ref="6953150632"/>
+  <nd ref="6953121584"/>
+  <nd ref="6944318092"/>
+  <nd ref="7727420735"/>
+  <nd ref="6953150621"/>
+  <nd ref="990625759"/>
+  <nd ref="1012752101"/>
+  <nd ref="7727420738"/>
+  <nd ref="1618530654"/>
+  <nd ref="12079638461"/>
+  <nd ref="12079638462"/>
+  <nd ref="6953150610"/>
+  <nd ref="2007744664"/>
+  <nd ref="6781156051"/>
+  <nd ref="6781156052"/>
+  <nd ref="2300434323"/>
+  <tag k="brand" v="香港電車 Hong Kong Tramways"/>
+  <tag k="brand:en" v="Hong Kong Tramways"/>
+  <tag k="brand:wikidata" v="Q385245"/>
+  <tag k="brand:zh" v="香港電車"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="electrified:contact_line" v="trolley"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1067"/>
+  <tag k="importance" v="trunk"/>
+  <tag k="name" v="跑馬地圈 Happy Valley Loop"/>
+  <tag k="name:en" v="Happy Valley Loop"/>
+  <tag k="name:zh" v="跑馬地圈"/>
+  <tag k="name:zh-Hans" v="跑马地圈"/>
+  <tag k="name:zh-Hant" v="跑馬地圈"/>
+  <tag k="network" v="香港電車 Hong Kong Tramways"/>
+  <tag k="network:en" v="Hong Kong Tramways"/>
+  <tag k="network:wikidata" v="Q385245"/>
+  <tag k="network:zh" v="香港電車"/>
+  <tag k="operation" v="private"/>
+  <tag k="operator" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="operator:en" v="Hongkong Tramways Limited"/>
+  <tag k="operator:ownership" v="private"/>
+  <tag k="operator:wikidata" v="Q15902782"/>
+  <tag k="operator:zh" v="香港電車有限公司"/>
+  <tag k="owner" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="owner:en" v="Hongkong Tramways Limited"/>
+  <tag k="ownership" v="private"/>
+  <tag k="owner:wikidata" v="Q15902782"/>
+  <tag k="owner:zh" v="香港電車有限公司"/>
+  <tag k="passenger" v="urban"/>
+  <tag k="passenger_lines" v="1"/>
+  <tag k="railway" v="tram"/>
+  <tag k="railway:preferred_direction" v="forward"/>
+  <tag k="surface" v="paved"/>
+  <tag k="usage" v="branch"/>
+  <tag k="voltage" v="550"/>
+ </way>
+ <way id="85392439" visible="true" version="16" changeset="181213700" timestamp="2026-04-12T03:57:52Z" user="vectorial8192" uid="10815817">
+  <nd ref="2941505318"/>
+  <nd ref="5057022212"/>
+  <nd ref="2941505310"/>
+  <nd ref="2941505311"/>
+  <nd ref="2941505314"/>
+  <nd ref="2941505322"/>
+  <nd ref="6918662956"/>
+  <nd ref="3005248528"/>
+  <nd ref="2941505330"/>
+  <nd ref="6918662948"/>
+  <nd ref="2941505340"/>
+  <nd ref="2941505346"/>
+  <nd ref="2941505350"/>
+  <nd ref="2941505353"/>
+  <nd ref="3005248535"/>
+  <nd ref="2941505351"/>
+  <nd ref="3005248532"/>
+  <nd ref="2941505344"/>
+  <nd ref="3005248526"/>
+  <nd ref="6918662949"/>
+  <nd ref="2941505338"/>
+  <nd ref="6918662955"/>
+  <nd ref="2941502499"/>
+  <nd ref="2941505332"/>
+  <nd ref="2941505308"/>
+  <nd ref="6918662947"/>
+  <nd ref="2941505304"/>
+  <nd ref="2941505302"/>
+  <nd ref="3005248504"/>
+  <tag k="addr:street" v="英皇道 King's Road"/>
+  <tag k="addr:street:en" v="King's Road"/>
+  <tag k="addr:street:wikidata" v="Q6411080"/>
+  <tag k="addr:street:zh" v="英皇道"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="electrified:contact_line" v="trolley"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1067"/>
+  <tag k="name" v="香港電車 Hong Kong Tramways"/>
+  <tag k="name:en" v="Hong Kong Tramways"/>
+  <tag k="name:zh" v="香港電車"/>
+  <tag k="name:zh-Hans" v="香港电车"/>
+  <tag k="name:zh-Hant" v="香港電車"/>
+  <tag k="network" v="香港電車 Hong Kong Tramways"/>
+  <tag k="network:en" v="Hong Kong Tramways"/>
+  <tag k="network:wikidata" v="Q385245"/>
+  <tag k="network:zh" v="香港電車"/>
+  <tag k="operator" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="operator:en" v="Hongkong Tramways Limited"/>
+  <tag k="operator:type" v="private"/>
+  <tag k="operator:wikidata" v="Q15902782"/>
+  <tag k="operator:zh" v="香港電車有限公司"/>
+  <tag k="owner" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="owner:en" v="Hongkong Tramways Limited"/>
+  <tag k="ownership" v="private"/>
+  <tag k="owner:wikidata" v="Q15902782"/>
+  <tag k="owner:zh" v="香港電車有限公司"/>
+  <tag k="railway" v="tram"/>
+  <tag k="railway:preferred_direction" v="forward"/>
+  <tag k="surface" v="paved"/>
+  <tag k="usage" v="main"/>
+  <tag k="voltage" v="550"/>
+ </way>
+ <way id="86811668" visible="true" version="10" changeset="172139460" timestamp="2025-09-19T03:02:06Z" user="seewhyso" uid="9161716">
+  <nd ref="366748693"/>
+  <nd ref="3005248497"/>
+  <nd ref="3005247197"/>
+  <nd ref="3005248495"/>
+  <nd ref="3005248493"/>
+  <nd ref="388078171"/>
+  <tag k="addr:street" v="筲箕灣道 Shau Kei Wan Road"/>
+  <tag k="addr:street:en" v="Shau Kei Wan Road"/>
+  <tag k="addr:street:wikidata" v="Q7490741"/>
+  <tag k="addr:street:zh" v="筲箕灣道"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="electrified:contact_line" v="trolley"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1067"/>
+  <tag k="name" v="香港電車 Hong Kong Tramways"/>
+  <tag k="name:en" v="Hong Kong Tramways"/>
+  <tag k="name:zh" v="香港電車"/>
+  <tag k="name:zh-Hans" v="香港电车"/>
+  <tag k="name:zh-Hant" v="香港電車"/>
+  <tag k="network" v="香港電車 Hong Kong Tramways"/>
+  <tag k="network:en" v="Hong Kong Tramways"/>
+  <tag k="network:wikidata" v="Q385245"/>
+  <tag k="network:zh" v="香港電車"/>
+  <tag k="operator" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="operator:en" v="Hongkong Tramways Limited"/>
+  <tag k="operator:type" v="private"/>
+  <tag k="operator:wikidata" v="Q15902782"/>
+  <tag k="operator:zh" v="香港電車有限公司"/>
+  <tag k="owner" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="owner:en" v="Hongkong Tramways Limited"/>
+  <tag k="ownership" v="private"/>
+  <tag k="owner:wikidata" v="Q15902782"/>
+  <tag k="owner:zh" v="香港電車有限公司"/>
+  <tag k="railway" v="tram"/>
+  <tag k="railway:preferred_direction" v="forward"/>
+  <tag k="surface" v="paved"/>
+  <tag k="usage" v="main"/>
+  <tag k="voltage" v="550"/>
+ </way>
+ <way id="86811686" visible="true" version="13" changeset="172139460" timestamp="2025-09-19T03:02:06Z" user="seewhyso" uid="9161716">
+  <nd ref="440964580"/>
+  <nd ref="4413339022"/>
+  <nd ref="3005248486"/>
+  <nd ref="3005248485"/>
+  <nd ref="3005248484"/>
+  <nd ref="257006535"/>
+  <nd ref="984409415"/>
+  <nd ref="3005248481"/>
+  <nd ref="984409330"/>
+  <nd ref="3005248480"/>
+  <nd ref="984409302"/>
+  <nd ref="6923680369"/>
+  <nd ref="3005248476"/>
+  <nd ref="3005248473"/>
+  <nd ref="3005248464"/>
+  <nd ref="2941502483"/>
+  <nd ref="257006530"/>
+  <nd ref="3005248463"/>
+  <tag k="addr:street" v="筲箕灣道 Shau Kei Wan Road"/>
+  <tag k="addr:street:en" v="Shau Kei Wan Road"/>
+  <tag k="addr:street:wikidata" v="Q7490741"/>
+  <tag k="addr:street:zh" v="筲箕灣道"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="electrified:contact_line" v="trolley"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1067"/>
+  <tag k="name" v="香港電車 Hong Kong Tramways"/>
+  <tag k="name:en" v="Hong Kong Tramways"/>
+  <tag k="name:zh" v="香港電車"/>
+  <tag k="name:zh-Hans" v="香港电车"/>
+  <tag k="name:zh-Hant" v="香港電車"/>
+  <tag k="network" v="香港電車 Hong Kong Tramways"/>
+  <tag k="network:en" v="Hong Kong Tramways"/>
+  <tag k="network:wikidata" v="Q385245"/>
+  <tag k="network:zh" v="香港電車"/>
+  <tag k="operator" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="operator:en" v="Hongkong Tramways Limited"/>
+  <tag k="operator:type" v="private"/>
+  <tag k="operator:wikidata" v="Q15902782"/>
+  <tag k="operator:zh" v="香港電車有限公司"/>
+  <tag k="owner" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="owner:en" v="Hongkong Tramways Limited"/>
+  <tag k="ownership" v="private"/>
+  <tag k="owner:wikidata" v="Q15902782"/>
+  <tag k="owner:zh" v="香港電車有限公司"/>
+  <tag k="railway" v="tram"/>
+  <tag k="railway:preferred_direction" v="forward"/>
+  <tag k="surface" v="paved"/>
+  <tag k="usage" v="main"/>
+  <tag k="voltage" v="550"/>
+ </way>
+ <way id="86811712" visible="true" version="10" changeset="172139460" timestamp="2025-09-19T03:02:06Z" user="seewhyso" uid="9161716">
+  <nd ref="388078171"/>
+  <nd ref="3005248491"/>
+  <nd ref="3005247201"/>
+  <nd ref="388078520"/>
+  <nd ref="440627976"/>
+  <nd ref="440964580"/>
+  <tag k="addr:street" v="筲箕灣道 Shau Kei Wan Road"/>
+  <tag k="addr:street:en" v="Shau Kei Wan Road"/>
+  <tag k="addr:street:wikidata" v="Q7490741"/>
+  <tag k="addr:street:zh" v="筲箕灣道"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="electrified:contact_line" v="trolley"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1067"/>
+  <tag k="name" v="香港電車 Hong Kong Tramways"/>
+  <tag k="name:en" v="Hong Kong Tramways"/>
+  <tag k="name:zh" v="香港電車"/>
+  <tag k="name:zh-Hans" v="香港电车"/>
+  <tag k="name:zh-Hant" v="香港電車"/>
+  <tag k="network" v="香港電車 Hong Kong Tramways"/>
+  <tag k="network:en" v="Hong Kong Tramways"/>
+  <tag k="network:wikidata" v="Q385245"/>
+  <tag k="network:zh" v="香港電車"/>
+  <tag k="operator" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="operator:en" v="Hongkong Tramways Limited"/>
+  <tag k="operator:type" v="private"/>
+  <tag k="operator:wikidata" v="Q15902782"/>
+  <tag k="operator:zh" v="香港電車有限公司"/>
+  <tag k="owner" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="owner:en" v="Hongkong Tramways Limited"/>
+  <tag k="ownership" v="private"/>
+  <tag k="owner:wikidata" v="Q15902782"/>
+  <tag k="owner:zh" v="香港電車有限公司"/>
+  <tag k="railway" v="tram"/>
+  <tag k="railway:preferred_direction" v="forward"/>
+  <tag k="surface" v="paved"/>
+  <tag k="usage" v="main"/>
+  <tag k="voltage" v="550"/>
+ </way>
+ <way id="87081172" visible="true" version="18" changeset="150245139" timestamp="2024-04-20T01:34:31Z" user="Wright One" uid="261189">
+  <nd ref="292204839"/>
+  <nd ref="292204840"/>
+  <nd ref="3141194064"/>
+  <nd ref="1299465468"/>
+  <nd ref="7375273770"/>
+  <nd ref="3141194061"/>
+  <nd ref="7375273771"/>
+  <nd ref="8444625222"/>
+  <nd ref="3141194062"/>
+  <nd ref="4858150633"/>
+  <nd ref="3141194065"/>
+  <nd ref="6953150590"/>
+  <nd ref="3141194069"/>
+  <nd ref="1012752115"/>
+  <nd ref="292204843"/>
+  <nd ref="6953150628"/>
+  <nd ref="1012751961"/>
+  <nd ref="6953150639"/>
+  <nd ref="5010385736"/>
+  <nd ref="9694763552"/>
+  <nd ref="5010385735"/>
+  <nd ref="7375273781"/>
+  <nd ref="5010385729"/>
+  <nd ref="6953150613"/>
+  <nd ref="5010385734"/>
+  <nd ref="6953150624"/>
+  <nd ref="6953150603"/>
+  <nd ref="6953150587"/>
+  <nd ref="6953150635"/>
+  <nd ref="5010385733"/>
+  <nd ref="9732426934"/>
+  <nd ref="292204847"/>
+  <nd ref="11832055621"/>
+  <nd ref="6953150596"/>
+  <nd ref="11832055622"/>
+  <nd ref="292204940"/>
+  <nd ref="292204848"/>
+  <nd ref="11832055624"/>
+  <nd ref="11832055625"/>
+  <nd ref="11832055623"/>
+  <nd ref="3112114549"/>
+  <nd ref="2978939710"/>
+  <nd ref="3112111425"/>
+  <nd ref="11832055626"/>
+  <nd ref="292204869"/>
+  <tag k="brand" v="香港電車 Hong Kong Tramways"/>
+  <tag k="brand:en" v="Hong Kong Tramways"/>
+  <tag k="brand:wikidata" v="Q385245"/>
+  <tag k="brand:zh" v="香港電車"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="electrified:contact_line" v="trolley"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1067"/>
+  <tag k="importance" v="trunk"/>
+  <tag k="name" v="跑馬地圈 Happy Valley Loop"/>
+  <tag k="name:en" v="Happy Valley Loop"/>
+  <tag k="name:zh" v="跑馬地圈"/>
+  <tag k="network" v="香港電車 Hong Kong Tramways"/>
+  <tag k="network:en" v="Hong Kong Tramways"/>
+  <tag k="network:wikidata" v="Q385245"/>
+  <tag k="network:zh" v="香港電車"/>
+  <tag k="operation" v="private"/>
+  <tag k="operator" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="operator:en" v="Hongkong Tramways Limited"/>
+  <tag k="operator:ownership" v="private"/>
+  <tag k="operator:wikidata" v="Q15902782"/>
+  <tag k="operator:zh" v="香港電車有限公司"/>
+  <tag k="owner" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="owner:en" v="Hongkong Tramways Limited"/>
+  <tag k="ownership" v="private"/>
+  <tag k="owner:wikidata" v="Q15902782"/>
+  <tag k="owner:zh" v="香港電車有限公司"/>
+  <tag k="passenger" v="urban"/>
+  <tag k="passenger_lines" v="1"/>
+  <tag k="railway" v="tram"/>
+  <tag k="railway:preferred_direction" v="forward"/>
+  <tag k="surface" v="paved"/>
+  <tag k="usage" v="branch"/>
+  <tag k="voltage" v="550"/>
+ </way>
+ <way id="149397377" visible="true" version="16" changeset="172273747" timestamp="2025-09-22T04:42:32Z" user="seewhyso" uid="9161716">
+  <nd ref="1898508081"/>
+  <nd ref="9234884538"/>
+  <nd ref="1898508066"/>
+  <nd ref="1898508042"/>
+  <tag k="addr:street" v="怡和街 Yee Wo Street"/>
+  <tag k="addr:street:en" v="Yee Wo Street"/>
+  <tag k="addr:street:wikidata" v="Q8051113"/>
+  <tag k="addr:street:zh" v="怡和街"/>
+  <tag k="brand" v="香港電車 Hong Kong Tramways"/>
+  <tag k="brand:en" v="Hong Kong Tramways"/>
+  <tag k="brand:wikidata" v="Q385245"/>
+  <tag k="brand:zh" v="香港電車"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="electrified:contact_line" v="trolley"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1067"/>
+  <tag k="name" v="香港電車 Hong Kong Tramways"/>
+  <tag k="name:en" v="Hong Kong Tramways"/>
+  <tag k="name:zh" v="香港電車"/>
+  <tag k="name:zh-Hans" v="香港电车"/>
+  <tag k="name:zh-Hant" v="香港電車"/>
+  <tag k="network" v="香港電車 Hong Kong Tramways"/>
+  <tag k="network:en" v="Hong Kong Tramways"/>
+  <tag k="network:wikidata" v="Q385245"/>
+  <tag k="network:zh" v="香港電車"/>
+  <tag k="operation" v="private"/>
+  <tag k="operator" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="operator:en" v="Hongkong Tramways Limited"/>
+  <tag k="operator:type" v="private"/>
+  <tag k="operator:wikidata" v="Q15902782"/>
+  <tag k="operator:zh" v="香港電車有限公司"/>
+  <tag k="owner" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="owner:en" v="Hongkong Tramways Limited"/>
+  <tag k="ownership" v="private"/>
+  <tag k="owner:wikidata" v="Q15902782"/>
+  <tag k="owner:zh" v="香港電車有限公司"/>
+  <tag k="passenger" v="local"/>
+  <tag k="passenger_lines" v="2"/>
+  <tag k="railway" v="tram"/>
+  <tag k="railway:preferred_direction" v="forward"/>
+  <tag k="surface" v="paved"/>
+  <tag k="usage" v="main"/>
+  <tag k="voltage" v="550"/>
+ </way>
+ <way id="179445712" visible="true" version="12" changeset="172273747" timestamp="2025-09-22T04:42:32Z" user="seewhyso" uid="9161716">
+  <nd ref="1898291277"/>
+  <nd ref="8562160692"/>
+  <nd ref="1898291281"/>
+  <nd ref="1898291279"/>
+  <nd ref="6945531495"/>
+  <nd ref="1898291283"/>
+  <nd ref="6945531498"/>
+  <nd ref="6945531500"/>
+  <nd ref="1898291285"/>
+  <nd ref="1898291287"/>
+  <tag k="addr:street" v="英皇道 King's Road"/>
+  <tag k="addr:street:en" v="King's Road"/>
+  <tag k="addr:street:wikidata" v="Q6411080"/>
+  <tag k="addr:street:zh" v="英皇道"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="electrified:contact_line" v="trolley"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1067"/>
+  <tag k="name" v="香港電車 Hong Kong Tramways"/>
+  <tag k="name:en" v="Hong Kong Tramways"/>
+  <tag k="name:zh" v="香港電車"/>
+  <tag k="name:zh-Hans" v="香港电车"/>
+  <tag k="name:zh-Hant" v="香港電車"/>
+  <tag k="network" v="香港電車 Hong Kong Tramways"/>
+  <tag k="network:en" v="Hong Kong Tramways"/>
+  <tag k="network:wikidata" v="Q385245"/>
+  <tag k="network:zh" v="香港電車"/>
+  <tag k="operator" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="operator:en" v="Hongkong Tramways Limited"/>
+  <tag k="operator:type" v="private"/>
+  <tag k="operator:wikidata" v="Q15902782"/>
+  <tag k="operator:zh" v="香港電車有限公司"/>
+  <tag k="owner" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="owner:en" v="Hongkong Tramways Limited"/>
+  <tag k="ownership" v="private"/>
+  <tag k="owner:wikidata" v="Q15902782"/>
+  <tag k="owner:zh" v="香港電車有限公司"/>
+  <tag k="railway" v="tram"/>
+  <tag k="railway:preferred_direction" v="forward"/>
+  <tag k="surface" v="paved"/>
+  <tag k="usage" v="main"/>
+  <tag k="voltage" v="550"/>
+ </way>
+ <way id="179445718" visible="true" version="24" changeset="172139460" timestamp="2025-09-19T03:02:06Z" user="seewhyso" uid="9161716">
+  <nd ref="1898227198"/>
+  <nd ref="3112418730"/>
+  <nd ref="7009742594"/>
+  <nd ref="7160938997"/>
+  <nd ref="7160938998"/>
+  <nd ref="1898227202"/>
+  <nd ref="11739122588"/>
+  <nd ref="5098882303"/>
+  <nd ref="11739122587"/>
+  <nd ref="5098882305"/>
+  <nd ref="7160939001"/>
+  <nd ref="8353890041"/>
+  <nd ref="11739122594"/>
+  <nd ref="11739122591"/>
+  <nd ref="8353996721"/>
+  <nd ref="1898227224"/>
+  <nd ref="7009742592"/>
+  <nd ref="3112418732"/>
+  <nd ref="1898227230"/>
+  <nd ref="6924815698"/>
+  <nd ref="8078011578"/>
+  <nd ref="1898227251"/>
+  <tag k="addr:street" v="英皇道 King's Road"/>
+  <tag k="addr:street:en" v="King's Road"/>
+  <tag k="addr:street:wikidata" v="Q6411080"/>
+  <tag k="addr:street:zh" v="英皇道"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="electrified:contact_line" v="trolley"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1067"/>
+  <tag k="name" v="香港電車 Hong Kong Tramways"/>
+  <tag k="name:en" v="Hong Kong Tramways"/>
+  <tag k="name:zh" v="香港電車"/>
+  <tag k="name:zh-Hans" v="香港电车"/>
+  <tag k="name:zh-Hant" v="香港電車"/>
+  <tag k="network" v="香港電車 Hong Kong Tramways"/>
+  <tag k="network:en" v="Hong Kong Tramways"/>
+  <tag k="network:wikidata" v="Q385245"/>
+  <tag k="network:zh" v="香港電車"/>
+  <tag k="operator" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="operator:en" v="Hongkong Tramways Limited"/>
+  <tag k="operator:type" v="private"/>
+  <tag k="operator:wikidata" v="Q15902782"/>
+  <tag k="operator:zh" v="香港電車有限公司"/>
+  <tag k="owner" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="owner:en" v="Hongkong Tramways Limited"/>
+  <tag k="ownership" v="private"/>
+  <tag k="owner:wikidata" v="Q15902782"/>
+  <tag k="owner:zh" v="香港電車有限公司"/>
+  <tag k="railway" v="tram"/>
+  <tag k="railway:preferred_direction" v="forward"/>
+  <tag k="surface" v="paved"/>
+  <tag k="usage" v="main"/>
+  <tag k="voltage" v="550"/>
+ </way>
+ <way id="179452216" visible="true" version="14" changeset="172273747" timestamp="2025-09-22T04:42:32Z" user="seewhyso" uid="9161716">
+  <nd ref="1898291217"/>
+  <nd ref="1898291219"/>
+  <nd ref="6945512044"/>
+  <nd ref="1898291222"/>
+  <nd ref="6945512046"/>
+  <nd ref="6945512048"/>
+  <nd ref="1898291226"/>
+  <nd ref="2099848106"/>
+  <nd ref="1898291228"/>
+  <nd ref="1898291230"/>
+  <nd ref="1898291240"/>
+  <nd ref="6945512052"/>
+  <nd ref="8321380696"/>
+  <nd ref="1898291245"/>
+  <nd ref="8321380698"/>
+  <nd ref="1898291249"/>
+  <nd ref="6945512055"/>
+  <nd ref="1898291253"/>
+  <nd ref="1898291254"/>
+  <nd ref="6945512058"/>
+  <nd ref="2099848103"/>
+  <nd ref="1898291256"/>
+  <nd ref="1898291257"/>
+  <nd ref="7246977636"/>
+  <nd ref="1898291260"/>
+  <nd ref="1898291263"/>
+  <nd ref="6945512059"/>
+  <nd ref="1898291265"/>
+  <nd ref="6945512061"/>
+  <nd ref="1898291269"/>
+  <nd ref="6945512064"/>
+  <nd ref="6945512063"/>
+  <nd ref="1898291271"/>
+  <nd ref="6945512068"/>
+  <nd ref="1898291273"/>
+  <nd ref="6945512069"/>
+  <nd ref="6945531491"/>
+  <nd ref="6945531490"/>
+  <nd ref="6945531487"/>
+  <nd ref="1898291275"/>
+  <nd ref="2099848150"/>
+  <nd ref="2099848102"/>
+  <nd ref="8562160672"/>
+  <nd ref="8562160678"/>
+  <nd ref="2099848170"/>
+  <nd ref="8562160693"/>
+  <nd ref="1898291277"/>
+  <tag k="addr:street" v="英皇道 King's Road"/>
+  <tag k="addr:street:en" v="King's Road"/>
+  <tag k="addr:street:wikidata" v="Q6411080"/>
+  <tag k="addr:street:zh" v="英皇道"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="electrified:contact_line" v="trolley"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1067"/>
+  <tag k="name" v="香港電車 Hong Kong Tramways"/>
+  <tag k="name:en" v="Hong Kong Tramways"/>
+  <tag k="name:zh" v="香港電車"/>
+  <tag k="name:zh-Hans" v="香港电车"/>
+  <tag k="name:zh-Hant" v="香港電車"/>
+  <tag k="network" v="香港電車 Hong Kong Tramways"/>
+  <tag k="network:en" v="Hong Kong Tramways"/>
+  <tag k="network:wikidata" v="Q385245"/>
+  <tag k="network:zh" v="香港電車"/>
+  <tag k="operator" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="operator:en" v="Hongkong Tramways Limited"/>
+  <tag k="operator:type" v="private"/>
+  <tag k="operator:wikidata" v="Q15902782"/>
+  <tag k="operator:zh" v="香港電車有限公司"/>
+  <tag k="owner" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="owner:en" v="Hongkong Tramways Limited"/>
+  <tag k="ownership" v="private"/>
+  <tag k="owner:wikidata" v="Q15902782"/>
+  <tag k="owner:zh" v="香港電車有限公司"/>
+  <tag k="passenger" v="local"/>
+  <tag k="passenger_lines" v="2"/>
+  <tag k="railway" v="tram"/>
+  <tag k="railway:preferred_direction" v="forward"/>
+  <tag k="surface" v="paved"/>
+  <tag k="usage" v="main"/>
+  <tag k="voltage" v="550"/>
+ </way>
+ <way id="220977132" visible="true" version="17" changeset="172273747" timestamp="2025-09-22T04:42:32Z" user="seewhyso" uid="9161716">
+  <nd ref="2300434411"/>
+  <nd ref="2300360770"/>
+  <nd ref="2300434448"/>
+  <nd ref="6954506293"/>
+  <nd ref="6954506297"/>
+  <nd ref="2300434449"/>
+  <nd ref="6954506300"/>
+  <nd ref="2300434454"/>
+  <nd ref="7060166406"/>
+  <nd ref="5064607007"/>
+  <nd ref="6956676664"/>
+  <nd ref="6956676667"/>
+  <nd ref="7009742604"/>
+  <nd ref="2300434451"/>
+  <nd ref="7227321371"/>
+  <nd ref="2300434462"/>
+  <nd ref="2300434464"/>
+  <tag k="addr:street" v="軒尼詩道 Hennessy Road"/>
+  <tag k="addr:street:en" v="Hennessy Road"/>
+  <tag k="addr:street:wikidata" v="Q5714914"/>
+  <tag k="addr:street:zh" v="軒尼詩道"/>
+  <tag k="brand" v="香港電車 Hong Kong Tramways"/>
+  <tag k="brand:en" v="Hong Kong Tramways"/>
+  <tag k="brand:wikidata" v="Q385245"/>
+  <tag k="brand:zh" v="香港電車"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="electrified:contact_line" v="trolley"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1067"/>
+  <tag k="name" v="香港電車 Hong Kong Tramways"/>
+  <tag k="name:en" v="Hong Kong Tramways"/>
+  <tag k="name:zh" v="香港電車"/>
+  <tag k="name:zh-Hans" v="香港电车"/>
+  <tag k="name:zh-Hant" v="香港電車"/>
+  <tag k="network" v="香港電車 Hong Kong Tramways"/>
+  <tag k="network:en" v="Hong Kong Tramways"/>
+  <tag k="network:wikidata" v="Q385245"/>
+  <tag k="network:zh" v="香港電車"/>
+  <tag k="operation" v="private"/>
+  <tag k="operator" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="operator:en" v="Hongkong Tramways Limited"/>
+  <tag k="operator:ownership" v="private"/>
+  <tag k="operator:wikidata" v="Q15902782"/>
+  <tag k="operator:zh" v="香港電車有限公司"/>
+  <tag k="owner" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="owner:en" v="Hongkong Tramways Limited"/>
+  <tag k="ownership" v="private"/>
+  <tag k="owner:wikidata" v="Q15902782"/>
+  <tag k="owner:zh" v="香港電車有限公司"/>
+  <tag k="passenger" v="local"/>
+  <tag k="passenger_lines" v="2"/>
+  <tag k="railway" v="tram"/>
+  <tag k="railway:preferred_direction" v="forward"/>
+  <tag k="surface" v="paved"/>
+  <tag k="usage" v="main"/>
+  <tag k="voltage" v="550"/>
+ </way>
+ <way id="230987768" visible="true" version="29" changeset="172139460" timestamp="2025-09-19T03:02:06Z" user="seewhyso" uid="9161716">
+  <nd ref="1898227251"/>
+  <nd ref="8531792745"/>
+  <nd ref="3112418734"/>
+  <nd ref="6923680345"/>
+  <nd ref="6923680351"/>
+  <nd ref="2394103584"/>
+  <nd ref="6923680364"/>
+  <nd ref="2394103589"/>
+  <nd ref="4779749104"/>
+  <nd ref="8078011580"/>
+  <nd ref="3005203734"/>
+  <nd ref="3005197215"/>
+  <nd ref="4779749105"/>
+  <nd ref="4779749108"/>
+  <nd ref="6923688391"/>
+  <nd ref="6923680376"/>
+  <nd ref="4779749107"/>
+  <nd ref="6923680349"/>
+  <nd ref="2941505612"/>
+  <nd ref="12353243578"/>
+  <nd ref="6923680344"/>
+  <nd ref="6923680352"/>
+  <nd ref="6923680357"/>
+  <nd ref="2941505611"/>
+  <nd ref="6923680339"/>
+  <nd ref="2941505606"/>
+  <nd ref="3005203733"/>
+  <nd ref="3005197232"/>
+  <nd ref="3005197214"/>
+  <nd ref="8567765433"/>
+  <nd ref="6923680340"/>
+  <nd ref="6923680353"/>
+  <nd ref="2941505604"/>
+  <nd ref="6923680382"/>
+  <nd ref="2941505602"/>
+  <nd ref="3005197231"/>
+  <nd ref="8567765431"/>
+  <nd ref="8567765434"/>
+  <nd ref="2941505400"/>
+  <nd ref="990023294"/>
+  <nd ref="2941505395"/>
+  <nd ref="6919373645"/>
+  <nd ref="12450651827"/>
+  <nd ref="7084644609"/>
+  <nd ref="3005197230"/>
+  <nd ref="2941505390"/>
+  <nd ref="3005197229"/>
+  <nd ref="2941505392"/>
+  <nd ref="2941505388"/>
+  <nd ref="2941505386"/>
+  <nd ref="2941505384"/>
+  <nd ref="2941505382"/>
+  <nd ref="3005351251"/>
+  <nd ref="3005197228"/>
+  <nd ref="3005197227"/>
+  <nd ref="12592622843"/>
+  <nd ref="3005197213"/>
+  <nd ref="13138017381"/>
+  <nd ref="3005197226"/>
+  <nd ref="9195795749"/>
+  <nd ref="3005197225"/>
+  <nd ref="3005197224"/>
+  <nd ref="9195795752"/>
+  <nd ref="6919373654"/>
+  <nd ref="2941505376"/>
+  <nd ref="9195795768"/>
+  <nd ref="9195795770"/>
+  <nd ref="2941505374"/>
+  <nd ref="9195795766"/>
+  <nd ref="2941505372"/>
+  <nd ref="9195795799"/>
+  <nd ref="3005197222"/>
+  <nd ref="2941505370"/>
+  <nd ref="660415724"/>
+  <nd ref="2941505369"/>
+  <nd ref="2941505365"/>
+  <nd ref="9195795797"/>
+  <nd ref="9195795784"/>
+  <nd ref="2941505345"/>
+  <nd ref="2941505336"/>
+  <nd ref="6919373644"/>
+  <nd ref="2941505363"/>
+  <nd ref="660415725"/>
+  <nd ref="9195803147"/>
+  <nd ref="2941505359"/>
+  <nd ref="9195803146"/>
+  <nd ref="6872770234"/>
+  <nd ref="2941505356"/>
+  <nd ref="9195803148"/>
+  <nd ref="6872770230"/>
+  <nd ref="2941505325"/>
+  <nd ref="9195795754"/>
+  <nd ref="2941505354"/>
+  <nd ref="6872770231"/>
+  <nd ref="6926117134"/>
+  <nd ref="2941505320"/>
+  <nd ref="9195795810"/>
+  <nd ref="6872770232"/>
+  <nd ref="6872770237"/>
+  <nd ref="3005197217"/>
+  <nd ref="2941505321"/>
+  <nd ref="3005197218"/>
+  <nd ref="7596282957"/>
+  <nd ref="3005197216"/>
+  <nd ref="3005197219"/>
+  <nd ref="3005197220"/>
+  <nd ref="2941505333"/>
+  <nd ref="2941505331"/>
+  <nd ref="6424317058"/>
+  <nd ref="2941505324"/>
+  <nd ref="13154503243"/>
+  <nd ref="2941505318"/>
+  <tag k="addr:street" v="英皇道 King's Road"/>
+  <tag k="addr:street:en" v="King's Road"/>
+  <tag k="addr:street:wikidata" v="Q6411080"/>
+  <tag k="addr:street:zh" v="英皇道"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="electrified:contact_line" v="trolley"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1067"/>
+  <tag k="layer" v="1"/>
+  <tag k="name" v="香港電車 Hong Kong Tramways"/>
+  <tag k="name:en" v="Hong Kong Tramways"/>
+  <tag k="name:zh" v="香港電車"/>
+  <tag k="name:zh-Hans" v="香港电车"/>
+  <tag k="name:zh-Hant" v="香港電車"/>
+  <tag k="network" v="香港電車 Hong Kong Tramways"/>
+  <tag k="network:en" v="Hong Kong Tramways"/>
+  <tag k="network:wikidata" v="Q385245"/>
+  <tag k="network:zh" v="香港電車"/>
+  <tag k="operation" v="private"/>
+  <tag k="operator" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="operator:en" v="Hongkong Tramways Limited"/>
+  <tag k="operator:wikidata" v="Q15902782"/>
+  <tag k="operator:zh" v="香港電車有限公司"/>
+  <tag k="owner" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="owner:en" v="Hongkong Tramways Limited"/>
+  <tag k="ownership" v="private"/>
+  <tag k="owner:wikidata" v="Q15902782"/>
+  <tag k="owner:zh" v="香港電車有限公司"/>
+  <tag k="passenger" v="local"/>
+  <tag k="passenger_lines" v="2"/>
+  <tag k="railway" v="tram"/>
+  <tag k="railway:preferred_direction" v="forward"/>
+  <tag k="surface" v="paved"/>
+  <tag k="usage" v="main"/>
+  <tag k="voltage" v="550"/>
+ </way>
+ <way id="296714049" visible="true" version="9" changeset="172139460" timestamp="2025-09-19T03:02:06Z" user="seewhyso" uid="9161716">
+  <nd ref="3005248434"/>
+  <nd ref="3005247231"/>
+  <nd ref="11553294433"/>
+  <nd ref="3005247194"/>
+  <nd ref="3005247229"/>
+  <nd ref="3005247227"/>
+  <nd ref="3005247224"/>
+  <nd ref="2978559545"/>
+  <nd ref="2978559542"/>
+  <nd ref="3005247217"/>
+  <nd ref="2978559539"/>
+  <nd ref="3005305192"/>
+  <nd ref="2978559534"/>
+  <nd ref="4366524606"/>
+  <nd ref="3005247215"/>
+  <nd ref="7335412760"/>
+  <nd ref="2978559530"/>
+  <tag k="addr:street" v="筲箕灣道 Shau Kei Wan Road"/>
+  <tag k="addr:street:en" v="Shau Kei Wan Road"/>
+  <tag k="addr:street:wikidata" v="Q7490741"/>
+  <tag k="addr:street:zh" v="筲箕灣道"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="electrified:contact_line" v="trolley"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1067"/>
+  <tag k="name" v="香港電車 Hong Kong Tramways"/>
+  <tag k="name:en" v="Hong Kong Tramways"/>
+  <tag k="name:zh" v="香港電車"/>
+  <tag k="name:zh-Hans" v="香港电车"/>
+  <tag k="name:zh-Hant" v="香港電車"/>
+  <tag k="network" v="香港電車 Hong Kong Tramways"/>
+  <tag k="network:en" v="Hong Kong Tramways"/>
+  <tag k="network:wikidata" v="Q385245"/>
+  <tag k="network:zh" v="香港電車"/>
+  <tag k="operator" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="operator:en" v="Hongkong Tramways Limited"/>
+  <tag k="operator:type" v="private"/>
+  <tag k="operator:wikidata" v="Q15902782"/>
+  <tag k="operator:zh" v="香港電車有限公司"/>
+  <tag k="owner" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="owner:en" v="Hongkong Tramways Limited"/>
+  <tag k="ownership" v="private"/>
+  <tag k="owner:wikidata" v="Q15902782"/>
+  <tag k="owner:zh" v="香港電車有限公司"/>
+  <tag k="railway" v="tram"/>
+  <tag k="railway:preferred_direction" v="forward"/>
+  <tag k="surface" v="paved"/>
+  <tag k="usage" v="main"/>
+  <tag k="voltage" v="550"/>
+ </way>
+ <way id="296714050" visible="true" version="9" changeset="172139460" timestamp="2025-09-19T03:02:06Z" user="seewhyso" uid="9161716">
+  <nd ref="3005248463"/>
+  <nd ref="3005248459"/>
+  <nd ref="3005248457"/>
+  <nd ref="3005247191"/>
+  <nd ref="3005248455"/>
+  <nd ref="3005248454"/>
+  <nd ref="3005248452"/>
+  <nd ref="6910862085"/>
+  <nd ref="3005248451"/>
+  <nd ref="3005248449"/>
+  <nd ref="3005248447"/>
+  <nd ref="3005248443"/>
+  <nd ref="3005248442"/>
+  <tag k="addr:street" v="筲箕灣道 Shau Kei Wan Road"/>
+  <tag k="addr:street:en" v="Shau Kei Wan Road"/>
+  <tag k="addr:street:wikidata" v="Q7490741"/>
+  <tag k="addr:street:zh" v="筲箕灣道"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="electrified:contact_line" v="trolley"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1067"/>
+  <tag k="name" v="香港電車 Hong Kong Tramways"/>
+  <tag k="name:en" v="Hong Kong Tramways"/>
+  <tag k="name:zh" v="香港電車"/>
+  <tag k="name:zh-Hans" v="香港电车"/>
+  <tag k="name:zh-Hant" v="香港電車"/>
+  <tag k="network" v="香港電車 Hong Kong Tramways"/>
+  <tag k="network:en" v="Hong Kong Tramways"/>
+  <tag k="network:wikidata" v="Q385245"/>
+  <tag k="network:zh" v="香港電車"/>
+  <tag k="operator" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="operator:en" v="Hongkong Tramways Limited"/>
+  <tag k="operator:type" v="private"/>
+  <tag k="operator:wikidata" v="Q15902782"/>
+  <tag k="operator:zh" v="香港電車有限公司"/>
+  <tag k="owner" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="owner:en" v="Hongkong Tramways Limited"/>
+  <tag k="ownership" v="private"/>
+  <tag k="owner:wikidata" v="Q15902782"/>
+  <tag k="owner:zh" v="香港電車有限公司"/>
+  <tag k="railway" v="tram"/>
+  <tag k="railway:preferred_direction" v="forward"/>
+  <tag k="surface" v="paved"/>
+  <tag k="usage" v="main"/>
+  <tag k="voltage" v="550"/>
+ </way>
+ <way id="296714060" visible="true" version="11" changeset="172139460" timestamp="2025-09-19T03:02:06Z" user="seewhyso" uid="9161716">
+  <nd ref="2978559530"/>
+  <nd ref="2978559528"/>
+  <nd ref="3005247207"/>
+  <nd ref="2978706404"/>
+  <nd ref="2978559526"/>
+  <nd ref="3005247206"/>
+  <nd ref="7335412762"/>
+  <nd ref="7335412765"/>
+  <nd ref="7335412763"/>
+  <nd ref="2978559522"/>
+  <nd ref="10579014748"/>
+  <nd ref="3005247203"/>
+  <nd ref="10579014750"/>
+  <nd ref="10579014751"/>
+  <nd ref="3005247188"/>
+  <nd ref="2978559515"/>
+  <nd ref="7132963166"/>
+  <nd ref="7132963165"/>
+  <nd ref="7132963164"/>
+  <nd ref="7132963172"/>
+  <nd ref="7132963167"/>
+  <nd ref="7132963169"/>
+  <nd ref="7132963168"/>
+  <nd ref="7132963171"/>
+  <nd ref="7132963170"/>
+  <nd ref="2978559516"/>
+  <nd ref="7132979590"/>
+  <nd ref="7132979591"/>
+  <nd ref="7132979589"/>
+  <nd ref="2978559518"/>
+  <nd ref="7132979588"/>
+  <nd ref="7132979592"/>
+  <nd ref="2978559520"/>
+  <nd ref="2978559524"/>
+  <nd ref="7132979593"/>
+  <nd ref="7132979594"/>
+  <nd ref="3005247209"/>
+  <nd ref="3005247211"/>
+  <nd ref="5008429536"/>
+  <nd ref="3005247213"/>
+  <nd ref="10579014754"/>
+  <nd ref="2978559532"/>
+  <nd ref="2978559537"/>
+  <nd ref="7132979608"/>
+  <nd ref="2978940050"/>
+  <nd ref="7132979609"/>
+  <nd ref="13154503242"/>
+  <nd ref="7132979611"/>
+  <nd ref="7132979610"/>
+  <nd ref="7132979616"/>
+  <nd ref="7132979615"/>
+  <nd ref="7132979613"/>
+  <nd ref="7132979614"/>
+  <nd ref="3005247218"/>
+  <nd ref="7132979612"/>
+  <nd ref="3005247220"/>
+  <nd ref="7132979618"/>
+  <nd ref="3005247221"/>
+  <nd ref="3005247223"/>
+  <nd ref="5008429535"/>
+  <nd ref="7132979617"/>
+  <nd ref="984409385"/>
+  <nd ref="7132979624"/>
+  <nd ref="1004684535"/>
+  <nd ref="7132979623"/>
+  <nd ref="2978940051"/>
+  <nd ref="7132979625"/>
+  <nd ref="1653118341"/>
+  <nd ref="7132979619"/>
+  <nd ref="984409308"/>
+  <tag k="addr:street" v="筲箕灣道 Shau Kei Wan Road"/>
+  <tag k="addr:street:en" v="Shau Kei Wan Road"/>
+  <tag k="addr:street:wikidata" v="Q7490741"/>
+  <tag k="addr:street:zh" v="筲箕灣道"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="electrified:contact_line" v="trolley"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1067"/>
+  <tag k="name" v="香港電車 Hong Kong Tramways"/>
+  <tag k="name:en" v="Hong Kong Tramways"/>
+  <tag k="name:zh" v="香港電車"/>
+  <tag k="name:zh-Hans" v="香港电车"/>
+  <tag k="name:zh-Hant" v="香港電車"/>
+  <tag k="network" v="香港電車 Hong Kong Tramways"/>
+  <tag k="network:en" v="Hong Kong Tramways"/>
+  <tag k="network:wikidata" v="Q385245"/>
+  <tag k="network:zh" v="香港電車"/>
+  <tag k="operator" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="operator:en" v="Hongkong Tramways Limited"/>
+  <tag k="operator:type" v="private"/>
+  <tag k="operator:wikidata" v="Q15902782"/>
+  <tag k="operator:zh" v="香港電車有限公司"/>
+  <tag k="owner" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="owner:en" v="Hongkong Tramways Limited"/>
+  <tag k="ownership" v="private"/>
+  <tag k="owner:wikidata" v="Q15902782"/>
+  <tag k="owner:zh" v="香港電車有限公司"/>
+  <tag k="railway" v="tram"/>
+  <tag k="railway:preferred_direction" v="forward"/>
+  <tag k="surface" v="paved"/>
+  <tag k="usage" v="main"/>
+  <tag k="voltage" v="550"/>
+ </way>
+ <way id="296714062" visible="true" version="7" changeset="172139460" timestamp="2025-09-19T03:02:06Z" user="seewhyso" uid="9161716">
+  <nd ref="3005248442"/>
+  <nd ref="3005248441"/>
+  <nd ref="3005248436"/>
+  <nd ref="3005248435"/>
+  <nd ref="3005248434"/>
+  <tag k="addr:street" v="筲箕灣道 Shau Kei Wan Road"/>
+  <tag k="addr:street:en" v="Shau Kei Wan Road"/>
+  <tag k="addr:street:wikidata" v="Q7490741"/>
+  <tag k="addr:street:zh" v="筲箕灣道"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="electrified:contact_line" v="trolley"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1067"/>
+  <tag k="name" v="香港電車 Hong Kong Tramways"/>
+  <tag k="name:en" v="Hong Kong Tramways"/>
+  <tag k="name:zh" v="香港電車"/>
+  <tag k="name:zh-Hans" v="香港电车"/>
+  <tag k="name:zh-Hant" v="香港電車"/>
+  <tag k="network" v="香港電車 Hong Kong Tramways"/>
+  <tag k="network:en" v="Hong Kong Tramways"/>
+  <tag k="network:wikidata" v="Q385245"/>
+  <tag k="network:zh" v="香港電車"/>
+  <tag k="operator" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="operator:en" v="Hongkong Tramways Limited"/>
+  <tag k="operator:type" v="private"/>
+  <tag k="operator:wikidata" v="Q15902782"/>
+  <tag k="operator:zh" v="香港電車有限公司"/>
+  <tag k="owner" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="owner:en" v="Hongkong Tramways Limited"/>
+  <tag k="ownership" v="private"/>
+  <tag k="owner:wikidata" v="Q15902782"/>
+  <tag k="owner:zh" v="香港電車有限公司"/>
+  <tag k="railway" v="tram"/>
+  <tag k="railway:preferred_direction" v="forward"/>
+  <tag k="surface" v="paved"/>
+  <tag k="usage" v="main"/>
+  <tag k="voltage" v="550"/>
+ </way>
+ <way id="308827000" visible="true" version="19" changeset="172273747" timestamp="2025-09-22T04:42:32Z" user="seewhyso" uid="9161716">
+  <nd ref="1898508042"/>
+  <nd ref="6475303977"/>
+  <nd ref="6799200165"/>
+  <nd ref="1898508027"/>
+  <nd ref="1898508018"/>
+  <nd ref="1623825532"/>
+  <nd ref="1623825535"/>
+  <nd ref="1898508086"/>
+  <nd ref="6799200158"/>
+  <nd ref="1898508078"/>
+  <nd ref="5064607004"/>
+  <nd ref="9234884536"/>
+  <nd ref="1898508034"/>
+  <nd ref="12860650252"/>
+  <nd ref="1898508000"/>
+  <nd ref="6956676645"/>
+  <nd ref="1623825543"/>
+  <nd ref="6956676662"/>
+  <nd ref="5064607006"/>
+  <nd ref="982684035"/>
+  <tag k="addr:street" v="怡和街 Yee Wo Street"/>
+  <tag k="addr:street:en" v="Yee Wo Street"/>
+  <tag k="addr:street:wikidata" v="Q8051113"/>
+  <tag k="addr:street:zh" v="怡和街"/>
+  <tag k="brand" v="香港電車 Hong Kong Tramways"/>
+  <tag k="brand:en" v="Hong Kong Tramways"/>
+  <tag k="brand:wikidata" v="Q385245"/>
+  <tag k="brand:zh" v="香港電車"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="electrified:contact_line" v="trolley"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1067"/>
+  <tag k="name" v="香港電車 Hong Kong Tramways"/>
+  <tag k="name:en" v="Hong Kong Tramways"/>
+  <tag k="name:zh" v="香港電車"/>
+  <tag k="name:zh-Hans" v="香港电车"/>
+  <tag k="name:zh-Hant" v="香港電車"/>
+  <tag k="network" v="香港電車 Hong Kong Tramways"/>
+  <tag k="network:en" v="Hong Kong Tramways"/>
+  <tag k="network:wikidata" v="Q385245"/>
+  <tag k="network:zh" v="香港電車"/>
+  <tag k="operation" v="private"/>
+  <tag k="operator" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="operator:en" v="Hongkong Tramways Limited"/>
+  <tag k="operator:type" v="private"/>
+  <tag k="operator:wikidata" v="Q15902782"/>
+  <tag k="operator:zh" v="香港電車有限公司"/>
+  <tag k="owner" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="owner:en" v="Hongkong Tramways Limited"/>
+  <tag k="ownership" v="private"/>
+  <tag k="owner:wikidata" v="Q15902782"/>
+  <tag k="owner:zh" v="香港電車有限公司"/>
+  <tag k="passenger" v="local"/>
+  <tag k="passenger_lines" v="2"/>
+  <tag k="railway" v="tram"/>
+  <tag k="railway:preferred_direction" v="forward"/>
+  <tag k="surface" v="paved"/>
+  <tag k="usage" v="main"/>
+  <tag k="voltage" v="550"/>
+ </way>
+ <way id="308827005" visible="true" version="5" changeset="99672657" timestamp="2021-02-21T09:39:20Z" user="Kovoschiz" uid="6250193">
+  <nd ref="292205443"/>
+  <nd ref="2978939696"/>
+  <nd ref="3141194066"/>
+  <nd ref="6953150592"/>
+  <nd ref="6953150623"/>
+  <nd ref="6953150612"/>
+  <nd ref="6953150602"/>
+  <nd ref="292204839"/>
+  <tag k="brand" v="香港電車 Hong Kong Tramways"/>
+  <tag k="brand:en" v="Hong Kong Tramways"/>
+  <tag k="brand:wikidata" v="Q385245"/>
+  <tag k="brand:zh" v="香港電車"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="electrified:contact_line" v="trolley"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1067"/>
+  <tag k="importance" v="trunk"/>
+  <tag k="network" v="香港電車 Hong Kong Tramways"/>
+  <tag k="network:en" v="Hong Kong Tramways"/>
+  <tag k="network:wikidata" v="Q385245"/>
+  <tag k="network:zh" v="香港電車"/>
+  <tag k="operation" v="private"/>
+  <tag k="operator" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="operator:en" v="Hongkong Tramways Limited"/>
+  <tag k="operator:ownership" v="private"/>
+  <tag k="operator:wikidata" v="Q15902782"/>
+  <tag k="operator:zh" v="香港電車有限公司"/>
+  <tag k="owner" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="owner:en" v="Hongkong Tramways Limited"/>
+  <tag k="ownership" v="private"/>
+  <tag k="owner:wikidata" v="Q15902782"/>
+  <tag k="owner:zh" v="香港電車有限公司"/>
+  <tag k="passenger" v="urban"/>
+  <tag k="railway" v="tram"/>
+  <tag k="railway:preferred_direction" v="forward"/>
+  <tag k="service" v="siding"/>
+  <tag k="surface" v="paved"/>
+  <tag k="voltage" v="550"/>
+ </way>
+ <way id="308827010" visible="true" version="9" changeset="148894328" timestamp="2024-03-20T06:39:38Z" user="Wright One" uid="261189">
+  <nd ref="2300434323"/>
+  <nd ref="6953150637"/>
+  <nd ref="6953150633"/>
+  <nd ref="6953150622"/>
+  <nd ref="6953150585"/>
+  <nd ref="1012751934"/>
+  <nd ref="6953150601"/>
+  <nd ref="8353799764"/>
+  <nd ref="5052297346"/>
+  <nd ref="977634115"/>
+  <nd ref="7009742599"/>
+  <nd ref="6953150611"/>
+  <nd ref="2300434349"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="electrified:contact_line" v="trolley"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1067"/>
+  <tag k="network" v="香港電車 Hong Kong Tramways"/>
+  <tag k="network:en" v="Hong Kong Tramways"/>
+  <tag k="network:wikidata" v="Q385245"/>
+  <tag k="network:zh" v="香港電車"/>
+  <tag k="operator" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="operator:en" v="Hongkong Tramways Limited"/>
+  <tag k="operator:type" v="private"/>
+  <tag k="operator:wikidata" v="Q15902782"/>
+  <tag k="operator:zh" v="香港電車有限公司"/>
+  <tag k="owner" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="owner:en" v="Hongkong Tramways Limited"/>
+  <tag k="ownership" v="private"/>
+  <tag k="owner:wikidata" v="Q15902782"/>
+  <tag k="owner:zh" v="香港電車有限公司"/>
+  <tag k="railway" v="tram"/>
+  <tag k="railway:preferred_direction" v="forward"/>
+  <tag k="surface" v="paved"/>
+  <tag k="usage" v="branch"/>
+  <tag k="voltage" v="550"/>
+ </way>
+ <way id="308827011" visible="true" version="14" changeset="172273747" timestamp="2025-09-22T04:42:32Z" user="seewhyso" uid="9161716">
+  <nd ref="2300434349"/>
+  <nd ref="2300434353"/>
+  <nd ref="2300434361"/>
+  <nd ref="7590272948"/>
+  <nd ref="8034963028"/>
+  <nd ref="2300434402"/>
+  <tag k="addr:street" v="軒尼詩道 Hennessy Road"/>
+  <tag k="addr:street:en" v="Hennessy Road"/>
+  <tag k="addr:street:wikidata" v="Q5714914"/>
+  <tag k="addr:street:zh" v="軒尼詩道"/>
+  <tag k="brand" v="香港電車 Hong Kong Tramways"/>
+  <tag k="brand:en" v="Hong Kong Tramways"/>
+  <tag k="brand:wikidata" v="Q385245"/>
+  <tag k="brand:zh" v="香港電車"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="electrified:contact_line" v="trolley"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1067"/>
+  <tag k="importance" v="primary"/>
+  <tag k="name" v="香港電車 Hong Kong Tramways"/>
+  <tag k="name:en" v="Hong Kong Tramways"/>
+  <tag k="name:zh" v="香港電車"/>
+  <tag k="name:zh-Hans" v="香港电车"/>
+  <tag k="name:zh-Hant" v="香港電車"/>
+  <tag k="network" v="香港電車 Hong Kong Tramways"/>
+  <tag k="network:en" v="Hong Kong Tramways"/>
+  <tag k="network:wikidata" v="Q385245"/>
+  <tag k="network:zh" v="香港電車"/>
+  <tag k="operator" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="operator:en" v="Hongkong Tramways Limited"/>
+  <tag k="operator:type" v="private"/>
+  <tag k="operator:wikidata" v="Q15902782"/>
+  <tag k="operator:zh" v="香港電車有限公司"/>
+  <tag k="owner" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="owner:en" v="Hongkong Tramways Limited"/>
+  <tag k="ownership" v="private"/>
+  <tag k="owner:wikidata" v="Q15902782"/>
+  <tag k="owner:zh" v="香港電車有限公司"/>
+  <tag k="passenger" v="local"/>
+  <tag k="passenger_lines" v="2"/>
+  <tag k="railway" v="tram"/>
+  <tag k="railway:preferred_direction" v="forward"/>
+  <tag k="surface" v="paved"/>
+  <tag k="usage" v="main"/>
+  <tag k="voltage" v="550"/>
+ </way>
+ <way id="717139975" visible="true" version="7" changeset="172273747" timestamp="2025-09-22T04:42:32Z" user="seewhyso" uid="9161716">
+  <nd ref="1898291287"/>
+  <nd ref="12336660610"/>
+  <nd ref="6923799436"/>
+  <nd ref="6923799446"/>
+  <nd ref="1898291290"/>
+  <nd ref="1898227196"/>
+  <nd ref="6923799432"/>
+  <nd ref="1898227198"/>
+  <tag k="addr:street" v="英皇道 King's Road"/>
+  <tag k="addr:street:en" v="King's Road"/>
+  <tag k="addr:street:wikidata" v="Q6411080"/>
+  <tag k="addr:street:zh" v="英皇道"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="electrified:contact_line" v="trolley"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1067"/>
+  <tag k="name" v="香港電車 Hong Kong Tramways"/>
+  <tag k="name:en" v="Hong Kong Tramways"/>
+  <tag k="name:zh" v="香港電車"/>
+  <tag k="name:zh-Hans" v="香港电车"/>
+  <tag k="name:zh-Hant" v="香港電車"/>
+  <tag k="network" v="香港電車 Hong Kong Tramways"/>
+  <tag k="network:en" v="Hong Kong Tramways"/>
+  <tag k="network:wikidata" v="Q385245"/>
+  <tag k="network:zh" v="香港電車"/>
+  <tag k="operator" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="operator:en" v="Hongkong Tramways Limited"/>
+  <tag k="operator:type" v="private"/>
+  <tag k="operator:wikidata" v="Q15902782"/>
+  <tag k="operator:zh" v="香港電車有限公司"/>
+  <tag k="owner" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="owner:en" v="Hongkong Tramways Limited"/>
+  <tag k="ownership" v="private"/>
+  <tag k="owner:wikidata" v="Q15902782"/>
+  <tag k="owner:zh" v="香港電車有限公司"/>
+  <tag k="railway" v="tram"/>
+  <tag k="railway:preferred_direction" v="forward"/>
+  <tag k="surface" v="paved"/>
+  <tag k="usage" v="main"/>
+  <tag k="voltage" v="550"/>
+ </way>
+ <way id="774630445" visible="true" version="3" changeset="172273747" timestamp="2025-09-22T04:42:32Z" user="seewhyso" uid="9161716">
+  <nd ref="1623825585"/>
+  <nd ref="6946660998"/>
+  <nd ref="6946661004"/>
+  <nd ref="1623825586"/>
+  <nd ref="6946660992"/>
+  <nd ref="1623825587"/>
+  <nd ref="6946661003"/>
+  <nd ref="1623825588"/>
+  <nd ref="6946661002"/>
+  <nd ref="6864516589"/>
+  <nd ref="6946661005"/>
+  <nd ref="6864516587"/>
+  <nd ref="1623825591"/>
+  <nd ref="5059357221"/>
+  <nd ref="1898291217"/>
+  <tag k="addr:street" v="英皇道 King's Road"/>
+  <tag k="addr:street:en" v="King's Road"/>
+  <tag k="addr:street:wikidata" v="Q6411080"/>
+  <tag k="addr:street:zh" v="英皇道"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="electrified:contact_line" v="trolley"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1067"/>
+  <tag k="name" v="香港電車 Hong Kong Tramways"/>
+  <tag k="name:en" v="Hong Kong Tramways"/>
+  <tag k="name:zh" v="香港電車"/>
+  <tag k="name:zh-Hans" v="香港电车"/>
+  <tag k="name:zh-Hant" v="香港電車"/>
+  <tag k="network" v="香港電車 Hong Kong Tramways"/>
+  <tag k="network:en" v="Hong Kong Tramways"/>
+  <tag k="network:wikidata" v="Q385245"/>
+  <tag k="network:zh" v="香港電車"/>
+  <tag k="operator" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="operator:en" v="Hongkong Tramways Limited"/>
+  <tag k="operator:type" v="private"/>
+  <tag k="operator:wikidata" v="Q15902782"/>
+  <tag k="operator:zh" v="香港電車有限公司"/>
+  <tag k="owner" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="owner:en" v="Hongkong Tramways Limited"/>
+  <tag k="ownership" v="private"/>
+  <tag k="owner:wikidata" v="Q15902782"/>
+  <tag k="owner:zh" v="香港電車有限公司"/>
+  <tag k="railway" v="tram"/>
+  <tag k="railway:preferred_direction" v="forward"/>
+  <tag k="surface" v="paved"/>
+  <tag k="usage" v="main"/>
+  <tag k="voltage" v="550"/>
+ </way>
+ <way id="774630449" visible="true" version="2" changeset="172139460" timestamp="2025-09-19T03:02:06Z" user="seewhyso" uid="9161716">
+  <nd ref="5098932911"/>
+  <nd ref="487077101"/>
+  <nd ref="3005247199"/>
+  <nd ref="366748693"/>
+  <tag k="addr:street" v="筲箕灣道 Shau Kei Wan Road"/>
+  <tag k="addr:street:en" v="Shau Kei Wan Road"/>
+  <tag k="addr:street:wikidata" v="Q7490741"/>
+  <tag k="addr:street:zh" v="筲箕灣道"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="electrified:contact_line" v="trolley"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1067"/>
+  <tag k="name" v="香港電車 Hong Kong Tramways"/>
+  <tag k="name:en" v="Hong Kong Tramways"/>
+  <tag k="name:zh" v="香港電車"/>
+  <tag k="name:zh-Hans" v="香港电车"/>
+  <tag k="name:zh-Hant" v="香港電車"/>
+  <tag k="network" v="香港電車 Hong Kong Tramways"/>
+  <tag k="network:en" v="Hong Kong Tramways"/>
+  <tag k="network:wikidata" v="Q385245"/>
+  <tag k="network:zh" v="香港電車"/>
+  <tag k="operator" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="operator:en" v="Hongkong Tramways Limited"/>
+  <tag k="operator:type" v="private"/>
+  <tag k="operator:wikidata" v="Q15902782"/>
+  <tag k="operator:zh" v="香港電車有限公司"/>
+  <tag k="owner" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="owner:en" v="Hongkong Tramways Limited"/>
+  <tag k="ownership" v="private"/>
+  <tag k="owner:wikidata" v="Q15902782"/>
+  <tag k="owner:zh" v="香港電車有限公司"/>
+  <tag k="railway" v="tram"/>
+  <tag k="railway:preferred_direction" v="forward"/>
+  <tag k="surface" v="paved"/>
+  <tag k="usage" v="main"/>
+  <tag k="voltage" v="550"/>
+ </way>
+ <way id="774630450" visible="true" version="2" changeset="172139460" timestamp="2025-09-19T03:02:06Z" user="seewhyso" uid="9161716">
+  <nd ref="3005248504"/>
+  <nd ref="5098932913"/>
+  <nd ref="5098932911"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="electrified:contact_line" v="trolley"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1067"/>
+  <tag k="name" v="香港電車 Hong Kong Tramways"/>
+  <tag k="name:en" v="Hong Kong Tramways"/>
+  <tag k="name:zh" v="香港電車"/>
+  <tag k="name:zh-Hans" v="香港电车"/>
+  <tag k="name:zh-Hant" v="香港電車"/>
+  <tag k="network" v="香港電車 Hong Kong Tramways"/>
+  <tag k="network:en" v="Hong Kong Tramways"/>
+  <tag k="network:wikidata" v="Q385245"/>
+  <tag k="network:zh" v="香港電車"/>
+  <tag k="operator" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="operator:en" v="Hongkong Tramways Limited"/>
+  <tag k="operator:type" v="private"/>
+  <tag k="operator:wikidata" v="Q15902782"/>
+  <tag k="operator:zh" v="香港電車有限公司"/>
+  <tag k="owner" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="owner:en" v="Hongkong Tramways Limited"/>
+  <tag k="ownership" v="private"/>
+  <tag k="owner:wikidata" v="Q15902782"/>
+  <tag k="owner:zh" v="香港電車有限公司"/>
+  <tag k="railway" v="tram"/>
+  <tag k="railway:preferred_direction" v="forward"/>
+  <tag k="surface" v="paved"/>
+  <tag k="usage" v="main"/>
+  <tag k="voltage" v="550"/>
+ </way>
+ <way id="774633926" visible="true" version="4" changeset="172273747" timestamp="2025-09-22T04:42:32Z" user="seewhyso" uid="9161716">
+  <nd ref="2300434464"/>
+  <nd ref="8442866826"/>
+  <nd ref="8442866827"/>
+  <nd ref="2300434443"/>
+  <nd ref="8442866829"/>
+  <nd ref="8442866828"/>
+  <nd ref="8442857198"/>
+  <nd ref="2300434248"/>
+  <nd ref="1898508081"/>
+  <tag k="addr:street" v="怡和街 Yee Wo Street"/>
+  <tag k="addr:street:en" v="Yee Wo Street"/>
+  <tag k="addr:street:wikidata" v="Q8051113"/>
+  <tag k="addr:street:zh" v="怡和街"/>
+  <tag k="brand" v="香港電車 Hong Kong Tramways"/>
+  <tag k="brand:en" v="Hong Kong Tramways"/>
+  <tag k="brand:wikidata" v="Q385245"/>
+  <tag k="brand:zh" v="香港電車"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="electrified:contact_line" v="trolley"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1067"/>
+  <tag k="name" v="香港電車 Hong Kong Tramways"/>
+  <tag k="name:en" v="Hong Kong Tramways"/>
+  <tag k="name:zh" v="香港電車"/>
+  <tag k="name:zh-Hans" v="香港电车"/>
+  <tag k="name:zh-Hant" v="香港電車"/>
+  <tag k="network" v="香港電車 Hong Kong Tramways"/>
+  <tag k="network:en" v="Hong Kong Tramways"/>
+  <tag k="network:wikidata" v="Q385245"/>
+  <tag k="network:zh" v="香港電車"/>
+  <tag k="operation" v="private"/>
+  <tag k="operator" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="operator:en" v="Hongkong Tramways Limited"/>
+  <tag k="operator:type" v="private"/>
+  <tag k="operator:wikidata" v="Q15902782"/>
+  <tag k="operator:zh" v="香港電車有限公司"/>
+  <tag k="owner" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="owner:en" v="Hongkong Tramways Limited"/>
+  <tag k="ownership" v="private"/>
+  <tag k="owner:wikidata" v="Q15902782"/>
+  <tag k="owner:zh" v="香港電車有限公司"/>
+  <tag k="passenger" v="local"/>
+  <tag k="passenger_lines" v="2"/>
+  <tag k="railway" v="tram"/>
+  <tag k="railway:preferred_direction" v="forward"/>
+  <tag k="surface" v="paved"/>
+  <tag k="usage" v="main"/>
+  <tag k="voltage" v="550"/>
+ </way>
+ <way id="774633927" visible="true" version="2" changeset="172273747" timestamp="2025-09-22T04:42:32Z" user="seewhyso" uid="9161716">
+  <nd ref="2300434402"/>
+  <nd ref="2705355319"/>
+  <nd ref="2300434411"/>
+  <tag k="addr:street" v="軒尼詩道 Hennessy Road"/>
+  <tag k="addr:street:en" v="Hennessy Road"/>
+  <tag k="addr:street:wikidata" v="Q5714914"/>
+  <tag k="addr:street:zh" v="軒尼詩道"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="electrified:contact_line" v="trolley"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1067"/>
+  <tag k="name" v="香港電車 Hong Kong Tramways"/>
+  <tag k="name:en" v="Hong Kong Tramways"/>
+  <tag k="name:zh" v="香港電車"/>
+  <tag k="name:zh-Hans" v="香港电车"/>
+  <tag k="name:zh-Hant" v="香港電車"/>
+  <tag k="network" v="香港電車 Hong Kong Tramways"/>
+  <tag k="network:en" v="Hong Kong Tramways"/>
+  <tag k="network:wikidata" v="Q385245"/>
+  <tag k="network:zh" v="香港電車"/>
+  <tag k="operator" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="operator:en" v="Hongkong Tramways Limited"/>
+  <tag k="operator:type" v="private"/>
+  <tag k="operator:wikidata" v="Q15902782"/>
+  <tag k="operator:zh" v="香港電車有限公司"/>
+  <tag k="owner" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="owner:en" v="Hongkong Tramways Limited"/>
+  <tag k="ownership" v="private"/>
+  <tag k="owner:wikidata" v="Q15902782"/>
+  <tag k="owner:zh" v="香港電車有限公司"/>
+  <tag k="railway" v="tram"/>
+  <tag k="railway:preferred_direction" v="forward"/>
+  <tag k="surface" v="paved"/>
+  <tag k="usage" v="main"/>
+  <tag k="voltage" v="550"/>
+ </way>
+ <way id="774633929" visible="true" version="2" changeset="172273747" timestamp="2025-09-22T04:42:32Z" user="seewhyso" uid="9161716">
+  <nd ref="982684035"/>
+  <nd ref="1623825560"/>
+  <nd ref="6475303983"/>
+  <nd ref="6475303981"/>
+  <nd ref="6961195448"/>
+  <nd ref="1623825582"/>
+  <nd ref="6961195449"/>
+  <nd ref="7160938991"/>
+  <nd ref="1898507940"/>
+  <nd ref="1898508203"/>
+  <nd ref="1623825585"/>
+  <tag k="addr:street" v="高士威道 Causeway Road"/>
+  <tag k="addr:street:en" v="Causeway Road"/>
+  <tag k="addr:street:wikidata" v="Q5054658"/>
+  <tag k="addr:street:zh" v="高士威道"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="electrified:contact_line" v="trolley"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1067"/>
+  <tag k="name" v="香港電車 Hong Kong Tramways"/>
+  <tag k="name:en" v="Hong Kong Tramways"/>
+  <tag k="name:zh" v="香港電車"/>
+  <tag k="name:zh-Hans" v="香港电车"/>
+  <tag k="name:zh-Hant" v="香港電車"/>
+  <tag k="network" v="香港電車 Hong Kong Tramways"/>
+  <tag k="network:en" v="Hong Kong Tramways"/>
+  <tag k="network:wikidata" v="Q385245"/>
+  <tag k="network:zh" v="香港電車"/>
+  <tag k="operator" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="operator:en" v="Hongkong Tramways Limited"/>
+  <tag k="operator:type" v="private"/>
+  <tag k="operator:wikidata" v="Q15902782"/>
+  <tag k="operator:zh" v="香港電車有限公司"/>
+  <tag k="owner" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="owner:en" v="Hongkong Tramways Limited"/>
+  <tag k="ownership" v="private"/>
+  <tag k="owner:wikidata" v="Q15902782"/>
+  <tag k="owner:zh" v="香港電車有限公司"/>
+  <tag k="railway" v="tram"/>
+  <tag k="railway:preferred_direction" v="forward"/>
+  <tag k="surface" v="paved"/>
+  <tag k="usage" v="main"/>
+  <tag k="voltage" v="550"/>
+ </way>
+ <relation id="4088517" visible="true" version="18" changeset="127578166" timestamp="2022-10-15T16:11:05Z" user="Purin128" uid="12461901">
+  <member type="node" ref="292205443" role="stop_entry_only"/>
+  <member type="node" ref="3112111425" role="stop"/>
+  <member type="node" ref="982743784" role="stop"/>
+  <member type="node" ref="3112114532" role="stop"/>
+  <member type="node" ref="2007744664" role="stop"/>
+  <member type="node" ref="2300434361" role="stop"/>
+  <member type="node" ref="2300360770" role="stop"/>
+  <member type="node" ref="2300434248" role="stop"/>
+  <member type="node" ref="1623825560" role="stop"/>
+  <member type="node" ref="1623825582" role="stop"/>
+  <member type="node" ref="1898507940" role="stop"/>
+  <member type="node" ref="1898291240" role="stop"/>
+  <member type="node" ref="2099848103" role="stop"/>
+  <member type="node" ref="2099848102" role="stop"/>
+  <member type="node" ref="3112418730" role="stop"/>
+  <member type="node" ref="3112418732" role="stop"/>
+  <member type="node" ref="3112418734" role="stop"/>
+  <member type="node" ref="3005197215" role="stop"/>
+  <member type="node" ref="3005197214" role="stop"/>
+  <member type="node" ref="2941505392" role="stop"/>
+  <member type="node" ref="3005197213" role="stop"/>
+  <member type="node" ref="2941505370" role="stop"/>
+  <member type="node" ref="3005197216" role="stop"/>
+  <member type="node" ref="2941505318" role="stop"/>
+  <member type="node" ref="3005247199" role="stop"/>
+  <member type="node" ref="3005247197" role="stop"/>
+  <member type="node" ref="3005247201" role="stop"/>
+  <member type="node" ref="3005247191" role="stop"/>
+  <member type="node" ref="3005247194" role="stop"/>
+  <member type="node" ref="3005247188" role="stop"/>
+  <member type="node" ref="984409308" role="stop_exit_only"/>
+  <member type="way" ref="308827005" role=""/>
+  <member type="way" ref="87081172" role=""/>
+  <member type="way" ref="84588466" role=""/>
+  <member type="way" ref="308827010" role=""/>
+  <member type="way" ref="308827011" role=""/>
+  <member type="way" ref="774633927" role=""/>
+  <member type="way" ref="220977132" role=""/>
+  <member type="way" ref="774633926" role=""/>
+  <member type="way" ref="149397377" role=""/>
+  <member type="way" ref="308827000" role=""/>
+  <member type="way" ref="774633929" role=""/>
+  <member type="way" ref="774630445" role=""/>
+  <member type="way" ref="179452216" role=""/>
+  <member type="way" ref="179445712" role=""/>
+  <member type="way" ref="717139975" role=""/>
+  <member type="way" ref="179445718" role=""/>
+  <member type="way" ref="230987768" role=""/>
+  <member type="way" ref="85392439" role=""/>
+  <member type="way" ref="774630450" role=""/>
+  <member type="way" ref="774630449" role=""/>
+  <member type="way" ref="86811668" role=""/>
+  <member type="way" ref="86811712" role=""/>
+  <member type="way" ref="86811686" role=""/>
+  <member type="way" ref="296714050" role=""/>
+  <member type="way" ref="296714062" role=""/>
+  <member type="way" ref="296714049" role=""/>
+  <member type="way" ref="296714060" role=""/>
+  <tag k="brand" v="香港電車 Hong Kong Tramways"/>
+  <tag k="brand:en" v="Hong Kong Tramways"/>
+  <tag k="brand:wikidata" v="Q385245"/>
+  <tag k="brand:zh" v="香港電車"/>
+  <tag k="colour" v="#D22A3D"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="electrified:contact_line" v="trolley"/>
+  <tag k="frequency" v="0"/>
+  <tag k="from" v="跑馬地 Happy Valley"/>
+  <tag k="from:en" v="Happy Valley"/>
+  <tag k="from:zh" v="跑馬地"/>
+  <tag k="gauge" v="1067"/>
+  <tag k="importance" v="trunk"/>
+  <tag k="name" v="香港電車筲箕灣至跑馬地 Hong Kong Tramways Shau Kei Wan to Happy Valley"/>
+  <tag k="name:en" v="Hong Kong Tramways Shau Kei Wan to Happy Valley\"/>
+  <tag k="name:zh" v="香港電車筲箕灣至跑馬地"/>
+  <tag k="network" v="香港電車 Hong Kong Tramways"/>
+  <tag k="network:en" v="Hong Kong Tramways"/>
+  <tag k="network:zh" v="香港電車"/>
+  <tag k="network:zh-Hans" v="香港电车"/>
+  <tag k="network:zh-Hant" v="香港電車"/>
+  <tag k="not:network:wikidata" v="Q385245"/>
+  <tag k="official_name" v="筲箕灣至跑馬地 Shau Kei Wan to Happy Valley"/>
+  <tag k="official_name:en" v="Shau Kei Wan to Happy Valley"/>
+  <tag k="official_name:zh" v="筲箕灣至跑馬地"/>
+  <tag k="operation" v="private"/>
+  <tag k="operator" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="operator:en" v="Hongkong Tramways Limited"/>
+  <tag k="operator:wikidata" v="Q15902782"/>
+  <tag k="operator:zh" v="香港電車有限公司"/>
+  <tag k="owner" v="香港電車有限公司 Hongkong Tramways Limited"/>
+  <tag k="owner:en" v="Hongkong Tramways Limited"/>
+  <tag k="ownership" v="private"/>
+  <tag k="owner:wikidata" v="Q15902782"/>
+  <tag k="owner:zh" v="香港電車有限公司"/>
+  <tag k="passenger" v="urban"/>
+  <tag k="route" v="tram"/>
+  <tag k="service" v="normal"/>
+  <tag k="to" v="筲箕灣 Shau Kei Wan"/>
+  <tag k="to:en" v="Shau Kei Wan"/>
+  <tag k="to:zh" v="筲箕灣"/>
+  <tag k="type" v="route"/>
+  <tag k="voltage" v="550"/>
+ </relation>
+</osm>
